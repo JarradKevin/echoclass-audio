@@ -96,6 +96,9 @@ function renderIntro() {
 function renderEpisode() {
   const lines = state.transcript;
   app.innerHTML = `
+    <div class="begin-lesson-wrap" id="begin-lesson-wrap">
+      <button id="begin-lesson-btn" class="btn btn-primary btn-large">${playIcon} Begin Lesson</button>
+    </div>
     <div class="player-card">
       <div class="player-row">
         <button id="play-btn" class="play-btn" aria-label="Play">${playIcon}</button>
@@ -179,9 +182,14 @@ function renderEpisode() {
     if (audio.paused) audio.play().catch(() => {});
     else audio.pause();
   });
+  document.getElementById("begin-lesson-btn").addEventListener("click", () => {
+    audio.play().catch(() => {});
+  });
   audio.addEventListener("play", () => {
     playBtn.innerHTML = pauseIcon;
     playBtn.setAttribute("aria-label", "Pause");
+    const beginWrap = document.getElementById("begin-lesson-wrap");
+    if (beginWrap) beginWrap.remove(); // served its purpose once playback has actually started
     requestAnimationFrame(tick);
   });
   audio.addEventListener("pause", () => {

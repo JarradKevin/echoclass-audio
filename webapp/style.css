@@ -152,6 +152,14 @@ input:focus-visible,
   color: var(--ink-faint);
   cursor: not-allowed;
 }
+.btn-large {
+  padding: 16px 32px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  gap: 10px;
+  box-shadow: var(--shadow);
+}
+.btn-large svg { width: 20px; height: 20px; }
 .btn-ghost {
   background: transparent;
   border-color: transparent;
@@ -211,6 +219,11 @@ input:focus-visible,
   font-family: inherit;
 }
 .text-input:focus-visible { outline: 2px solid var(--coral); outline-offset: 1px; }
+
+.begin-lesson-wrap {
+  text-align: center;
+  margin-top: 32px;
+}
 
 /* ===== Player ===== */
 .player-card {
