@@ -300,9 +300,9 @@ function renderQuiz() {
       ${GATES.map(
         (g, gi) => `
         <div class="q-card" id="q-${gi}">
-          <div class="q-eyebrow">${g.label}</div>
+          <div class="q-eyebrow">Question ${gi + 1} of ${GATES.length}</div>
           <h3>${g.question}</h3>
-          <div class="opt-list" role="group" aria-label="${g.label} options">
+          <div class="opt-list" role="group" aria-label="Question ${gi + 1} options">
             ${g.options
               .map(
                 (opt, oi) => `
