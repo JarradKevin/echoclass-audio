@@ -6,6 +6,38 @@ const AUDIO_SRC = "../lesson-episode/audio.mp3";
 const TRANSCRIPT_SRC = "../lesson-episode/transcript.json";
 const DEFAULT_VOLUME = 0.7;
 const REDUCE_MOTION = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const PENDING_KEY = "echoclass_pending_results";
+
+// If a result couldn't reach the server (blocked wifi, dead connection), keep
+// it in localStorage and try again next time this page loads on this device.
+function queuePendingResult(payload) {
+  try {
+    const queue = JSON.parse(localStorage.getItem(PENDING_KEY) || "[]");
+    queue.push(payload);
+    localStorage.setItem(PENDING_KEY, JSON.stringify(queue));
+  } catch {
+    // localStorage unavailable (private browsing, storage full) — nothing more we can do
+  }
+}
+
+async function flushPendingResults() {
+  let queue;
+  try {
+    queue = JSON.parse(localStorage.getItem(PENDING_KEY) || "[]");
+  } catch {
+    return;
+  }
+  if (queue.length === 0) return;
+  const stillPending = [];
+  for (const payload of queue) {
+    try {
+      await createDoc(RESULTS_COLLECTION, { ...payload, completedAt: new Date(payload.completedAt) });
+    } catch {
+      stillPending.push(payload);
+    }
+  }
+  localStorage.setItem(PENDING_KEY, JSON.stringify(stillPending));
+}
 
 const app = document.getElementById("app");
 const state = {
@@ -316,15 +348,17 @@ async function submitQuiz() {
     document.getElementById(`fb-${gi}`).textContent = g.feedback;
   });
 
-  const save = createDoc(RESULTS_COLLECTION, {
+  const payload = {
     studentName: state.studentName,
     answers: answerRecords,
     score,
     totalGates: GATES.length,
     skippedWithoutListening: state.everSkippedToQuiz && !state.everListened,
     relistened: state.relistenCount > 0,
-    completedAt: new Date(),
-  });
+    completedAt: new Date().toISOString(),
+  };
+
+  const save = createDoc(RESULTS_COLLECTION, { ...payload, completedAt: new Date(payload.completedAt) });
   const timeout = new Promise((resolve) => setTimeout(() => resolve("timeout"), 8000));
 
   let saveFailed = false;
@@ -335,6 +369,9 @@ async function submitQuiz() {
     console.error("Failed to save result:", err);
     saveFailed = true;
   }
+  save.catch(() => {}); // avoid an unhandled-rejection if it loses the race and fails later
+
+  if (saveFailed) queuePendingResult(payload);
 
   submitBtn.textContent = saveFailed ? "Submitted (offline)" : "Submitted";
   renderResultsBanner(score, saveFailed);
@@ -344,7 +381,7 @@ function renderResultsBanner(score, saveFailed) {
   const results = document.createElement("div");
   results.className = "results";
   const message = saveFailed
-    ? `Nice work, ${escapeHtml(state.studentName)}. Your results are saved on this device, but couldn't reach the teacher dashboard just now — let your teacher know if this keeps happening.`
+    ? `Nice work, ${escapeHtml(state.studentName)}. Couldn't reach the teacher dashboard just now, so your results are saved on this device and will send automatically next time this page is open with a working connection — no need to redo anything.`
     : `Nice work, ${escapeHtml(state.studentName)}. Your results have been sent to your teacher's dashboard.`;
   results.innerHTML = `
     <div class="score-badge">${score}<span>/ ${GATES.length}</span></div>
@@ -370,6 +407,7 @@ async function boot() {
   } catch (err) {
     app.innerHTML = `<p style="padding-top:60px;color:var(--bad)">Couldn't load the episode transcript. (${err.message})</p>`;
   }
+  flushPendingResults(); // opportunistic retry of any result stuck from a previous offline submit
 }
 
 boot();

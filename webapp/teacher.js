@@ -7,6 +7,12 @@ const POLL_INTERVAL_MS = 5000;
 const app = document.getElementById("app");
 const seenIds = new Set();
 let firstLoad = true;
+let hasLoadedOnce = false;
+
+const connToast = document.createElement("div");
+connToast.className = "conn-toast";
+connToast.textContent = "Connection trouble — showing the last results that loaded. Retrying…";
+document.body.appendChild(connToast);
 
 function fmtWhen(ts) {
   if (!ts) return "just now";
@@ -151,8 +157,15 @@ async function poll() {
     const attempts = await listDocs(RESULTS_COLLECTION);
     attempts.sort((a, b) => (b.completedAt?.getTime() || 0) - (a.completedAt?.getTime() || 0));
     render(attempts);
+    hasLoadedOnce = true;
+    connToast.classList.remove("visible");
   } catch (err) {
-    app.innerHTML = `<p style="padding-top:60px;color:var(--bad)">Couldn't connect to live results. (${err.message})</p>`;
+    if (!hasLoadedOnce) {
+      app.innerHTML = `<p style="padding-top:60px;color:var(--bad)">Couldn't connect to live results. (${err.message})</p>`;
+    } else {
+      // Keep showing the last successful render; don't wipe the dashboard over a blip.
+      connToast.classList.add("visible");
+    }
   }
 }
 
