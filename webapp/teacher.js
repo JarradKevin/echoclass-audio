@@ -36,6 +36,8 @@ function render(attempts) {
   const total = attempts.length;
   const avgScore = attempts.reduce((sum, a) => sum + a.score, 0) / total;
   const mostRecent = attempts[0];
+  const skippedCount = attempts.filter((a) => a.skippedWithoutListening).length;
+  const relistenedCount = attempts.filter((a) => a.relistened).length;
 
   // per-gate tallies
   const gateStats = GATES.map((g, gi) => {
@@ -68,6 +70,8 @@ function render(attempts) {
       <div class="stat-card"><div class="stat-label">Average score</div><div class="stat-value">${avgScore.toFixed(1)} <span style="font-size:1rem;color:var(--ink-faint)">/ ${GATES.length}</span></div></div>
       <div class="stat-card"><div class="stat-label">Most recent</div><div class="stat-value" style="font-size:1.1rem;">${escapeHtml(mostRecent.studentName)}</div></div>
       <div class="stat-card"><div class="stat-label">Last activity</div><div class="stat-value" style="font-size:1.1rem;">${fmtWhen(mostRecent.completedAt)}</div></div>
+      <div class="stat-card"><div class="stat-label">Skipped w/o listening</div><div class="stat-value${skippedCount ? " warn" : ""}">${skippedCount}</div></div>
+      <div class="stat-card"><div class="stat-label">Relistened</div><div class="stat-value">${relistenedCount}</div></div>
     </div>
 
     <div class="section-title">
@@ -114,16 +118,23 @@ function render(attempts) {
       <span class="hint">${total} completed</span>
     </div>
     <table class="roster">
-      <thead><tr><th>Student</th><th>Score</th><th>Completed</th></tr></thead>
+      <thead><tr><th>Student</th><th>Score</th><th>Completed</th><th>Notes</th></tr></thead>
       <tbody>
         ${attempts
           .map((a) => {
             const isNew = !seenIds.has(a.id) && !firstLoad;
+            const notes = [
+              a.skippedWithoutListening ? `<span class="chip note-chip warn">Skipped, never listened</span>` : "",
+              a.relistened ? `<span class="chip note-chip">Relistened</span>` : "",
+            ]
+              .filter(Boolean)
+              .join(" ");
             return `
             <tr class="${isNew ? "new-row" : ""}">
               <td>${escapeHtml(a.studentName)}</td>
               <td class="score-cell">${a.score} / ${GATES.length}</td>
               <td class="mono">${fmtWhen(a.completedAt)}</td>
+              <td>${notes || "—"}</td>
             </tr>`;
           })
           .join("")}

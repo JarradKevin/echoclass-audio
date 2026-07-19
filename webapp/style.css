@@ -173,6 +173,18 @@ input:focus-visible,
   border-color: var(--teal);
   color: var(--teal-deep);
 }
+.note-chip {
+  font-size: 0.74rem;
+  padding: 3px 10px;
+  background: var(--teal-wash);
+  border-color: var(--teal);
+  color: var(--teal-deep);
+}
+.note-chip.warn {
+  background: var(--warn-wash);
+  border-color: var(--warn);
+  color: var(--warn);
+}
 
 /* ===== Intro card ===== */
 .intro {
@@ -413,6 +425,7 @@ input:focus-visible,
 .stat-card .stat-label { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-faint); }
 .stat-card .stat-value { font-size: 1.9rem; font-weight: 600; margin-top: 4px; }
 .stat-card .stat-value.accent { color: var(--coral); }
+.stat-card .stat-value.warn { color: var(--warn); }
 
 .section-title {
   display: flex;
@@ -527,6 +540,23 @@ input:focus-visible,
   border: 1px dashed var(--line);
   border-radius: var(--radius);
   color: var(--ink-faint);
+}
+
+.quiz-notice {
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+}
+.quiz-notice p {
+  margin: 0 0 12px;
+  color: var(--ink-faint);
+  font-size: 0.88rem;
+}
+
+.quiz-intro #relisten-btn {
+  margin-top: 18px;
 }
 
 footer.foot {

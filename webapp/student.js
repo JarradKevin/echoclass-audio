@@ -15,6 +15,9 @@ const state = {
   audio: null,
   answers: new Array(GATES.length).fill(null),
   submitted: false,
+  everListened: false, // real playback progress happened at least once
+  everSkippedToQuiz: false, // "skip to quiz" was used at least once
+  relistenCount: 0,
 };
 
 const playIcon = `<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M4 2.5v11l10-5.5-10-5.5Z" fill="currentColor"/></svg>`;
@@ -98,6 +101,10 @@ function renderEpisode() {
         )
         .join("")}
     </div>
+    <div class="quiz-notice">
+      <p>A short 4-question check-in loads automatically once the episode ends.</p>
+      <button id="skip-to-quiz-btn" class="btn btn-ghost">Skip to quiz →</button>
+    </div>
   `;
 
   const audio = new Audio(AUDIO_SRC);
@@ -162,9 +169,16 @@ function renderEpisode() {
       seek.value = audio.duration ? (audio.currentTime / audio.duration) * 1000 : 0;
       timeCurrent.textContent = fmtTime(audio.currentTime);
     }
+    if (audio.currentTime > 2) state.everListened = true;
   });
 
   audio.addEventListener("ended", () => {
+    renderQuiz();
+  });
+
+  document.getElementById("skip-to-quiz-btn").addEventListener("click", () => {
+    state.everSkippedToQuiz = true;
+    audio.pause();
     renderQuiz();
   });
 
@@ -223,6 +237,7 @@ function renderQuiz() {
       <span class="eyebrow">Check-in</span>
       <h2>Four quick questions</h2>
       <p>Answer all four, then submit — feedback for every question appears together at the end.</p>
+      <button id="relisten-btn" class="btn btn-ghost">↺ Relisten to the episode first</button>
     </div>
     <div class="quiz-list">
       ${GATES.map(
@@ -266,6 +281,11 @@ function renderQuiz() {
   });
 
   document.getElementById("submit-btn").addEventListener("click", submitQuiz);
+
+  document.getElementById("relisten-btn").addEventListener("click", () => {
+    state.relistenCount++;
+    renderEpisode();
+  });
 }
 
 async function submitQuiz() {
@@ -273,6 +293,8 @@ async function submitQuiz() {
   const submitBtn = document.getElementById("submit-btn");
   submitBtn.disabled = true;
   submitBtn.textContent = "Saving…";
+  const relistenBtn = document.getElementById("relisten-btn");
+  if (relistenBtn) relistenBtn.disabled = true;
 
   let score = 0;
   const answerRecords = GATES.map((g, gi) => {
@@ -299,6 +321,8 @@ async function submitQuiz() {
     answers: answerRecords,
     score,
     totalGates: GATES.length,
+    skippedWithoutListening: state.everSkippedToQuiz && !state.everListened,
+    relistened: state.relistenCount > 0,
     completedAt: new Date(),
   });
   const timeout = new Promise((resolve) => setTimeout(() => resolve("timeout"), 8000));
