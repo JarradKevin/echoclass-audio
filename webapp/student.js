@@ -1,9 +1,5 @@
-import { db, RESULTS_COLLECTION } from "./firebase-config.js";
-import {
-  collection,
-  addDoc,
-  serverTimestamp,
-} from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
+import { RESULTS_COLLECTION } from "./firebase-config.js";
+import { createDoc } from "./firestore-rest.js";
 import { GATES, OPTION_LETTERS } from "./gates.js";
 
 const AUDIO_SRC = "../lesson-episode/audio.mp3";
@@ -281,12 +277,12 @@ async function submitQuiz() {
     document.getElementById(`fb-${gi}`).textContent = g.feedback;
   });
 
-  const save = addDoc(collection(db, RESULTS_COLLECTION), {
+  const save = createDoc(RESULTS_COLLECTION, {
     studentName: state.studentName,
     answers: answerRecords,
     score,
     totalGates: GATES.length,
-    completedAt: serverTimestamp(),
+    completedAt: new Date(),
   });
   const timeout = new Promise((resolve) => setTimeout(() => resolve("timeout"), 8000));
 

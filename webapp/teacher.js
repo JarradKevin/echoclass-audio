@@ -1,11 +1,8 @@
-import { db, RESULTS_COLLECTION } from "./firebase-config.js";
-import {
-  collection,
-  query,
-  orderBy,
-  onSnapshot,
-} from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
+import { RESULTS_COLLECTION } from "./firebase-config.js";
+import { listDocs } from "./firestore-rest.js";
 import { GATES, OPTION_LETTERS } from "./gates.js";
+
+const POLL_INTERVAL_MS = 5000;
 
 const app = document.getElementById("app");
 const seenIds = new Set();
@@ -13,7 +10,7 @@ let firstLoad = true;
 
 function fmtWhen(ts) {
   if (!ts) return "just now";
-  const d = ts.toDate ? ts.toDate() : new Date(ts);
+  const d = ts instanceof Date ? ts : new Date(ts);
   return d.toLocaleString(undefined, {
     month: "short",
     day: "numeric",
@@ -138,18 +135,19 @@ function render(attempts) {
   firstLoad = false;
 }
 
+async function poll() {
+  try {
+    const attempts = await listDocs(RESULTS_COLLECTION);
+    attempts.sort((a, b) => (b.completedAt?.getTime() || 0) - (a.completedAt?.getTime() || 0));
+    render(attempts);
+  } catch (err) {
+    app.innerHTML = `<p style="padding-top:60px;color:var(--bad)">Couldn't connect to live results. (${err.message})</p>`;
+  }
+}
+
 function boot() {
-  const q = query(collection(db, RESULTS_COLLECTION), orderBy("completedAt", "desc"));
-  onSnapshot(
-    q,
-    (snapshot) => {
-      const attempts = snapshot.docs.map((d) => ({ id: d.id, ...d.data() }));
-      render(attempts);
-    },
-    (err) => {
-      app.innerHTML = `<p style="padding-top:60px;color:var(--bad)">Couldn't connect to live results. (${err.message})</p>`;
-    }
-  );
+  poll();
+  setInterval(poll, POLL_INTERVAL_MS);
 }
 
 boot();
