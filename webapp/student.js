@@ -119,6 +119,7 @@ function renderEpisode() {
           <span class="volume-value" id="volume-value">${Math.round(DEFAULT_VOLUME * 100)}%</span>
         </div>
       </div>
+      <p id="audio-error" class="audio-error" hidden>Having trouble loading the audio. Check your connection and try reloading this page — or use "Skip to quiz" below if you need to move on.</p>
     </div>
     <div id="transcript" class="transcript">
       ${lines
@@ -143,6 +144,10 @@ function renderEpisode() {
   audio.preload = "metadata";
   audio.volume = DEFAULT_VOLUME;
   state.audio = audio;
+
+  audio.addEventListener("error", () => {
+    document.getElementById("audio-error").hidden = false;
+  });
 
   const playBtn = document.getElementById("play-btn");
   const seek = document.getElementById("seek");
