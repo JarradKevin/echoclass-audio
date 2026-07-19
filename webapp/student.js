@@ -5,6 +5,7 @@ import { GATES, OPTION_LETTERS } from "./gates.js";
 const AUDIO_SRC = "../lesson-episode/audio.mp3";
 const TRANSCRIPT_SRC = "../lesson-episode/transcript.json";
 const DEFAULT_VOLUME = 0.7;
+const QUIZ_TRIGGER_TIME = 450; // ~7:30 — let the music fade out play in the background instead of making students wait for it
 const REDUCE_MOTION = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const PENDING_KEY = "echoclass_pending_results";
 
@@ -135,7 +136,7 @@ function renderEpisode() {
         .join("")}
     </div>
     <div class="quiz-notice">
-      <p>A short 4-question check-in loads automatically once the episode ends.</p>
+      <p>A short 4-question check-in loads automatically near the end of the episode, while the music finishes playing in the background.</p>
       <button id="skip-to-quiz-btn" class="btn btn-ghost">Skip to quiz →</button>
     </div>
   `;
@@ -156,6 +157,13 @@ function renderEpisode() {
   const volume = document.getElementById("volume");
   const volumeValue = document.getElementById("volume-value");
   let seeking = false;
+  let quizTriggered = false;
+
+  function triggerQuiz() {
+    if (quizTriggered) return;
+    quizTriggered = true;
+    renderQuiz();
+  }
 
   volume.addEventListener("input", () => {
     const v = parseInt(volume.value, 10);
@@ -207,16 +215,19 @@ function renderEpisode() {
       timeCurrent.textContent = fmtTime(audio.currentTime);
     }
     if (audio.currentTime > 2) state.everListened = true;
+    // Let the quiz appear while the music fade-out keeps playing quietly in the
+    // background, rather than making students wait through the whole tail.
+    if (audio.currentTime >= QUIZ_TRIGGER_TIME) triggerQuiz();
   });
 
   audio.addEventListener("ended", () => {
-    renderQuiz();
+    triggerQuiz();
   });
 
   document.getElementById("skip-to-quiz-btn").addEventListener("click", () => {
     state.everSkippedToQuiz = true;
     audio.pause();
-    renderQuiz();
+    triggerQuiz();
   });
 
   let lastLineIndex = -1;
@@ -269,6 +280,7 @@ function escapeHtml(s) {
 
 // ---------- Screen 3: quiz ----------
 function renderQuiz() {
+  window.scrollTo(0, 0);
   app.innerHTML = `
     <div class="quiz-intro">
       <span class="eyebrow">Check-in</span>
@@ -321,6 +333,7 @@ function renderQuiz() {
 
   document.getElementById("relisten-btn").addEventListener("click", () => {
     state.relistenCount++;
+    if (state.audio) state.audio.pause(); // the previous audio may still be playing quietly in the background
     renderEpisode();
   });
 }
