@@ -4,6 +4,7 @@ import { GATES, OPTION_LETTERS } from "./gates.js";
 
 const AUDIO_SRC = "../lesson-episode/audio.mp3";
 const TRANSCRIPT_SRC = "../lesson-episode/transcript.json";
+const DEFAULT_VOLUME = 0.7;
 const REDUCE_MOTION = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 const app = document.getElementById("app");
@@ -67,14 +68,21 @@ function renderEpisode() {
           <div class="time-row"><span id="time-current">0:00</span><span id="time-total">0:00</span></div>
         </div>
       </div>
-      <div class="speed-row">
-        <span class="field-label">Speed</span>
-        ${[0.75, 1, 1.25, 1.5]
-          .map(
-            (r) =>
-              `<button class="chip speed-chip" data-rate="${r}" aria-pressed="${r === 1}">${r}×</button>`
-          )
-          .join("")}
+      <div class="controls-row">
+        <div class="control-group">
+          <span class="field-label">Speed</span>
+          ${[0.75, 1, 1.25, 1.5]
+            .map(
+              (r) =>
+                `<button class="chip speed-chip" data-rate="${r}" aria-pressed="${r === 1}">${r}×</button>`
+            )
+            .join("")}
+        </div>
+        <div class="control-group">
+          <span class="field-label">Volume</span>
+          <input id="volume" class="volume-slider" type="range" min="0" max="100" value="${Math.round(DEFAULT_VOLUME * 100)}" aria-label="Volume" />
+          <span class="volume-value" id="volume-value">${Math.round(DEFAULT_VOLUME * 100)}%</span>
+        </div>
       </div>
     </div>
     <div id="transcript" class="transcript">
@@ -94,13 +102,22 @@ function renderEpisode() {
 
   const audio = new Audio(AUDIO_SRC);
   audio.preload = "metadata";
+  audio.volume = DEFAULT_VOLUME;
   state.audio = audio;
 
   const playBtn = document.getElementById("play-btn");
   const seek = document.getElementById("seek");
   const timeCurrent = document.getElementById("time-current");
   const timeTotal = document.getElementById("time-total");
+  const volume = document.getElementById("volume");
+  const volumeValue = document.getElementById("volume-value");
   let seeking = false;
+
+  volume.addEventListener("input", () => {
+    const v = parseInt(volume.value, 10);
+    audio.volume = v / 100;
+    volumeValue.textContent = `${v}%`;
+  });
 
   audio.addEventListener("loadedmetadata", () => {
     timeTotal.textContent = fmtTime(audio.duration);
