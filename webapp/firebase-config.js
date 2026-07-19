@@ -6,13 +6,12 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/fireba
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  // PASTE_YOUR_FIREBASE_CONFIG_HERE
-  apiKey: "REPLACE_ME",
-  authDomain: "REPLACE_ME",
-  projectId: "REPLACE_ME",
-  storageBucket: "REPLACE_ME",
-  messagingSenderId: "REPLACE_ME",
-  appId: "REPLACE_ME",
+  apiKey: "AIzaSyBcnD0EHi9bk2HosMzJGh_eFBx4XWPAIZI",
+  authDomain: "echoclass-44559.firebaseapp.com",
+  projectId: "echoclass-44559",
+  storageBucket: "echoclass-44559.firebasestorage.app",
+  messagingSenderId: "662434370312",
+  appId: "1:662434370312:web:ebb5cb5c47f9bf592452bd",
 };
 
 export const app = initializeApp(firebaseConfig);
