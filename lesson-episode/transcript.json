@@ -1,0 +1,5122 @@
+[
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "SAM",
+    "text": "Right now, while you're sitting there \u2014 about 37 trillion things are keeping you alive.",
+    "start": 5.54,
+    "end": 12.38,
+    "words": [
+      {
+        "text": "Right",
+        "start": 5.54,
+        "end": 5.72
+      },
+      {
+        "text": "now,",
+        "start": 5.76,
+        "end": 6.02
+      },
+      {
+        "text": "while",
+        "start": 6.62,
+        "end": 6.74
+      },
+      {
+        "text": "you're",
+        "start": 6.78,
+        "end": 6.88
+      },
+      {
+        "text": "sitting",
+        "start": 6.94,
+        "end": 7.16
+      },
+      {
+        "text": "there",
+        "start": 7.2,
+        "end": 7.38
+      },
+      {
+        "text": "\u2014",
+        "start": 8.38,
+        "end": 8.381
+      },
+      {
+        "text": "about",
+        "start": 8.44,
+        "end": 8.68
+      },
+      {
+        "text": "37 trillion",
+        "start": 8.88,
+        "end": 10.28
+      },
+      {
+        "text": "things",
+        "start": 10.4,
+        "end": 10.92
+      },
+      {
+        "text": "are",
+        "start": 11.28,
+        "end": 11.42
+      },
+      {
+        "text": "keeping",
+        "start": 11.46,
+        "end": 11.71
+      },
+      {
+        "text": "you",
+        "start": 11.78,
+        "end": 11.86
+      },
+      {
+        "text": "alive.",
+        "start": 11.9,
+        "end": 12.38
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "MAYA",
+    "text": "37 trillion.",
+    "start": 13.44,
+    "end": 14.84,
+    "words": [
+      {
+        "text": "37 trillion.",
+        "start": 13.44,
+        "end": 14.84
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "SAM",
+    "text": "Give or take. And every single one of them has a job.",
+    "start": 15.76,
+    "end": 20.44,
+    "words": [
+      {
+        "text": "Give",
+        "start": 15.76,
+        "end": 15.86
+      },
+      {
+        "text": "or",
+        "start": 15.88,
+        "end": 15.94
+      },
+      {
+        "text": "take.",
+        "start": 16.0,
+        "end": 16.2
+      },
+      {
+        "text": "And",
+        "start": 17.44,
+        "end": 17.6
+      },
+      {
+        "text": "every",
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "text": "single",
+        "start": 18.3,
+        "end": 18.6
+      },
+      {
+        "text": "one",
+        "start": 18.72,
+        "end": 18.84
+      },
+      {
+        "text": "of",
+        "start": 18.88,
+        "end": 18.96
+      },
+      {
+        "text": "them",
+        "start": 19.04,
+        "end": 19.66
+      },
+      {
+        "text": "has",
+        "start": 19.74,
+        "end": 19.88
+      },
+      {
+        "text": "a",
+        "start": 19.94,
+        "end": 20.02
+      },
+      {
+        "text": "job.",
+        "start": 20.08,
+        "end": 20.44
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "MAYA",
+    "text": "Those are your cells. And they've been running since before you were born.",
+    "start": 21.58,
+    "end": 25.58,
+    "words": [
+      {
+        "text": "Those",
+        "start": 21.58,
+        "end": 21.76
+      },
+      {
+        "text": "are",
+        "start": 21.78,
+        "end": 21.86
+      },
+      {
+        "text": "your",
+        "start": 21.9,
+        "end": 22.06
+      },
+      {
+        "text": "cells.",
+        "start": 22.12,
+        "end": 22.58
+      },
+      {
+        "text": "And",
+        "start": 23.24,
+        "end": 23.33
+      },
+      {
+        "text": "they've",
+        "start": 23.36,
+        "end": 23.54
+      },
+      {
+        "text": "been",
+        "start": 23.58,
+        "end": 23.7
+      },
+      {
+        "text": "running",
+        "start": 23.74,
+        "end": 24.06
+      },
+      {
+        "text": "since",
+        "start": 24.1,
+        "end": 24.32
+      },
+      {
+        "text": "before",
+        "start": 24.36,
+        "end": 24.76
+      },
+      {
+        "text": "you",
+        "start": 24.8,
+        "end": 24.86
+      },
+      {
+        "text": "were",
+        "start": 24.9,
+        "end": 25.08
+      },
+      {
+        "text": "born.",
+        "start": 25.12,
+        "end": 25.58
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "SAM",
+    "text": "Before you could walk. Before you could talk. Before you existed as anything you'd recognize as \"you.\"",
+    "start": 26.16,
+    "end": 33.98,
+    "words": [
+      {
+        "text": "Before",
+        "start": 26.16,
+        "end": 26.47
+      },
+      {
+        "text": "you",
+        "start": 26.5,
+        "end": 26.56
+      },
+      {
+        "text": "could",
+        "start": 26.6,
+        "end": 26.78
+      },
+      {
+        "text": "walk.",
+        "start": 26.82,
+        "end": 27.14
+      },
+      {
+        "text": "Before",
+        "start": 28.12,
+        "end": 28.4
+      },
+      {
+        "text": "you",
+        "start": 28.44,
+        "end": 28.5
+      },
+      {
+        "text": "could",
+        "start": 28.52,
+        "end": 28.69
+      },
+      {
+        "text": "talk.",
+        "start": 28.74,
+        "end": 29.14
+      },
+      {
+        "text": "Before",
+        "start": 30.2,
+        "end": 30.56
+      },
+      {
+        "text": "you",
+        "start": 30.6,
+        "end": 30.65
+      },
+      {
+        "text": "existed",
+        "start": 30.72,
+        "end": 31.28
+      },
+      {
+        "text": "as",
+        "start": 31.36,
+        "end": 31.62
+      },
+      {
+        "text": "anything",
+        "start": 31.7,
+        "end": 32.1
+      },
+      {
+        "text": "you'd",
+        "start": 32.18,
+        "end": 32.32
+      },
+      {
+        "text": "recognize",
+        "start": 32.38,
+        "end": 33.08
+      },
+      {
+        "text": "as",
+        "start": 33.18,
+        "end": 33.62
+      },
+      {
+        "text": "\"you.\"",
+        "start": 33.64,
+        "end": 33.98
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "MAYA",
+    "text": "37 trillion tiny things, working, all at once, right now \u2014 and you weren't even thinking about it until I just said it.",
+    "start": 34.84,
+    "end": 43.7,
+    "words": [
+      {
+        "text": "37 trillion",
+        "start": 34.84,
+        "end": 36.48
+      },
+      {
+        "text": "tiny",
+        "start": 36.56,
+        "end": 37.08
+      },
+      {
+        "text": "things,",
+        "start": 37.1,
+        "end": 37.61
+      },
+      {
+        "text": "working,",
+        "start": 37.88,
+        "end": 38.58
+      },
+      {
+        "text": "all",
+        "start": 38.68,
+        "end": 38.81
+      },
+      {
+        "text": "at",
+        "start": 38.86,
+        "end": 38.99
+      },
+      {
+        "text": "once,",
+        "start": 39.02,
+        "end": 39.35
+      },
+      {
+        "text": "right",
+        "start": 39.94,
+        "end": 40.18
+      },
+      {
+        "text": "now",
+        "start": 40.26,
+        "end": 40.54
+      },
+      {
+        "text": "\u2014",
+        "start": 41.26,
+        "end": 41.260999999999996
+      },
+      {
+        "text": "and",
+        "start": 41.3,
+        "end": 41.38
+      },
+      {
+        "text": "you",
+        "start": 41.4,
+        "end": 41.5
+      },
+      {
+        "text": "weren't",
+        "start": 41.52,
+        "end": 41.66
+      },
+      {
+        "text": "even",
+        "start": 41.68,
+        "end": 41.86
+      },
+      {
+        "text": "thinking",
+        "start": 41.98,
+        "end": 42.3
+      },
+      {
+        "text": "about",
+        "start": 42.34,
+        "end": 42.52
+      },
+      {
+        "text": "it",
+        "start": 42.58,
+        "end": 42.68
+      },
+      {
+        "text": "until",
+        "start": 42.72,
+        "end": 42.94
+      },
+      {
+        "text": "I",
+        "start": 43.02,
+        "end": 43.08
+      },
+      {
+        "text": "just",
+        "start": 43.14,
+        "end": 43.3
+      },
+      {
+        "text": "said",
+        "start": 43.34,
+        "end": 43.5
+      },
+      {
+        "text": "it.",
+        "start": 43.54,
+        "end": 43.7
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "SAM",
+    "text": "You're welcome.",
+    "start": 44.64,
+    "end": 45.14,
+    "words": [
+      {
+        "text": "You're",
+        "start": 44.64,
+        "end": 44.76
+      },
+      {
+        "text": "welcome.",
+        "start": 44.8,
+        "end": 45.14
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1 \u2014 COLD OPEN",
+    "speaker": "MAYA",
+    "text": "Let's get into it.",
+    "start": 46.52,
+    "end": 47.56,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 46.52,
+        "end": 46.72
+      },
+      {
+        "text": "get",
+        "start": 46.76,
+        "end": 46.86
+      },
+      {
+        "text": "into",
+        "start": 46.92,
+        "end": 47.18
+      },
+      {
+        "text": "it.",
+        "start": 47.22,
+        "end": 47.56
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "Scientists didn't always know living things were made of cells. For most of human history, nobody knew.",
+    "start": 58.4,
+    "end": 65.22,
+    "words": [
+      {
+        "text": "Scientists",
+        "start": 58.4,
+        "end": 59.04
+      },
+      {
+        "text": "didn't",
+        "start": 59.05,
+        "end": 59.37
+      },
+      {
+        "text": "always",
+        "start": 59.46,
+        "end": 59.83
+      },
+      {
+        "text": "know",
+        "start": 59.86,
+        "end": 60.06
+      },
+      {
+        "text": "living",
+        "start": 60.1,
+        "end": 60.4
+      },
+      {
+        "text": "things",
+        "start": 60.41,
+        "end": 60.68
+      },
+      {
+        "text": "were",
+        "start": 60.7,
+        "end": 60.8
+      },
+      {
+        "text": "made",
+        "start": 60.82,
+        "end": 60.94
+      },
+      {
+        "text": "of",
+        "start": 60.98,
+        "end": 61.05
+      },
+      {
+        "text": "cells.",
+        "start": 61.14,
+        "end": 61.66
+      },
+      {
+        "text": "For",
+        "start": 62.26,
+        "end": 62.36
+      },
+      {
+        "text": "most",
+        "start": 62.4,
+        "end": 62.6
+      },
+      {
+        "text": "of",
+        "start": 62.64,
+        "end": 62.72
+      },
+      {
+        "text": "human",
+        "start": 62.74,
+        "end": 62.96
+      },
+      {
+        "text": "history,",
+        "start": 63.0,
+        "end": 63.47
+      },
+      {
+        "text": "nobody",
+        "start": 64.0,
+        "end": 64.34
+      },
+      {
+        "text": "knew.",
+        "start": 64.4,
+        "end": 65.22
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "SAM",
+    "text": "What changed?",
+    "start": 65.3,
+    "end": 65.98,
+    "words": [
+      {
+        "text": "What",
+        "start": 65.3,
+        "end": 65.44
+      },
+      {
+        "text": "changed?",
+        "start": 65.5,
+        "end": 65.98
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "A microscope. Robert Hooke, 1665. He looked at a slice of cork and saw tiny rooms.",
+    "start": 66.66,
+    "end": 73.82,
+    "words": [
+      {
+        "text": "A",
+        "start": 66.66,
+        "end": 66.67
+      },
+      {
+        "text": "microscope.",
+        "start": 66.74,
+        "end": 67.41
+      },
+      {
+        "text": "Robert",
+        "start": 68.08,
+        "end": 68.36
+      },
+      {
+        "text": "Hooke,",
+        "start": 68.46,
+        "end": 68.7
+      },
+      {
+        "text": "1665.",
+        "start": 68.84,
+        "end": 70.64
+      },
+      {
+        "text": "He",
+        "start": 70.7,
+        "end": 70.8
+      },
+      {
+        "text": "looked",
+        "start": 70.84,
+        "end": 71.1
+      },
+      {
+        "text": "at",
+        "start": 71.11,
+        "end": 71.111
+      },
+      {
+        "text": "a",
+        "start": 71.16,
+        "end": 71.22
+      },
+      {
+        "text": "slice",
+        "start": 71.3,
+        "end": 71.58
+      },
+      {
+        "text": "of",
+        "start": 71.62,
+        "end": 71.72
+      },
+      {
+        "text": "cork",
+        "start": 71.78,
+        "end": 72.24
+      },
+      {
+        "text": "and",
+        "start": 72.28,
+        "end": 72.4
+      },
+      {
+        "text": "saw",
+        "start": 72.46,
+        "end": 72.68
+      },
+      {
+        "text": "tiny",
+        "start": 72.74,
+        "end": 73.12
+      },
+      {
+        "text": "rooms.",
+        "start": 73.28,
+        "end": 73.82
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "SAM",
+    "text": "He called them \"cells\" because they looked like monks' rooms in a monastery.",
+    "start": 74.42,
+    "end": 78.12,
+    "words": [
+      {
+        "text": "He",
+        "start": 74.42,
+        "end": 74.54
+      },
+      {
+        "text": "called",
+        "start": 74.6,
+        "end": 74.81
+      },
+      {
+        "text": "them",
+        "start": 74.84,
+        "end": 74.96
+      },
+      {
+        "text": "\"cells\"",
+        "start": 75.04,
+        "end": 75.61
+      },
+      {
+        "text": "because",
+        "start": 75.82,
+        "end": 76.04
+      },
+      {
+        "text": "they",
+        "start": 76.08,
+        "end": 76.2
+      },
+      {
+        "text": "looked",
+        "start": 76.24,
+        "end": 76.4
+      },
+      {
+        "text": "like",
+        "start": 76.44,
+        "end": 76.6
+      },
+      {
+        "text": "monks'",
+        "start": 76.7,
+        "end": 76.97
+      },
+      {
+        "text": "rooms",
+        "start": 77.08,
+        "end": 77.33
+      },
+      {
+        "text": "in",
+        "start": 77.36,
+        "end": 77.42
+      },
+      {
+        "text": "a",
+        "start": 77.44,
+        "end": 77.46
+      },
+      {
+        "text": "monastery.",
+        "start": 77.52,
+        "end": 78.12
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "So the word \"cell\" is basically medieval architecture.",
+    "start": 79.4,
+    "end": 82.3,
+    "words": [
+      {
+        "text": "So",
+        "start": 79.4,
+        "end": 79.52
+      },
+      {
+        "text": "the",
+        "start": 79.56,
+        "end": 79.61
+      },
+      {
+        "text": "word",
+        "start": 79.68,
+        "end": 79.88
+      },
+      {
+        "text": "\"cell\"",
+        "start": 79.98,
+        "end": 80.42
+      },
+      {
+        "text": "is",
+        "start": 80.52,
+        "end": 80.66
+      },
+      {
+        "text": "basically",
+        "start": 80.7,
+        "end": 81.18
+      },
+      {
+        "text": "medieval",
+        "start": 81.19,
+        "end": 81.57
+      },
+      {
+        "text": "architecture.",
+        "start": 81.68,
+        "end": 82.3
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "SAM",
+    "text": "Yeah... essentially.",
+    "start": 82.96,
+    "end": 84.27,
+    "words": [
+      {
+        "text": "Yeah...",
+        "start": 82.96,
+        "end": 83.7
+      },
+      {
+        "text": "essentially.",
+        "start": 83.76,
+        "end": 84.27
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "And from there, scientists eventually agreed on three things. One \u2014 all living things are made of cells.",
+    "start": 84.96,
+    "end": 92.12,
+    "words": [
+      {
+        "text": "And",
+        "start": 84.96,
+        "end": 85.1
+      },
+      {
+        "text": "from",
+        "start": 85.14,
+        "end": 85.33
+      },
+      {
+        "text": "there,",
+        "start": 85.38,
+        "end": 85.67
+      },
+      {
+        "text": "scientists",
+        "start": 85.88,
+        "end": 86.4
+      },
+      {
+        "text": "eventually",
+        "start": 86.44,
+        "end": 86.92
+      },
+      {
+        "text": "agreed",
+        "start": 86.96,
+        "end": 87.38
+      },
+      {
+        "text": "on",
+        "start": 87.44,
+        "end": 87.6
+      },
+      {
+        "text": "three",
+        "start": 87.7,
+        "end": 87.87
+      },
+      {
+        "text": "things.",
+        "start": 88.0,
+        "end": 89.0
+      },
+      {
+        "text": "One",
+        "start": 89.14,
+        "end": 89.37
+      },
+      {
+        "text": "\u2014",
+        "start": 89.38,
+        "end": 89.381
+      },
+      {
+        "text": "all",
+        "start": 90.09,
+        "end": 90.28
+      },
+      {
+        "text": "living",
+        "start": 90.34,
+        "end": 90.6
+      },
+      {
+        "text": "things",
+        "start": 90.66,
+        "end": 91.06
+      },
+      {
+        "text": "are",
+        "start": 91.16,
+        "end": 91.27
+      },
+      {
+        "text": "made",
+        "start": 91.34,
+        "end": 91.48
+      },
+      {
+        "text": "of",
+        "start": 91.52,
+        "end": 91.6
+      },
+      {
+        "text": "cells.",
+        "start": 91.68,
+        "end": 92.12
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "SAM",
+    "text": "Two \u2014 the cell is the smallest unit of life. Below that, you're just talking chemistry.",
+    "start": 92.62,
+    "end": 98.16,
+    "words": [
+      {
+        "text": "Two",
+        "start": 92.62,
+        "end": 92.88
+      },
+      {
+        "text": "\u2014",
+        "start": 93.6,
+        "end": 93.601
+      },
+      {
+        "text": "the",
+        "start": 93.62,
+        "end": 93.74
+      },
+      {
+        "text": "cell",
+        "start": 93.8,
+        "end": 94.06
+      },
+      {
+        "text": "is",
+        "start": 94.14,
+        "end": 94.24
+      },
+      {
+        "text": "the",
+        "start": 94.28,
+        "end": 94.36
+      },
+      {
+        "text": "smallest",
+        "start": 94.44,
+        "end": 94.86
+      },
+      {
+        "text": "unit",
+        "start": 94.98,
+        "end": 95.14
+      },
+      {
+        "text": "of",
+        "start": 95.2,
+        "end": 95.3
+      },
+      {
+        "text": "life.",
+        "start": 95.36,
+        "end": 95.66
+      },
+      {
+        "text": "Below",
+        "start": 96.2,
+        "end": 96.48
+      },
+      {
+        "text": "that,",
+        "start": 96.54,
+        "end": 96.78
+      },
+      {
+        "text": "you're",
+        "start": 97.02,
+        "end": 97.1
+      },
+      {
+        "text": "just",
+        "start": 97.14,
+        "end": 97.26
+      },
+      {
+        "text": "talking",
+        "start": 97.3,
+        "end": 97.58
+      },
+      {
+        "text": "chemistry.",
+        "start": 97.66,
+        "end": 98.16
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "And three \u2014 all cells come from pre-existing cells.",
+    "start": 98.74,
+    "end": 102.9,
+    "words": [
+      {
+        "text": "And",
+        "start": 98.74,
+        "end": 98.94
+      },
+      {
+        "text": "three",
+        "start": 99.02,
+        "end": 99.32
+      },
+      {
+        "text": "\u2014",
+        "start": 99.42,
+        "end": 99.421
+      },
+      {
+        "text": "all",
+        "start": 100.2,
+        "end": 100.44
+      },
+      {
+        "text": "cells",
+        "start": 100.5,
+        "end": 101.08
+      },
+      {
+        "text": "come",
+        "start": 101.09,
+        "end": 101.32
+      },
+      {
+        "text": "from",
+        "start": 101.36,
+        "end": 101.55
+      },
+      {
+        "text": "pre-existing",
+        "start": 101.6,
+        "end": 102.38
+      },
+      {
+        "text": "cells.",
+        "start": 102.46,
+        "end": 102.9
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "SAM",
+    "text": "Nothing alive comes from nothing.",
+    "start": 103.64,
+    "end": 105.44,
+    "words": [
+      {
+        "text": "Nothing",
+        "start": 103.64,
+        "end": 103.93
+      },
+      {
+        "text": "alive",
+        "start": 103.98,
+        "end": 104.46
+      },
+      {
+        "text": "comes",
+        "start": 104.58,
+        "end": 104.81
+      },
+      {
+        "text": "from",
+        "start": 104.84,
+        "end": 105.03
+      },
+      {
+        "text": "nothing.",
+        "start": 105.08,
+        "end": 105.44
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2 \u2014 WHAT IS A CELL, REALLY",
+    "speaker": "MAYA",
+    "text": "Yeah... essentially.",
+    "start": 106.22,
+    "end": 107.759,
+    "words": [
+      {
+        "text": "Yeah...",
+        "start": 106.22,
+        "end": 106.38
+      },
+      {
+        "text": "essentially.",
+        "start": 106.88,
+        "end": 107.759
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Okay, so \u2014 picture a cell. Most people picture a blob. Forget the blob completely.",
+    "start": 118.39,
+    "end": 125.87,
+    "words": [
+      {
+        "text": "Okay,",
+        "start": 118.39,
+        "end": 118.7
+      },
+      {
+        "text": "so",
+        "start": 119.06,
+        "end": 119.26
+      },
+      {
+        "text": "\u2014",
+        "start": 119.72,
+        "end": 119.721
+      },
+      {
+        "text": "picture",
+        "start": 119.78,
+        "end": 120.26
+      },
+      {
+        "text": "a",
+        "start": 120.42,
+        "end": 120.54
+      },
+      {
+        "text": "cell.",
+        "start": 120.62,
+        "end": 120.96
+      },
+      {
+        "text": "Most",
+        "start": 121.82,
+        "end": 122.12
+      },
+      {
+        "text": "people",
+        "start": 122.16,
+        "end": 122.48
+      },
+      {
+        "text": "picture",
+        "start": 122.49,
+        "end": 123.2
+      },
+      {
+        "text": "a",
+        "start": 123.26,
+        "end": 123.32
+      },
+      {
+        "text": "blob.",
+        "start": 123.36,
+        "end": 123.72
+      },
+      {
+        "text": "Forget",
+        "start": 124.56,
+        "end": 124.79
+      },
+      {
+        "text": "the",
+        "start": 124.82,
+        "end": 124.9
+      },
+      {
+        "text": "blob",
+        "start": 124.92,
+        "end": 125.3
+      },
+      {
+        "text": "completely.",
+        "start": 125.34,
+        "end": 125.87
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Working on it.",
+    "start": 126.32,
+    "end": 127.72,
+    "words": [
+      {
+        "text": "Working",
+        "start": 126.32,
+        "end": 126.63
+      },
+      {
+        "text": "on",
+        "start": 126.68,
+        "end": 126.81
+      },
+      {
+        "text": "it.",
+        "start": 126.84,
+        "end": 127.72
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "It's more like a city. Everything's got a job. Everything depends on everything else.",
+    "start": 127.8,
+    "end": 133.82,
+    "words": [
+      {
+        "text": "It's",
+        "start": 127.8,
+        "end": 128.009
+      },
+      {
+        "text": "more",
+        "start": 128.06,
+        "end": 128.259
+      },
+      {
+        "text": "like",
+        "start": 128.4,
+        "end": 128.829
+      },
+      {
+        "text": "a",
+        "start": 128.88,
+        "end": 129.06
+      },
+      {
+        "text": "city.",
+        "start": 129.1,
+        "end": 130.22
+      },
+      {
+        "text": "Everything's",
+        "start": 130.259,
+        "end": 130.729
+      },
+      {
+        "text": "got",
+        "start": 130.74,
+        "end": 130.86
+      },
+      {
+        "text": "a",
+        "start": 130.9,
+        "end": 130.91
+      },
+      {
+        "text": "job.",
+        "start": 130.979,
+        "end": 131.46
+      },
+      {
+        "text": "Everything",
+        "start": 131.84,
+        "end": 132.24
+      },
+      {
+        "text": "depends",
+        "start": 132.3,
+        "end": 132.76
+      },
+      {
+        "text": "on",
+        "start": 132.8,
+        "end": 132.94
+      },
+      {
+        "text": "everything",
+        "start": 132.98,
+        "end": 133.34
+      },
+      {
+        "text": "else.",
+        "start": 133.44,
+        "end": 133.82
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Alright. Give me the tour.",
+    "start": 134.36,
+    "end": 135.86,
+    "words": [
+      {
+        "text": "Alright.",
+        "start": 134.36,
+        "end": 134.68
+      },
+      {
+        "text": "Give",
+        "start": 135.26,
+        "end": 135.34
+      },
+      {
+        "text": "me",
+        "start": 135.38,
+        "end": 135.46
+      },
+      {
+        "text": "the",
+        "start": 135.5,
+        "end": 135.58
+      },
+      {
+        "text": "tour.",
+        "start": 135.62,
+        "end": 135.86
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Start at the top. The nucleus \u2014 that's city hall. It holds the D-N-A, which is basically the master plan for the whole operation. Nothing happens without city hall signing off.",
+    "start": 136.8,
+    "end": 147.86,
+    "words": [
+      {
+        "text": "Start",
+        "start": 136.8,
+        "end": 136.98
+      },
+      {
+        "text": "at",
+        "start": 137.0,
+        "end": 137.06
+      },
+      {
+        "text": "the",
+        "start": 137.1,
+        "end": 137.16
+      },
+      {
+        "text": "top.",
+        "start": 137.2,
+        "end": 137.48
+      },
+      {
+        "text": "The",
+        "start": 137.92,
+        "end": 137.97
+      },
+      {
+        "text": "nucleus",
+        "start": 138.02,
+        "end": 138.52
+      },
+      {
+        "text": "\u2014",
+        "start": 138.86,
+        "end": 138.86100000000002
+      },
+      {
+        "text": "that's",
+        "start": 138.92,
+        "end": 139.13
+      },
+      {
+        "text": "city",
+        "start": 139.2,
+        "end": 139.44
+      },
+      {
+        "text": "hall.",
+        "start": 139.48,
+        "end": 139.74
+      },
+      {
+        "text": "It",
+        "start": 140.4,
+        "end": 140.5
+      },
+      {
+        "text": "holds",
+        "start": 140.54,
+        "end": 140.88
+      },
+      {
+        "text": "the",
+        "start": 140.89,
+        "end": 141.02
+      },
+      {
+        "text": "D-N-A,",
+        "start": 141.04,
+        "end": 141.52
+      },
+      {
+        "text": "which",
+        "start": 141.78,
+        "end": 141.94
+      },
+      {
+        "text": "is",
+        "start": 142.0,
+        "end": 142.2
+      },
+      {
+        "text": "basically",
+        "start": 142.24,
+        "end": 142.7
+      },
+      {
+        "text": "the",
+        "start": 142.74,
+        "end": 142.8
+      },
+      {
+        "text": "master",
+        "start": 142.84,
+        "end": 143.18
+      },
+      {
+        "text": "plan",
+        "start": 143.28,
+        "end": 143.6
+      },
+      {
+        "text": "for",
+        "start": 143.66,
+        "end": 143.74
+      },
+      {
+        "text": "the",
+        "start": 143.78,
+        "end": 143.84
+      },
+      {
+        "text": "whole",
+        "start": 143.92,
+        "end": 144.12
+      },
+      {
+        "text": "operation.",
+        "start": 144.2,
+        "end": 144.8
+      },
+      {
+        "text": "Nothing",
+        "start": 145.44,
+        "end": 145.76
+      },
+      {
+        "text": "happens",
+        "start": 145.86,
+        "end": 146.25
+      },
+      {
+        "text": "without",
+        "start": 146.3,
+        "end": 146.6
+      },
+      {
+        "text": "city",
+        "start": 146.64,
+        "end": 146.86
+      },
+      {
+        "text": "hall",
+        "start": 146.9,
+        "end": 147.14
+      },
+      {
+        "text": "signing",
+        "start": 147.2,
+        "end": 147.5
+      },
+      {
+        "text": "off.",
+        "start": 147.54,
+        "end": 147.86
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Very bureaucratic.",
+    "start": 148.68,
+    "end": 149.76,
+    "words": [
+      {
+        "text": "Very",
+        "start": 148.68,
+        "end": 148.98
+      },
+      {
+        "text": "bureaucratic.",
+        "start": 149.04,
+        "end": 149.76
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "It kind of is, actually.",
+    "start": 150.56,
+    "end": 151.96,
+    "words": [
+      {
+        "text": "It",
+        "start": 150.56,
+        "end": 150.74
+      },
+      {
+        "text": "kind",
+        "start": 150.8,
+        "end": 151.02
+      },
+      {
+        "text": "of",
+        "start": 151.06,
+        "end": 151.14
+      },
+      {
+        "text": "is,",
+        "start": 151.24,
+        "end": 151.43
+      },
+      {
+        "text": "actually.",
+        "start": 151.54,
+        "end": 151.96
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Is there a border? Cities have borders.",
+    "start": 152.6,
+    "end": 154.66,
+    "words": [
+      {
+        "text": "Is",
+        "start": 152.6,
+        "end": 152.68
+      },
+      {
+        "text": "there",
+        "start": 152.72,
+        "end": 152.8
+      },
+      {
+        "text": "a",
+        "start": 152.94,
+        "end": 152.95
+      },
+      {
+        "text": "border?",
+        "start": 152.96,
+        "end": 153.26
+      },
+      {
+        "text": "Cities",
+        "start": 153.78,
+        "end": 154.02
+      },
+      {
+        "text": "have",
+        "start": 154.08,
+        "end": 154.2
+      },
+      {
+        "text": "borders.",
+        "start": 154.24,
+        "end": 154.66
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "There is \u2014 the cell membrane. It's the checkpoint. Decides what gets in \u2014 water, nutrients, oxygen \u2014 and what gets kicked out.",
+    "start": 155.5,
+    "end": 164.52,
+    "words": [
+      {
+        "text": "There",
+        "start": 155.5,
+        "end": 155.7
+      },
+      {
+        "text": "is",
+        "start": 155.78,
+        "end": 156.46
+      },
+      {
+        "text": "\u2014",
+        "start": 156.47,
+        "end": 156.471
+      },
+      {
+        "text": "the",
+        "start": 156.52,
+        "end": 156.64
+      },
+      {
+        "text": "cell",
+        "start": 156.68,
+        "end": 156.87
+      },
+      {
+        "text": "membrane.",
+        "start": 156.96,
+        "end": 158.04
+      },
+      {
+        "text": "It's",
+        "start": 158.06,
+        "end": 158.24
+      },
+      {
+        "text": "the",
+        "start": 158.28,
+        "end": 158.38
+      },
+      {
+        "text": "checkpoint.",
+        "start": 158.42,
+        "end": 159.38
+      },
+      {
+        "text": "Decides",
+        "start": 159.42,
+        "end": 159.86
+      },
+      {
+        "text": "what",
+        "start": 159.9,
+        "end": 160.0
+      },
+      {
+        "text": "gets",
+        "start": 160.1,
+        "end": 160.32
+      },
+      {
+        "text": "in",
+        "start": 160.4,
+        "end": 160.6
+      },
+      {
+        "text": "\u2014",
+        "start": 160.96,
+        "end": 160.961
+      },
+      {
+        "text": "water,",
+        "start": 161.02,
+        "end": 161.32
+      },
+      {
+        "text": "nutrients,",
+        "start": 161.58,
+        "end": 162.14
+      },
+      {
+        "text": "oxygen",
+        "start": 162.28,
+        "end": 162.78
+      },
+      {
+        "text": "\u2014",
+        "start": 163.3,
+        "end": 163.30100000000002
+      },
+      {
+        "text": "and",
+        "start": 163.4,
+        "end": 163.549
+      },
+      {
+        "text": "what",
+        "start": 163.62,
+        "end": 163.72
+      },
+      {
+        "text": "gets",
+        "start": 163.8,
+        "end": 163.98
+      },
+      {
+        "text": "kicked",
+        "start": 164.06,
+        "end": 164.28
+      },
+      {
+        "text": "out.",
+        "start": 164.34,
+        "end": 164.52
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Not everybody gets through.",
+    "start": 165.38,
+    "end": 166.48,
+    "words": [
+      {
+        "text": "Not",
+        "start": 165.38,
+        "end": 165.54
+      },
+      {
+        "text": "everybody",
+        "start": 165.58,
+        "end": 166.0
+      },
+      {
+        "text": "gets",
+        "start": 166.04,
+        "end": 166.19
+      },
+      {
+        "text": "through.",
+        "start": 166.26,
+        "end": 166.48
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "That's the whole point of having one.",
+    "start": 167.28,
+    "end": 168.78,
+    "words": [
+      {
+        "text": "That's",
+        "start": 167.28,
+        "end": 167.6
+      },
+      {
+        "text": "the",
+        "start": 167.64,
+        "end": 167.7
+      },
+      {
+        "text": "whole",
+        "start": 167.72,
+        "end": 167.9
+      },
+      {
+        "text": "point",
+        "start": 167.94,
+        "end": 168.12
+      },
+      {
+        "text": "of",
+        "start": 168.16,
+        "end": 168.22
+      },
+      {
+        "text": "having",
+        "start": 168.26,
+        "end": 168.54
+      },
+      {
+        "text": "one.",
+        "start": 168.58,
+        "end": 168.78
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "What powers the city?",
+    "start": 169.94,
+    "end": 170.89,
+    "words": [
+      {
+        "text": "What",
+        "start": 169.94,
+        "end": 170.08
+      },
+      {
+        "text": "powers",
+        "start": 170.12,
+        "end": 170.44
+      },
+      {
+        "text": "the",
+        "start": 170.48,
+        "end": 170.58
+      },
+      {
+        "text": "city?",
+        "start": 170.62,
+        "end": 170.89
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Mitochondria. They take glucose \u2014 fuel \u2014 and turn it into something the cell can actually run on, called A-T-P.",
+    "start": 171.68,
+    "end": 179.54,
+    "words": [
+      {
+        "text": "Mitochondria.",
+        "start": 171.68,
+        "end": 173.0
+      },
+      {
+        "text": "They",
+        "start": 173.06,
+        "end": 173.2
+      },
+      {
+        "text": "take",
+        "start": 173.26,
+        "end": 173.44
+      },
+      {
+        "text": "glucose",
+        "start": 173.48,
+        "end": 174.06
+      },
+      {
+        "text": "\u2014",
+        "start": 174.42,
+        "end": 174.421
+      },
+      {
+        "text": "fuel",
+        "start": 174.44,
+        "end": 174.76
+      },
+      {
+        "text": "\u2014",
+        "start": 175.36,
+        "end": 175.36100000000002
+      },
+      {
+        "text": "and",
+        "start": 175.4,
+        "end": 175.53
+      },
+      {
+        "text": "turn",
+        "start": 175.58,
+        "end": 175.75
+      },
+      {
+        "text": "it",
+        "start": 175.78,
+        "end": 175.86
+      },
+      {
+        "text": "into",
+        "start": 175.92,
+        "end": 176.15
+      },
+      {
+        "text": "something",
+        "start": 176.18,
+        "end": 176.53
+      },
+      {
+        "text": "the",
+        "start": 176.56,
+        "end": 176.68
+      },
+      {
+        "text": "cell",
+        "start": 176.72,
+        "end": 177.0
+      },
+      {
+        "text": "can",
+        "start": 177.02,
+        "end": 177.15
+      },
+      {
+        "text": "actually",
+        "start": 177.2,
+        "end": 177.64
+      },
+      {
+        "text": "run",
+        "start": 177.68,
+        "end": 177.84
+      },
+      {
+        "text": "on,",
+        "start": 177.92,
+        "end": 178.329
+      },
+      {
+        "text": "called",
+        "start": 178.36,
+        "end": 178.62
+      },
+      {
+        "text": "A-T-P.",
+        "start": 178.72,
+        "end": 179.54
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "So we don't run on food directly.",
+    "start": 180.5,
+    "end": 182.16,
+    "words": [
+      {
+        "text": "So",
+        "start": 180.5,
+        "end": 180.58
+      },
+      {
+        "text": "we",
+        "start": 180.62,
+        "end": 180.8
+      },
+      {
+        "text": "don't",
+        "start": 180.84,
+        "end": 181.06
+      },
+      {
+        "text": "run",
+        "start": 181.1,
+        "end": 181.22
+      },
+      {
+        "text": "on",
+        "start": 181.26,
+        "end": 181.43
+      },
+      {
+        "text": "food",
+        "start": 181.5,
+        "end": 181.68
+      },
+      {
+        "text": "directly.",
+        "start": 181.69,
+        "end": 182.16
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Not directly. We run on what the mitochondria make from it.",
+    "start": 182.76,
+    "end": 186.299,
+    "words": [
+      {
+        "text": "Not",
+        "start": 182.76,
+        "end": 182.97
+      },
+      {
+        "text": "directly.",
+        "start": 183.0,
+        "end": 184.14
+      },
+      {
+        "text": "We",
+        "start": 184.18,
+        "end": 184.3
+      },
+      {
+        "text": "run",
+        "start": 184.34,
+        "end": 184.48
+      },
+      {
+        "text": "on",
+        "start": 184.52,
+        "end": 184.6
+      },
+      {
+        "text": "what",
+        "start": 184.64,
+        "end": 184.73
+      },
+      {
+        "text": "the",
+        "start": 184.76,
+        "end": 184.82
+      },
+      {
+        "text": "mitochondria",
+        "start": 184.84,
+        "end": 185.58
+      },
+      {
+        "text": "make",
+        "start": 185.62,
+        "end": 185.88
+      },
+      {
+        "text": "from",
+        "start": 185.9,
+        "end": 186.07
+      },
+      {
+        "text": "it.",
+        "start": 186.1,
+        "end": 186.299
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Huh. That actually explains something. When you're sick and just wiped out, even lying still \u2014",
+    "start": 186.92,
+    "end": 193.541,
+    "words": [
+      {
+        "text": "Huh.",
+        "start": 186.92,
+        "end": 187.94
+      },
+      {
+        "text": "That",
+        "start": 187.98,
+        "end": 188.07
+      },
+      {
+        "text": "actually",
+        "start": 188.12,
+        "end": 188.34
+      },
+      {
+        "text": "explains",
+        "start": 188.4,
+        "end": 188.82
+      },
+      {
+        "text": "something.",
+        "start": 188.86,
+        "end": 189.23
+      },
+      {
+        "text": "When",
+        "start": 189.97,
+        "end": 190.08
+      },
+      {
+        "text": "you're",
+        "start": 190.12,
+        "end": 190.28
+      },
+      {
+        "text": "sick",
+        "start": 190.36,
+        "end": 190.66
+      },
+      {
+        "text": "and",
+        "start": 190.7,
+        "end": 190.78
+      },
+      {
+        "text": "just",
+        "start": 190.86,
+        "end": 191.08
+      },
+      {
+        "text": "wiped",
+        "start": 191.16,
+        "end": 191.42
+      },
+      {
+        "text": "out,",
+        "start": 191.52,
+        "end": 191.7
+      },
+      {
+        "text": "even",
+        "start": 192.02,
+        "end": 192.22
+      },
+      {
+        "text": "lying",
+        "start": 192.26,
+        "end": 192.6
+      },
+      {
+        "text": "still",
+        "start": 192.62,
+        "end": 193.06
+      },
+      {
+        "text": "\u2014",
+        "start": 193.54,
+        "end": 193.541
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Your mitochondria are working overtime. We'll get into that one later.",
+    "start": 193.62,
+    "end": 197.41,
+    "words": [
+      {
+        "text": "Your",
+        "start": 193.62,
+        "end": 193.7
+      },
+      {
+        "text": "mitochondria",
+        "start": 193.74,
+        "end": 194.46
+      },
+      {
+        "text": "are",
+        "start": 194.5,
+        "end": 194.62
+      },
+      {
+        "text": "working",
+        "start": 194.66,
+        "end": 195.04
+      },
+      {
+        "text": "overtime.",
+        "start": 195.1,
+        "end": 195.68
+      },
+      {
+        "text": "We'll",
+        "start": 196.32,
+        "end": 196.46
+      },
+      {
+        "text": "get",
+        "start": 196.48,
+        "end": 196.59
+      },
+      {
+        "text": "into",
+        "start": 196.62,
+        "end": 196.79
+      },
+      {
+        "text": "that",
+        "start": 196.84,
+        "end": 196.98
+      },
+      {
+        "text": "one",
+        "start": 197.02,
+        "end": 197.12
+      },
+      {
+        "text": "later.",
+        "start": 197.16,
+        "end": 197.41
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "Noted.",
+    "start": 198.14,
+    "end": 198.48,
+    "words": [
+      {
+        "text": "Noted.",
+        "start": 198.14,
+        "end": 198.48
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Then there's the cytoplasm \u2014 just the streets. Fills the space, keeps everything suspended and connected. Not glamorous \u2014",
+    "start": 199.2,
+    "end": 208.041,
+    "words": [
+      {
+        "text": "Then",
+        "start": 199.2,
+        "end": 199.5
+      },
+      {
+        "text": "there's",
+        "start": 199.54,
+        "end": 199.76
+      },
+      {
+        "text": "the",
+        "start": 199.8,
+        "end": 199.92
+      },
+      {
+        "text": "cytoplasm",
+        "start": 199.94,
+        "end": 200.76
+      },
+      {
+        "text": "\u2014",
+        "start": 201.16,
+        "end": 201.161
+      },
+      {
+        "text": "just",
+        "start": 201.24,
+        "end": 201.48
+      },
+      {
+        "text": "the",
+        "start": 201.52,
+        "end": 201.62
+      },
+      {
+        "text": "streets.",
+        "start": 201.72,
+        "end": 202.12
+      },
+      {
+        "text": "Fills",
+        "start": 202.74,
+        "end": 202.99
+      },
+      {
+        "text": "the",
+        "start": 203.06,
+        "end": 203.16
+      },
+      {
+        "text": "space,",
+        "start": 203.2,
+        "end": 203.66
+      },
+      {
+        "text": "keeps",
+        "start": 203.94,
+        "end": 204.18
+      },
+      {
+        "text": "everything",
+        "start": 204.22,
+        "end": 204.59
+      },
+      {
+        "text": "suspended",
+        "start": 204.7,
+        "end": 205.3
+      },
+      {
+        "text": "and",
+        "start": 205.32,
+        "end": 205.39
+      },
+      {
+        "text": "connected.",
+        "start": 205.48,
+        "end": 205.96
+      },
+      {
+        "text": "Not",
+        "start": 206.7,
+        "end": 206.98
+      },
+      {
+        "text": "glamorous",
+        "start": 207.02,
+        "end": 207.66
+      },
+      {
+        "text": "\u2014",
+        "start": 208.04,
+        "end": 208.041
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "But necessary?",
+    "start": 208.08,
+    "end": 208.81,
+    "words": [
+      {
+        "text": "But",
+        "start": 208.08,
+        "end": 208.22
+      },
+      {
+        "text": "necessary?",
+        "start": 208.26,
+        "end": 208.81
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Exactly! And the last stop \u2014 the vacuole. Storage. Animal cells have small ones scattered around. Plant cells have one enormous one, right in the middle.",
+    "start": 209.58,
+    "end": 220.74,
+    "words": [
+      {
+        "text": "Exactly!",
+        "start": 209.58,
+        "end": 210.2
+      },
+      {
+        "text": "And",
+        "start": 210.99,
+        "end": 211.109
+      },
+      {
+        "text": "the",
+        "start": 211.14,
+        "end": 211.22
+      },
+      {
+        "text": "last",
+        "start": 211.26,
+        "end": 211.54
+      },
+      {
+        "text": "stop",
+        "start": 211.64,
+        "end": 211.94
+      },
+      {
+        "text": "\u2014",
+        "start": 212.28,
+        "end": 212.281
+      },
+      {
+        "text": "the",
+        "start": 212.32,
+        "end": 212.4
+      },
+      {
+        "text": "vacuole.",
+        "start": 212.42,
+        "end": 213.36
+      },
+      {
+        "text": "Storage.",
+        "start": 213.48,
+        "end": 213.98
+      },
+      {
+        "text": "Animal",
+        "start": 214.63,
+        "end": 215.02
+      },
+      {
+        "text": "cells",
+        "start": 215.06,
+        "end": 215.37
+      },
+      {
+        "text": "have",
+        "start": 215.44,
+        "end": 215.62
+      },
+      {
+        "text": "small",
+        "start": 215.66,
+        "end": 215.92
+      },
+      {
+        "text": "ones",
+        "start": 216.02,
+        "end": 216.28
+      },
+      {
+        "text": "scattered",
+        "start": 216.38,
+        "end": 216.7
+      },
+      {
+        "text": "around.",
+        "start": 216.74,
+        "end": 217.18
+      },
+      {
+        "text": "Plant",
+        "start": 217.74,
+        "end": 218.0
+      },
+      {
+        "text": "cells",
+        "start": 218.08,
+        "end": 218.44
+      },
+      {
+        "text": "have",
+        "start": 218.48,
+        "end": 218.62
+      },
+      {
+        "text": "one",
+        "start": 218.76,
+        "end": 218.94
+      },
+      {
+        "text": "enormous",
+        "start": 219.06,
+        "end": 219.56
+      },
+      {
+        "text": "one,",
+        "start": 219.64,
+        "end": 219.85
+      },
+      {
+        "text": "right",
+        "start": 220.12,
+        "end": 220.28
+      },
+      {
+        "text": "in",
+        "start": 220.32,
+        "end": 220.38
+      },
+      {
+        "text": "the",
+        "start": 220.4,
+        "end": 220.45
+      },
+      {
+        "text": "middle.",
+        "start": 220.5,
+        "end": 220.74
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "And why does that matter?",
+    "start": 221.56,
+    "end": 222.58,
+    "words": [
+      {
+        "text": "And",
+        "start": 221.56,
+        "end": 221.68
+      },
+      {
+        "text": "why",
+        "start": 221.74,
+        "end": 221.88
+      },
+      {
+        "text": "does",
+        "start": 221.9,
+        "end": 222.06
+      },
+      {
+        "text": "that",
+        "start": 222.12,
+        "end": 222.29
+      },
+      {
+        "text": "matter?",
+        "start": 222.34,
+        "end": 222.58
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "Because in a plant, that one vacuole takes up most of the space inside the cell. It's basically a water tank \u2014 when it's full, it pushes outward and keeps the whole thing rigid.",
+    "start": 223.08,
+    "end": 234.92,
+    "words": [
+      {
+        "text": "Because",
+        "start": 223.08,
+        "end": 223.44
+      },
+      {
+        "text": "in",
+        "start": 223.48,
+        "end": 223.54
+      },
+      {
+        "text": "a",
+        "start": 223.58,
+        "end": 223.66
+      },
+      {
+        "text": "plant,",
+        "start": 223.7,
+        "end": 224.22
+      },
+      {
+        "text": "that",
+        "start": 224.6,
+        "end": 224.92
+      },
+      {
+        "text": "one",
+        "start": 224.98,
+        "end": 225.2
+      },
+      {
+        "text": "vacuole",
+        "start": 225.28,
+        "end": 225.98
+      },
+      {
+        "text": "takes",
+        "start": 226.04,
+        "end": 226.28
+      },
+      {
+        "text": "up",
+        "start": 226.34,
+        "end": 226.4
+      },
+      {
+        "text": "most",
+        "start": 226.52,
+        "end": 226.9
+      },
+      {
+        "text": "of",
+        "start": 226.92,
+        "end": 227.0
+      },
+      {
+        "text": "the",
+        "start": 227.01,
+        "end": 227.12
+      },
+      {
+        "text": "space",
+        "start": 227.2,
+        "end": 227.5
+      },
+      {
+        "text": "inside",
+        "start": 227.52,
+        "end": 227.88
+      },
+      {
+        "text": "the",
+        "start": 227.89,
+        "end": 228.0
+      },
+      {
+        "text": "cell.",
+        "start": 228.06,
+        "end": 228.38
+      },
+      {
+        "text": "It's",
+        "start": 229.08,
+        "end": 229.24
+      },
+      {
+        "text": "basically",
+        "start": 229.32,
+        "end": 229.7
+      },
+      {
+        "text": "a",
+        "start": 229.71,
+        "end": 229.82
+      },
+      {
+        "text": "water",
+        "start": 229.86,
+        "end": 230.14
+      },
+      {
+        "text": "tank",
+        "start": 230.2,
+        "end": 230.48
+      },
+      {
+        "text": "\u2014",
+        "start": 230.98,
+        "end": 230.981
+      },
+      {
+        "text": "when",
+        "start": 231.04,
+        "end": 231.14
+      },
+      {
+        "text": "it's",
+        "start": 231.16,
+        "end": 231.42
+      },
+      {
+        "text": "full,",
+        "start": 231.46,
+        "end": 232.12
+      },
+      {
+        "text": "it",
+        "start": 232.16,
+        "end": 232.28
+      },
+      {
+        "text": "pushes",
+        "start": 232.32,
+        "end": 232.69
+      },
+      {
+        "text": "outward",
+        "start": 232.76,
+        "end": 233.24
+      },
+      {
+        "text": "and",
+        "start": 233.25,
+        "end": 233.37
+      },
+      {
+        "text": "keeps",
+        "start": 233.4,
+        "end": 233.65
+      },
+      {
+        "text": "the",
+        "start": 233.68,
+        "end": 233.78
+      },
+      {
+        "text": "whole",
+        "start": 233.86,
+        "end": 234.24
+      },
+      {
+        "text": "thing",
+        "start": 234.26,
+        "end": 234.46
+      },
+      {
+        "text": "rigid.",
+        "start": 234.58,
+        "end": 234.92
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "SAM",
+    "text": "So that's why a plant droops when it's thirsty.",
+    "start": 235.66,
+    "end": 237.59,
+    "words": [
+      {
+        "text": "So",
+        "start": 235.66,
+        "end": 235.78
+      },
+      {
+        "text": "that's",
+        "start": 235.82,
+        "end": 236.04
+      },
+      {
+        "text": "why",
+        "start": 236.08,
+        "end": 236.18
+      },
+      {
+        "text": "a",
+        "start": 236.19,
+        "end": 236.3
+      },
+      {
+        "text": "plant",
+        "start": 236.34,
+        "end": 236.6
+      },
+      {
+        "text": "droops",
+        "start": 236.64,
+        "end": 236.92
+      },
+      {
+        "text": "when",
+        "start": 236.94,
+        "end": 237.02
+      },
+      {
+        "text": "it's",
+        "start": 237.04,
+        "end": 237.21
+      },
+      {
+        "text": "thirsty.",
+        "start": 237.211,
+        "end": 237.59
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3 \u2014 THE CITY ANALOGY",
+    "speaker": "MAYA",
+    "text": "That's exactly why.",
+    "start": 238.36,
+    "end": 239.51,
+    "words": [
+      {
+        "text": "That's",
+        "start": 238.36,
+        "end": 238.54
+      },
+      {
+        "text": "exactly",
+        "start": 238.6,
+        "end": 239.2
+      },
+      {
+        "text": "why.",
+        "start": 239.24,
+        "end": 239.51
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "Here's the thing. Plant cells and animal cells have a lot in common. But plants solved a problem animals never had.",
+    "start": 250.32,
+    "end": 258.36,
+    "words": [
+      {
+        "text": "Here's",
+        "start": 250.32,
+        "end": 250.54
+      },
+      {
+        "text": "the",
+        "start": 250.58,
+        "end": 250.68
+      },
+      {
+        "text": "thing.",
+        "start": 250.72,
+        "end": 250.9
+      },
+      {
+        "text": "Plant",
+        "start": 251.67,
+        "end": 251.96
+      },
+      {
+        "text": "cells",
+        "start": 252.06,
+        "end": 252.3
+      },
+      {
+        "text": "and",
+        "start": 252.32,
+        "end": 252.44
+      },
+      {
+        "text": "animal",
+        "start": 252.52,
+        "end": 252.8
+      },
+      {
+        "text": "cells",
+        "start": 252.82,
+        "end": 253.1
+      },
+      {
+        "text": "have",
+        "start": 253.14,
+        "end": 253.27
+      },
+      {
+        "text": "a",
+        "start": 253.32,
+        "end": 253.4
+      },
+      {
+        "text": "lot",
+        "start": 253.52,
+        "end": 253.87
+      },
+      {
+        "text": "in",
+        "start": 253.92,
+        "end": 254.03
+      },
+      {
+        "text": "common.",
+        "start": 254.08,
+        "end": 255.48
+      },
+      {
+        "text": "But",
+        "start": 255.5,
+        "end": 255.67
+      },
+      {
+        "text": "plants",
+        "start": 255.7,
+        "end": 256.06
+      },
+      {
+        "text": "solved",
+        "start": 256.07,
+        "end": 256.34
+      },
+      {
+        "text": "a",
+        "start": 256.36,
+        "end": 256.42
+      },
+      {
+        "text": "problem",
+        "start": 256.459,
+        "end": 256.8
+      },
+      {
+        "text": "animals",
+        "start": 256.94,
+        "end": 257.44
+      },
+      {
+        "text": "never",
+        "start": 257.76,
+        "end": 258.0
+      },
+      {
+        "text": "had.",
+        "start": 258.01,
+        "end": 258.36
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "What problem?",
+    "start": 259.3,
+    "end": 259.88,
+    "words": [
+      {
+        "text": "What",
+        "start": 259.3,
+        "end": 259.48
+      },
+      {
+        "text": "problem?",
+        "start": 259.519,
+        "end": 259.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "They can't move. Can't chase food. They have to make it.",
+    "start": 260.94,
+    "end": 265.04,
+    "words": [
+      {
+        "text": "They",
+        "start": 260.94,
+        "end": 261.14
+      },
+      {
+        "text": "can't",
+        "start": 261.2,
+        "end": 261.44
+      },
+      {
+        "text": "move.",
+        "start": 261.5,
+        "end": 261.82
+      },
+      {
+        "text": "Can't",
+        "start": 262.6,
+        "end": 262.82
+      },
+      {
+        "text": "chase",
+        "start": 262.88,
+        "end": 263.14
+      },
+      {
+        "text": "food.",
+        "start": 263.22,
+        "end": 264.16
+      },
+      {
+        "text": "They",
+        "start": 264.2,
+        "end": 264.3
+      },
+      {
+        "text": "have",
+        "start": 264.34,
+        "end": 264.49
+      },
+      {
+        "text": "to",
+        "start": 264.52,
+        "end": 264.6
+      },
+      {
+        "text": "make",
+        "start": 264.66,
+        "end": 264.86
+      },
+      {
+        "text": "it.",
+        "start": 264.9,
+        "end": 265.04
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "First, the cell wall. Outside the membrane. Rigid. Made of cellulose.",
+    "start": 267.0,
+    "end": 271.9,
+    "words": [
+      {
+        "text": "First,",
+        "start": 267.0,
+        "end": 267.34
+      },
+      {
+        "text": "the",
+        "start": 267.53,
+        "end": 267.66
+      },
+      {
+        "text": "cell",
+        "start": 267.7,
+        "end": 267.9
+      },
+      {
+        "text": "wall.",
+        "start": 267.98,
+        "end": 268.24
+      },
+      {
+        "text": "Outside",
+        "start": 268.84,
+        "end": 269.22
+      },
+      {
+        "text": "the",
+        "start": 269.24,
+        "end": 269.3
+      },
+      {
+        "text": "membrane.",
+        "start": 269.34,
+        "end": 269.78
+      },
+      {
+        "text": "Rigid.",
+        "start": 270.18,
+        "end": 270.5
+      },
+      {
+        "text": "Made",
+        "start": 270.98,
+        "end": 271.1
+      },
+      {
+        "text": "of",
+        "start": 271.14,
+        "end": 271.24
+      },
+      {
+        "text": "cellulose.",
+        "start": 271.28,
+        "end": 271.9
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "That's why wood is wood.",
+    "start": 272.62,
+    "end": 273.58,
+    "words": [
+      {
+        "text": "That's",
+        "start": 272.62,
+        "end": 272.78
+      },
+      {
+        "text": "why",
+        "start": 272.82,
+        "end": 273.0
+      },
+      {
+        "text": "wood",
+        "start": 273.04,
+        "end": 273.16
+      },
+      {
+        "text": "is",
+        "start": 273.2,
+        "end": 273.32
+      },
+      {
+        "text": "wood.",
+        "start": 273.38,
+        "end": 273.58
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "Basically, yeah! In an animal cell, the membrane is the outer edge, and it's flexible. In a plant cell, there's a wall outside that \u2014 hard, structured.",
+    "start": 274.22,
+    "end": 285.12,
+    "words": [
+      {
+        "text": "Basically,",
+        "start": 274.22,
+        "end": 274.79
+      },
+      {
+        "text": "yeah!",
+        "start": 274.88,
+        "end": 275.18
+      },
+      {
+        "text": "In",
+        "start": 276.12,
+        "end": 276.18
+      },
+      {
+        "text": "an",
+        "start": 276.22,
+        "end": 276.28
+      },
+      {
+        "text": "animal",
+        "start": 276.4,
+        "end": 276.66
+      },
+      {
+        "text": "cell,",
+        "start": 276.72,
+        "end": 277.08
+      },
+      {
+        "text": "the",
+        "start": 277.26,
+        "end": 277.34
+      },
+      {
+        "text": "membrane",
+        "start": 277.36,
+        "end": 277.82
+      },
+      {
+        "text": "is",
+        "start": 277.86,
+        "end": 277.98
+      },
+      {
+        "text": "the",
+        "start": 278.02,
+        "end": 278.1
+      },
+      {
+        "text": "outer",
+        "start": 278.16,
+        "end": 278.4
+      },
+      {
+        "text": "edge,",
+        "start": 278.46,
+        "end": 278.82
+      },
+      {
+        "text": "and",
+        "start": 279.02,
+        "end": 279.2
+      },
+      {
+        "text": "it's",
+        "start": 279.24,
+        "end": 279.4
+      },
+      {
+        "text": "flexible.",
+        "start": 279.44,
+        "end": 279.98
+      },
+      {
+        "text": "In",
+        "start": 280.78,
+        "end": 280.84
+      },
+      {
+        "text": "a",
+        "start": 280.86,
+        "end": 280.94
+      },
+      {
+        "text": "plant",
+        "start": 280.98,
+        "end": 281.26
+      },
+      {
+        "text": "cell,",
+        "start": 281.34,
+        "end": 281.64
+      },
+      {
+        "text": "there's",
+        "start": 281.86,
+        "end": 282.02
+      },
+      {
+        "text": "a",
+        "start": 282.06,
+        "end": 282.12
+      },
+      {
+        "text": "wall",
+        "start": 282.18,
+        "end": 282.42
+      },
+      {
+        "text": "outside",
+        "start": 282.46,
+        "end": 282.92
+      },
+      {
+        "text": "that",
+        "start": 282.94,
+        "end": 283.3
+      },
+      {
+        "text": "\u2014",
+        "start": 283.68,
+        "end": 283.681
+      },
+      {
+        "text": "hard,",
+        "start": 283.76,
+        "end": 284.12
+      },
+      {
+        "text": "structured.",
+        "start": 284.56,
+        "end": 285.12
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "And the solar panels?",
+    "start": 285.88,
+    "end": 287.14,
+    "words": [
+      {
+        "text": "And",
+        "start": 285.88,
+        "end": 286.14
+      },
+      {
+        "text": "the",
+        "start": 286.2,
+        "end": 286.48
+      },
+      {
+        "text": "solar",
+        "start": 286.52,
+        "end": 286.72
+      },
+      {
+        "text": "panels?",
+        "start": 286.8,
+        "end": 287.14
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "Chloroplasts. They capture sunlight and turn it into glucose \u2014 photosynthesis. Every green thing you've ever seen is green because of chloroplasts.",
+    "start": 287.66,
+    "end": 297.82,
+    "words": [
+      {
+        "text": "Chloroplasts.",
+        "start": 287.66,
+        "end": 288.5
+      },
+      {
+        "text": "They",
+        "start": 289.14,
+        "end": 289.25
+      },
+      {
+        "text": "capture",
+        "start": 289.36,
+        "end": 289.7
+      },
+      {
+        "text": "sunlight",
+        "start": 289.8,
+        "end": 290.28
+      },
+      {
+        "text": "and",
+        "start": 290.3,
+        "end": 290.39
+      },
+      {
+        "text": "turn",
+        "start": 290.46,
+        "end": 290.62
+      },
+      {
+        "text": "it",
+        "start": 290.66,
+        "end": 290.74
+      },
+      {
+        "text": "into",
+        "start": 290.78,
+        "end": 290.98
+      },
+      {
+        "text": "glucose",
+        "start": 291.0,
+        "end": 291.56
+      },
+      {
+        "text": "\u2014",
+        "start": 291.92,
+        "end": 291.921
+      },
+      {
+        "text": "photosynthesis.",
+        "start": 291.96,
+        "end": 292.92
+      },
+      {
+        "text": "Every",
+        "start": 293.8,
+        "end": 294.1
+      },
+      {
+        "text": "green",
+        "start": 294.16,
+        "end": 294.36
+      },
+      {
+        "text": "thing",
+        "start": 294.46,
+        "end": 294.72
+      },
+      {
+        "text": "you've",
+        "start": 294.8,
+        "end": 295.0
+      },
+      {
+        "text": "ever",
+        "start": 295.06,
+        "end": 295.34
+      },
+      {
+        "text": "seen",
+        "start": 295.38,
+        "end": 295.74
+      },
+      {
+        "text": "is",
+        "start": 296.0,
+        "end": 296.08
+      },
+      {
+        "text": "green",
+        "start": 296.1,
+        "end": 296.54
+      },
+      {
+        "text": "because",
+        "start": 296.58,
+        "end": 296.82
+      },
+      {
+        "text": "of",
+        "start": 296.88,
+        "end": 296.94
+      },
+      {
+        "text": "chloroplasts.",
+        "start": 297.0,
+        "end": 297.82
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "Wait \u2014 if a plant's making its own food, why does it still need mitochondria?",
+    "start": 298.64,
+    "end": 303.48,
+    "words": [
+      {
+        "text": "Wait",
+        "start": 298.64,
+        "end": 298.92
+      },
+      {
+        "text": "\u2014",
+        "start": 299.72,
+        "end": 299.721
+      },
+      {
+        "text": "if",
+        "start": 299.78,
+        "end": 299.82
+      },
+      {
+        "text": "a",
+        "start": 299.88,
+        "end": 299.96
+      },
+      {
+        "text": "plant's",
+        "start": 300.0,
+        "end": 300.34
+      },
+      {
+        "text": "making",
+        "start": 300.4,
+        "end": 300.6
+      },
+      {
+        "text": "its",
+        "start": 300.62,
+        "end": 300.74
+      },
+      {
+        "text": "own",
+        "start": 300.78,
+        "end": 301.04
+      },
+      {
+        "text": "food,",
+        "start": 301.1,
+        "end": 301.44
+      },
+      {
+        "text": "why",
+        "start": 302.0,
+        "end": 302.16
+      },
+      {
+        "text": "does",
+        "start": 302.18,
+        "end": 302.29
+      },
+      {
+        "text": "it",
+        "start": 302.34,
+        "end": 302.42
+      },
+      {
+        "text": "still",
+        "start": 302.48,
+        "end": 302.62
+      },
+      {
+        "text": "need",
+        "start": 302.64,
+        "end": 302.74
+      },
+      {
+        "text": "mitochondria?",
+        "start": 302.82,
+        "end": 303.48
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "Because the chloroplast makes the glucose. The mitochondria still has to convert that glucose into A-T-P. Different jobs, same cell.",
+    "start": 304.08,
+    "end": 312.3,
+    "words": [
+      {
+        "text": "Because",
+        "start": 304.08,
+        "end": 304.3
+      },
+      {
+        "text": "the",
+        "start": 304.38,
+        "end": 304.46
+      },
+      {
+        "text": "chloroplast",
+        "start": 304.48,
+        "end": 305.12
+      },
+      {
+        "text": "makes",
+        "start": 305.18,
+        "end": 305.46
+      },
+      {
+        "text": "the",
+        "start": 305.469,
+        "end": 305.58
+      },
+      {
+        "text": "glucose.",
+        "start": 305.6,
+        "end": 306.5
+      },
+      {
+        "text": "The",
+        "start": 306.54,
+        "end": 306.6
+      },
+      {
+        "text": "mitochondria",
+        "start": 306.64,
+        "end": 307.46
+      },
+      {
+        "text": "still",
+        "start": 307.469,
+        "end": 307.69
+      },
+      {
+        "text": "has",
+        "start": 307.74,
+        "end": 307.89
+      },
+      {
+        "text": "to",
+        "start": 307.9,
+        "end": 307.98
+      },
+      {
+        "text": "convert",
+        "start": 308.02,
+        "end": 308.43
+      },
+      {
+        "text": "that",
+        "start": 308.48,
+        "end": 308.63
+      },
+      {
+        "text": "glucose",
+        "start": 308.64,
+        "end": 309.22
+      },
+      {
+        "text": "into",
+        "start": 309.26,
+        "end": 309.469
+      },
+      {
+        "text": "A-T-P.",
+        "start": 309.5,
+        "end": 310.06
+      },
+      {
+        "text": "Different",
+        "start": 310.68,
+        "end": 310.96
+      },
+      {
+        "text": "jobs,",
+        "start": 311.0,
+        "end": 311.719
+      },
+      {
+        "text": "same",
+        "start": 311.78,
+        "end": 312.04
+      },
+      {
+        "text": "cell.",
+        "start": 312.08,
+        "end": 312.3
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "Division of labor.",
+    "start": 312.84,
+    "end": 314.56,
+    "words": [
+      {
+        "text": "Division",
+        "start": 312.84,
+        "end": 313.469
+      },
+      {
+        "text": "of",
+        "start": 313.5,
+        "end": 313.61
+      },
+      {
+        "text": "labor.",
+        "start": 313.68,
+        "end": 314.56
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "Very civic of them.",
+    "start": 314.66,
+    "end": 315.7,
+    "words": [
+      {
+        "text": "Very",
+        "start": 314.66,
+        "end": 314.85
+      },
+      {
+        "text": "civic",
+        "start": 314.94,
+        "end": 315.28
+      },
+      {
+        "text": "of",
+        "start": 315.34,
+        "end": 315.44
+      },
+      {
+        "text": "them.",
+        "start": 315.5,
+        "end": 315.7
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "And the water tank we already covered.",
+    "start": 316.23,
+    "end": 317.88,
+    "words": [
+      {
+        "text": "And",
+        "start": 316.23,
+        "end": 316.5
+      },
+      {
+        "text": "the",
+        "start": 316.54,
+        "end": 316.62
+      },
+      {
+        "text": "water",
+        "start": 316.66,
+        "end": 316.84
+      },
+      {
+        "text": "tank",
+        "start": 316.92,
+        "end": 317.14
+      },
+      {
+        "text": "we",
+        "start": 317.2,
+        "end": 317.28
+      },
+      {
+        "text": "already",
+        "start": 317.34,
+        "end": 317.54
+      },
+      {
+        "text": "covered.",
+        "start": 317.58,
+        "end": 317.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "The vacuole, yes. Plants get one enormous vacuole.",
+    "start": 318.42,
+    "end": 322.76,
+    "words": [
+      {
+        "text": "The",
+        "start": 318.42,
+        "end": 318.54
+      },
+      {
+        "text": "vacuole,",
+        "start": 318.6,
+        "end": 319.12
+      },
+      {
+        "text": "yes.",
+        "start": 319.38,
+        "end": 319.78
+      },
+      {
+        "text": "Plants",
+        "start": 320.36,
+        "end": 320.74
+      },
+      {
+        "text": "get",
+        "start": 320.78,
+        "end": 320.9
+      },
+      {
+        "text": "one",
+        "start": 321.12,
+        "end": 321.38
+      },
+      {
+        "text": "enormous",
+        "start": 321.54,
+        "end": 322.22
+      },
+      {
+        "text": "vacuole.",
+        "start": 322.26,
+        "end": 322.76
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "MAYA",
+    "text": "So the animal cell's more flexible \u2014 literally. The plant cell's more self-sufficient. Neither one's better. They just solved different problems.",
+    "start": 323.24,
+    "end": 331.66,
+    "words": [
+      {
+        "text": "So",
+        "start": 323.24,
+        "end": 323.34
+      },
+      {
+        "text": "the",
+        "start": 323.38,
+        "end": 323.46
+      },
+      {
+        "text": "animal",
+        "start": 323.54,
+        "end": 323.86
+      },
+      {
+        "text": "cell's",
+        "start": 323.9,
+        "end": 324.2
+      },
+      {
+        "text": "more",
+        "start": 324.24,
+        "end": 324.42
+      },
+      {
+        "text": "flexible",
+        "start": 324.46,
+        "end": 324.96
+      },
+      {
+        "text": "\u2014",
+        "start": 325.3,
+        "end": 325.301
+      },
+      {
+        "text": "literally.",
+        "start": 325.36,
+        "end": 325.9
+      },
+      {
+        "text": "The",
+        "start": 326.28,
+        "end": 326.38
+      },
+      {
+        "text": "plant",
+        "start": 326.42,
+        "end": 326.68
+      },
+      {
+        "text": "cell's",
+        "start": 326.74,
+        "end": 327.18
+      },
+      {
+        "text": "more",
+        "start": 327.22,
+        "end": 327.34
+      },
+      {
+        "text": "self-sufficient.",
+        "start": 327.42,
+        "end": 328.159
+      },
+      {
+        "text": "Neither",
+        "start": 328.72,
+        "end": 328.96
+      },
+      {
+        "text": "one's",
+        "start": 329.02,
+        "end": 329.28
+      },
+      {
+        "text": "better.",
+        "start": 329.32,
+        "end": 329.64
+      },
+      {
+        "text": "They",
+        "start": 330.04,
+        "end": 330.12
+      },
+      {
+        "text": "just",
+        "start": 330.22,
+        "end": 330.38
+      },
+      {
+        "text": "solved",
+        "start": 330.46,
+        "end": 330.74
+      },
+      {
+        "text": "different",
+        "start": 330.78,
+        "end": 331.0
+      },
+      {
+        "text": "problems.",
+        "start": 331.08,
+        "end": 331.66
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4 \u2014 PLANT VS. ANIMAL",
+    "speaker": "SAM",
+    "text": "Fair trade either way.",
+    "start": 332.4,
+    "end": 333.24,
+    "words": [
+      {
+        "text": "Fair",
+        "start": 332.4,
+        "end": 332.54
+      },
+      {
+        "text": "trade",
+        "start": 332.62,
+        "end": 332.82
+      },
+      {
+        "text": "either",
+        "start": 332.86,
+        "end": 333.04
+      },
+      {
+        "text": "way.",
+        "start": 333.06,
+        "end": 333.24
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "MAYA",
+    "text": "You've had a cold. You know that feeling where you're just lying there, not doing anything, and you're still exhausted?",
+    "start": 343.98,
+    "end": 350.84,
+    "words": [
+      {
+        "text": "You've",
+        "start": 343.98,
+        "end": 344.12
+      },
+      {
+        "text": "had",
+        "start": 344.16,
+        "end": 344.3
+      },
+      {
+        "text": "a",
+        "start": 344.34,
+        "end": 344.35
+      },
+      {
+        "text": "cold.",
+        "start": 344.44,
+        "end": 344.78
+      },
+      {
+        "text": "You",
+        "start": 345.46,
+        "end": 345.5
+      },
+      {
+        "text": "know",
+        "start": 345.56,
+        "end": 345.76
+      },
+      {
+        "text": "that",
+        "start": 345.82,
+        "end": 345.98
+      },
+      {
+        "text": "feeling",
+        "start": 346.04,
+        "end": 346.44
+      },
+      {
+        "text": "where",
+        "start": 346.54,
+        "end": 346.64
+      },
+      {
+        "text": "you're",
+        "start": 346.68,
+        "end": 346.78
+      },
+      {
+        "text": "just",
+        "start": 346.82,
+        "end": 347.02
+      },
+      {
+        "text": "lying",
+        "start": 347.08,
+        "end": 347.46
+      },
+      {
+        "text": "there,",
+        "start": 347.52,
+        "end": 347.75
+      },
+      {
+        "text": "not",
+        "start": 348.02,
+        "end": 348.28
+      },
+      {
+        "text": "doing",
+        "start": 348.32,
+        "end": 348.56
+      },
+      {
+        "text": "anything,",
+        "start": 348.6,
+        "end": 349.08
+      },
+      {
+        "text": "and",
+        "start": 349.54,
+        "end": 349.63
+      },
+      {
+        "text": "you're",
+        "start": 349.68,
+        "end": 349.86
+      },
+      {
+        "text": "still",
+        "start": 349.94,
+        "end": 350.08
+      },
+      {
+        "text": "exhausted?",
+        "start": 350.12,
+        "end": 350.84
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "SAM",
+    "text": "Your cells are in a war.",
+    "start": 351.76,
+    "end": 353.48,
+    "words": [
+      {
+        "text": "Your",
+        "start": 351.76,
+        "end": 351.94
+      },
+      {
+        "text": "cells",
+        "start": 352.0,
+        "end": 352.56
+      },
+      {
+        "text": "are",
+        "start": 352.6,
+        "end": 352.74
+      },
+      {
+        "text": "in",
+        "start": 352.8,
+        "end": 352.88
+      },
+      {
+        "text": "a",
+        "start": 352.94,
+        "end": 353.1
+      },
+      {
+        "text": "war.",
+        "start": 353.16,
+        "end": 353.48
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "MAYA",
+    "text": "Kind of, yeah. Immune cells are multiplying, attacking. Mitochondria in every cell are running at capacity.",
+    "start": 354.52,
+    "end": 363.56,
+    "words": [
+      {
+        "text": "Kind",
+        "start": 354.52,
+        "end": 354.92
+      },
+      {
+        "text": "of,",
+        "start": 354.93,
+        "end": 355.12
+      },
+      {
+        "text": "yeah.",
+        "start": 355.22,
+        "end": 355.54
+      },
+      {
+        "text": "Immune",
+        "start": 356.36,
+        "end": 356.64
+      },
+      {
+        "text": "cells",
+        "start": 356.72,
+        "end": 356.94
+      },
+      {
+        "text": "are",
+        "start": 356.96,
+        "end": 357.12
+      },
+      {
+        "text": "multiplying,",
+        "start": 357.16,
+        "end": 357.89
+      },
+      {
+        "text": "attacking.",
+        "start": 358.06,
+        "end": 358.81
+      },
+      {
+        "text": "Mitochondria",
+        "start": 359.52,
+        "end": 360.3
+      },
+      {
+        "text": "in",
+        "start": 360.32,
+        "end": 360.54
+      },
+      {
+        "text": "every",
+        "start": 360.6,
+        "end": 360.94
+      },
+      {
+        "text": "cell",
+        "start": 360.98,
+        "end": 361.26
+      },
+      {
+        "text": "are",
+        "start": 361.3,
+        "end": 361.46
+      },
+      {
+        "text": "running",
+        "start": 361.5,
+        "end": 361.79
+      },
+      {
+        "text": "at",
+        "start": 361.84,
+        "end": 361.969
+      },
+      {
+        "text": "capacity.",
+        "start": 362.0,
+        "end": 363.56
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "SAM",
+    "text": "So your body's not resting. It's mobilizing.",
+    "start": 363.58,
+    "end": 366.6,
+    "words": [
+      {
+        "text": "So",
+        "start": 363.58,
+        "end": 363.68
+      },
+      {
+        "text": "your",
+        "start": 363.72,
+        "end": 363.86
+      },
+      {
+        "text": "body's",
+        "start": 363.88,
+        "end": 364.23
+      },
+      {
+        "text": "not",
+        "start": 364.26,
+        "end": 364.39
+      },
+      {
+        "text": "resting.",
+        "start": 364.52,
+        "end": 364.92
+      },
+      {
+        "text": "It's",
+        "start": 365.61,
+        "end": 365.84
+      },
+      {
+        "text": "mobilizing.",
+        "start": 365.9,
+        "end": 366.6
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "MAYA",
+    "text": "Right. Your immune cells are working overtime, and that work costs energy \u2014 the same A-T-P your muscles would normally use to keep you moving. Sick or not, your body's still spending the same fuel. It's just spending it somewhere else.",
+    "start": 367.38,
+    "end": 382.24,
+    "words": [
+      {
+        "text": "Right.",
+        "start": 367.38,
+        "end": 367.68
+      },
+      {
+        "text": "Your",
+        "start": 368.42,
+        "end": 368.52
+      },
+      {
+        "text": "immune",
+        "start": 368.56,
+        "end": 368.84
+      },
+      {
+        "text": "cells",
+        "start": 368.94,
+        "end": 369.18
+      },
+      {
+        "text": "are",
+        "start": 369.22,
+        "end": 369.32
+      },
+      {
+        "text": "working",
+        "start": 369.36,
+        "end": 369.68
+      },
+      {
+        "text": "overtime,",
+        "start": 369.76,
+        "end": 370.32
+      },
+      {
+        "text": "and",
+        "start": 370.88,
+        "end": 370.969
+      },
+      {
+        "text": "that",
+        "start": 371.02,
+        "end": 371.13
+      },
+      {
+        "text": "work",
+        "start": 371.2,
+        "end": 371.46
+      },
+      {
+        "text": "costs",
+        "start": 371.52,
+        "end": 371.8
+      },
+      {
+        "text": "energy",
+        "start": 371.88,
+        "end": 372.25
+      },
+      {
+        "text": "\u2014",
+        "start": 372.94,
+        "end": 372.941
+      },
+      {
+        "text": "the",
+        "start": 373.0,
+        "end": 373.1
+      },
+      {
+        "text": "same",
+        "start": 373.2,
+        "end": 373.46
+      },
+      {
+        "text": "A-T-P",
+        "start": 373.52,
+        "end": 374.0
+      },
+      {
+        "text": "your",
+        "start": 374.06,
+        "end": 374.14
+      },
+      {
+        "text": "muscles",
+        "start": 374.28,
+        "end": 374.64
+      },
+      {
+        "text": "would",
+        "start": 374.68,
+        "end": 374.78
+      },
+      {
+        "text": "normally",
+        "start": 374.82,
+        "end": 375.14
+      },
+      {
+        "text": "use",
+        "start": 375.18,
+        "end": 375.44
+      },
+      {
+        "text": "to",
+        "start": 375.45,
+        "end": 375.56
+      },
+      {
+        "text": "keep",
+        "start": 375.6,
+        "end": 375.76
+      },
+      {
+        "text": "you",
+        "start": 375.8,
+        "end": 375.9
+      },
+      {
+        "text": "moving.",
+        "start": 375.91,
+        "end": 376.36
+      },
+      {
+        "text": "Sick",
+        "start": 377.18,
+        "end": 377.38
+      },
+      {
+        "text": "or",
+        "start": 377.4,
+        "end": 377.46
+      },
+      {
+        "text": "not,",
+        "start": 377.54,
+        "end": 377.8
+      },
+      {
+        "text": "your",
+        "start": 378.12,
+        "end": 378.24
+      },
+      {
+        "text": "body's",
+        "start": 378.28,
+        "end": 378.6
+      },
+      {
+        "text": "still",
+        "start": 378.64,
+        "end": 378.82
+      },
+      {
+        "text": "spending",
+        "start": 378.92,
+        "end": 379.18
+      },
+      {
+        "text": "the",
+        "start": 379.22,
+        "end": 379.3
+      },
+      {
+        "text": "same",
+        "start": 379.36,
+        "end": 379.56
+      },
+      {
+        "text": "fuel.",
+        "start": 379.68,
+        "end": 380.04
+      },
+      {
+        "text": "It's",
+        "start": 380.64,
+        "end": 380.84
+      },
+      {
+        "text": "just",
+        "start": 380.9,
+        "end": 381.02
+      },
+      {
+        "text": "spending",
+        "start": 381.06,
+        "end": 381.34
+      },
+      {
+        "text": "it",
+        "start": 381.38,
+        "end": 381.48
+      },
+      {
+        "text": "somewhere",
+        "start": 381.54,
+        "end": 381.84
+      },
+      {
+        "text": "else.",
+        "start": 381.88,
+        "end": 382.24
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "SAM",
+    "text": "The same cells that let you run a kilometer are the ones keeping you alive when you can't get off the couch. They don't have an off switch.",
+    "start": 382.92,
+    "end": 390.52,
+    "words": [
+      {
+        "text": "The",
+        "start": 382.92,
+        "end": 383.04
+      },
+      {
+        "text": "same",
+        "start": 383.12,
+        "end": 383.38
+      },
+      {
+        "text": "cells",
+        "start": 383.42,
+        "end": 383.76
+      },
+      {
+        "text": "that",
+        "start": 383.82,
+        "end": 383.93
+      },
+      {
+        "text": "let",
+        "start": 383.96,
+        "end": 384.08
+      },
+      {
+        "text": "you",
+        "start": 384.14,
+        "end": 384.24
+      },
+      {
+        "text": "run",
+        "start": 384.28,
+        "end": 384.42
+      },
+      {
+        "text": "a",
+        "start": 384.46,
+        "end": 384.5
+      },
+      {
+        "text": "kilometer",
+        "start": 384.54,
+        "end": 385.04
+      },
+      {
+        "text": "are",
+        "start": 385.42,
+        "end": 385.48
+      },
+      {
+        "text": "the",
+        "start": 385.52,
+        "end": 385.6
+      },
+      {
+        "text": "ones",
+        "start": 385.64,
+        "end": 385.9
+      },
+      {
+        "text": "keeping",
+        "start": 385.96,
+        "end": 386.24
+      },
+      {
+        "text": "you",
+        "start": 386.28,
+        "end": 386.34
+      },
+      {
+        "text": "alive",
+        "start": 386.4,
+        "end": 386.8
+      },
+      {
+        "text": "when",
+        "start": 386.82,
+        "end": 386.93
+      },
+      {
+        "text": "you",
+        "start": 386.96,
+        "end": 387.06
+      },
+      {
+        "text": "can't",
+        "start": 387.12,
+        "end": 387.34
+      },
+      {
+        "text": "get",
+        "start": 387.36,
+        "end": 387.44
+      },
+      {
+        "text": "off",
+        "start": 387.5,
+        "end": 387.64
+      },
+      {
+        "text": "the",
+        "start": 387.68,
+        "end": 387.76
+      },
+      {
+        "text": "couch.",
+        "start": 387.8,
+        "end": 388.2
+      },
+      {
+        "text": "They",
+        "start": 388.91,
+        "end": 389.12
+      },
+      {
+        "text": "don't",
+        "start": 389.16,
+        "end": 389.46
+      },
+      {
+        "text": "have",
+        "start": 389.52,
+        "end": 389.65
+      },
+      {
+        "text": "an",
+        "start": 389.68,
+        "end": 389.84
+      },
+      {
+        "text": "off",
+        "start": 389.92,
+        "end": 390.06
+      },
+      {
+        "text": "switch.",
+        "start": 390.18,
+        "end": 390.52
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "MAYA",
+    "text": "37 trillion things. They were already running before this episode started.",
+    "start": 391.36,
+    "end": 396.88,
+    "words": [
+      {
+        "text": "37 trillion",
+        "start": 391.36,
+        "end": 393.28
+      },
+      {
+        "text": "things.",
+        "start": 393.29,
+        "end": 393.78
+      },
+      {
+        "text": "They",
+        "start": 394.5,
+        "end": 394.6
+      },
+      {
+        "text": "were",
+        "start": 394.64,
+        "end": 394.76
+      },
+      {
+        "text": "already",
+        "start": 394.86,
+        "end": 395.12
+      },
+      {
+        "text": "running",
+        "start": 395.18,
+        "end": 395.42
+      },
+      {
+        "text": "before",
+        "start": 395.46,
+        "end": 395.72
+      },
+      {
+        "text": "this",
+        "start": 395.76,
+        "end": 395.9
+      },
+      {
+        "text": "episode",
+        "start": 395.96,
+        "end": 396.34
+      },
+      {
+        "text": "started.",
+        "start": 396.46,
+        "end": 396.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5 \u2014 THE REAL WORLD PULL",
+    "speaker": "SAM",
+    "text": "And they'll keep running after it ends.",
+    "start": 397.58,
+    "end": 399.36,
+    "words": [
+      {
+        "text": "And",
+        "start": 397.58,
+        "end": 397.66
+      },
+      {
+        "text": "they'll",
+        "start": 397.68,
+        "end": 397.86
+      },
+      {
+        "text": "keep",
+        "start": 397.92,
+        "end": 398.11
+      },
+      {
+        "text": "running",
+        "start": 398.18,
+        "end": 398.56
+      },
+      {
+        "text": "after",
+        "start": 398.68,
+        "end": 398.85
+      },
+      {
+        "text": "it",
+        "start": 398.9,
+        "end": 398.98
+      },
+      {
+        "text": "ends.",
+        "start": 399.06,
+        "end": 399.36
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "SAM",
+    "text": "So. Cell theory. Three ideas. Took scientists 200 years to agree on them.",
+    "start": 403.86,
+    "end": 411.0,
+    "words": [
+      {
+        "text": "So.",
+        "start": 403.86,
+        "end": 404.14
+      },
+      {
+        "text": "Cell",
+        "start": 404.98,
+        "end": 405.16
+      },
+      {
+        "text": "theory.",
+        "start": 405.24,
+        "end": 405.52
+      },
+      {
+        "text": "Three",
+        "start": 406.42,
+        "end": 406.6
+      },
+      {
+        "text": "ideas.",
+        "start": 406.68,
+        "end": 407.1
+      },
+      {
+        "text": "Took",
+        "start": 407.68,
+        "end": 407.88
+      },
+      {
+        "text": "scientists",
+        "start": 407.9,
+        "end": 408.36
+      },
+      {
+        "text": "200",
+        "start": 408.37,
+        "end": 408.92
+      },
+      {
+        "text": "years",
+        "start": 408.96,
+        "end": 409.28
+      },
+      {
+        "text": "to",
+        "start": 409.3,
+        "end": 409.36
+      },
+      {
+        "text": "agree",
+        "start": 409.4,
+        "end": 409.64
+      },
+      {
+        "text": "on",
+        "start": 409.7,
+        "end": 409.83
+      },
+      {
+        "text": "them.",
+        "start": 409.88,
+        "end": 411.0
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "MAYA",
+    "text": "All living things are made of cells \u2014 every living thing you've ever seen. Plant, animal, person.",
+    "start": 411.1,
+    "end": 418.18,
+    "words": [
+      {
+        "text": "All",
+        "start": 411.1,
+        "end": 411.26
+      },
+      {
+        "text": "living",
+        "start": 411.28,
+        "end": 411.58
+      },
+      {
+        "text": "things",
+        "start": 411.6,
+        "end": 411.86
+      },
+      {
+        "text": "are",
+        "start": 411.9,
+        "end": 411.99
+      },
+      {
+        "text": "made",
+        "start": 412.0,
+        "end": 412.14
+      },
+      {
+        "text": "of",
+        "start": 412.16,
+        "end": 412.23
+      },
+      {
+        "text": "cells",
+        "start": 412.32,
+        "end": 412.78
+      },
+      {
+        "text": "\u2014",
+        "start": 413.34,
+        "end": 413.34099999999995
+      },
+      {
+        "text": "every",
+        "start": 413.46,
+        "end": 413.83
+      },
+      {
+        "text": "living",
+        "start": 413.88,
+        "end": 414.18
+      },
+      {
+        "text": "thing",
+        "start": 414.19,
+        "end": 414.35
+      },
+      {
+        "text": "you've",
+        "start": 414.44,
+        "end": 414.64
+      },
+      {
+        "text": "ever",
+        "start": 414.7,
+        "end": 414.96
+      },
+      {
+        "text": "seen.",
+        "start": 415.0,
+        "end": 415.26
+      },
+      {
+        "text": "Plant,",
+        "start": 415.53,
+        "end": 415.92
+      },
+      {
+        "text": "animal,",
+        "start": 416.3,
+        "end": 416.67
+      },
+      {
+        "text": "person.",
+        "start": 416.92,
+        "end": 418.18
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "MAYA",
+    "text": "The cell is the smallest unit of life. Below this, it's chemistry. At this level, it's life.",
+    "start": 418.22,
+    "end": 424.86,
+    "words": [
+      {
+        "text": "The",
+        "start": 418.22,
+        "end": 418.36
+      },
+      {
+        "text": "cell",
+        "start": 418.4,
+        "end": 418.64
+      },
+      {
+        "text": "is",
+        "start": 418.68,
+        "end": 418.77
+      },
+      {
+        "text": "the",
+        "start": 418.8,
+        "end": 418.96
+      },
+      {
+        "text": "smallest",
+        "start": 419.02,
+        "end": 419.48
+      },
+      {
+        "text": "unit",
+        "start": 419.58,
+        "end": 419.74
+      },
+      {
+        "text": "of",
+        "start": 419.78,
+        "end": 419.86
+      },
+      {
+        "text": "life.",
+        "start": 419.9,
+        "end": 420.22
+      },
+      {
+        "text": "Below",
+        "start": 420.8,
+        "end": 421.06
+      },
+      {
+        "text": "this,",
+        "start": 421.14,
+        "end": 421.41
+      },
+      {
+        "text": "it's",
+        "start": 421.8,
+        "end": 421.92
+      },
+      {
+        "text": "chemistry.",
+        "start": 421.99,
+        "end": 422.47
+      },
+      {
+        "text": "At",
+        "start": 423.1,
+        "end": 423.24
+      },
+      {
+        "text": "this",
+        "start": 423.28,
+        "end": 423.5
+      },
+      {
+        "text": "level,",
+        "start": 423.54,
+        "end": 424.26
+      },
+      {
+        "text": "it's",
+        "start": 424.3,
+        "end": 424.46
+      },
+      {
+        "text": "life.",
+        "start": 424.5,
+        "end": 424.86
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "MAYA",
+    "text": "And all cells come from pre-existing cells. You started as one cell. One. That divided, and divided, and kept dividing until there were 37 trillion of them. All running. Right now.",
+    "start": 426.06,
+    "end": 440.04,
+    "words": [
+      {
+        "text": "And",
+        "start": 426.06,
+        "end": 426.2
+      },
+      {
+        "text": "all",
+        "start": 426.28,
+        "end": 426.44
+      },
+      {
+        "text": "cells",
+        "start": 426.48,
+        "end": 426.84
+      },
+      {
+        "text": "come",
+        "start": 426.86,
+        "end": 427.02
+      },
+      {
+        "text": "from",
+        "start": 427.06,
+        "end": 427.2
+      },
+      {
+        "text": "pre-existing",
+        "start": 427.24,
+        "end": 427.9
+      },
+      {
+        "text": "cells.",
+        "start": 427.94,
+        "end": 428.76
+      },
+      {
+        "text": "You",
+        "start": 428.86,
+        "end": 428.98
+      },
+      {
+        "text": "started",
+        "start": 429.04,
+        "end": 429.3
+      },
+      {
+        "text": "as",
+        "start": 429.36,
+        "end": 429.48
+      },
+      {
+        "text": "one",
+        "start": 429.52,
+        "end": 429.72
+      },
+      {
+        "text": "cell.",
+        "start": 429.76,
+        "end": 430.56
+      },
+      {
+        "text": "One.",
+        "start": 430.62,
+        "end": 430.92
+      },
+      {
+        "text": "That",
+        "start": 431.5,
+        "end": 431.66
+      },
+      {
+        "text": "divided,",
+        "start": 431.72,
+        "end": 432.32
+      },
+      {
+        "text": "and",
+        "start": 432.39,
+        "end": 432.48
+      },
+      {
+        "text": "divided,",
+        "start": 432.52,
+        "end": 433.24
+      },
+      {
+        "text": "and",
+        "start": 433.58,
+        "end": 433.68
+      },
+      {
+        "text": "kept",
+        "start": 433.8,
+        "end": 434.06
+      },
+      {
+        "text": "dividing",
+        "start": 434.1,
+        "end": 434.62
+      },
+      {
+        "text": "until",
+        "start": 434.74,
+        "end": 435.04
+      },
+      {
+        "text": "there",
+        "start": 435.08,
+        "end": 435.18
+      },
+      {
+        "text": "were",
+        "start": 435.22,
+        "end": 435.4
+      },
+      {
+        "text": "37 trillion",
+        "start": 435.52,
+        "end": 437.18
+      },
+      {
+        "text": "of",
+        "start": 437.24,
+        "end": 437.34
+      },
+      {
+        "text": "them.",
+        "start": 437.4,
+        "end": 437.659
+      },
+      {
+        "text": "All",
+        "start": 438.3,
+        "end": 438.48
+      },
+      {
+        "text": "running.",
+        "start": 438.6,
+        "end": 438.98
+      },
+      {
+        "text": "Right",
+        "start": 439.52,
+        "end": 439.66
+      },
+      {
+        "text": "now.",
+        "start": 439.76,
+        "end": 440.04
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "SAM",
+    "text": "Not bad for something you can't see.",
+    "start": 441.12,
+    "end": 442.66,
+    "words": [
+      {
+        "text": "Not",
+        "start": 441.12,
+        "end": 441.28
+      },
+      {
+        "text": "bad",
+        "start": 441.32,
+        "end": 441.53
+      },
+      {
+        "text": "for",
+        "start": 441.56,
+        "end": 441.66
+      },
+      {
+        "text": "something",
+        "start": 441.68,
+        "end": 441.94
+      },
+      {
+        "text": "you",
+        "start": 441.98,
+        "end": 442.06
+      },
+      {
+        "text": "can't",
+        "start": 442.1,
+        "end": 442.36
+      },
+      {
+        "text": "see.",
+        "start": 442.44,
+        "end": 442.66
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "MAYA",
+    "text": "That is the cell.",
+    "start": 443.76,
+    "end": 445.28,
+    "words": [
+      {
+        "text": "That",
+        "start": 443.76,
+        "end": 444.6
+      },
+      {
+        "text": "is",
+        "start": 444.68,
+        "end": 444.82
+      },
+      {
+        "text": "the",
+        "start": 444.86,
+        "end": 444.98
+      },
+      {
+        "text": "cell.",
+        "start": 445.02,
+        "end": 445.28
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6 \u2014 THE CLOSE",
+    "speaker": "SAM",
+    "text": "See you next time.",
+    "start": 446.06,
+    "end": 446.76,
+    "words": [
+      {
+        "text": "See",
+        "start": 446.06,
+        "end": 446.14
+      },
+      {
+        "text": "you",
+        "start": 446.18,
+        "end": 446.26
+      },
+      {
+        "text": "next",
+        "start": 446.3,
+        "end": 446.48
+      },
+      {
+        "text": "time.",
+        "start": 446.52,
+        "end": 446.76
+      }
+    ]
+  }
+]
