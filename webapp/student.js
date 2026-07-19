@@ -290,35 +290,42 @@ function escapeHtml(s) {
 function renderQuiz() {
   window.scrollTo(0, 0);
   app.innerHTML = `
-    <div class="quiz-intro">
-      <span class="eyebrow">Check-in</span>
-      <h2>Four quick questions</h2>
-      <p>Answer all four, then submit — feedback for every question appears together at the end.</p>
-      <button id="relisten-btn" class="btn btn-ghost">↺ Relisten to the episode first</button>
-    </div>
-    <div class="quiz-list">
-      ${GATES.map(
-        (g, gi) => `
-        <div class="q-card" id="q-${gi}">
-          <div class="q-eyebrow">Question ${gi + 1} of ${GATES.length}</div>
-          <h3>${g.question}</h3>
-          <div class="opt-list" role="group" aria-label="Question ${gi + 1} options">
-            ${g.options
-              .map(
-                (opt, oi) => `
-              <button class="opt" id="opt-${gi}-${oi}" data-gate="${gi}" data-opt="${oi}" aria-pressed="false">
-                <span class="letter">${OPTION_LETTERS[oi]}</span><span>${opt}</span>
-              </button>`
-              )
-              .join("")}
-          </div>
-          <div class="feedback" id="fb-${gi}"></div>
-        </div>`
-      ).join("")}
-    </div>
-    <div class="submit-row">
-      <button id="submit-btn" class="btn btn-primary" disabled>Submit answers</button>
-      <div class="submit-hint" id="submit-hint">0 of ${GATES.length} answered</div>
+    <div class="quiz-screen">
+      <div class="quiz-progress" role="progressbar" aria-valuemin="0" aria-valuemax="${GATES.length}" aria-valuenow="0">
+        ${GATES.map((_, gi) => `<div class="progress-seg" id="seg-${gi}"></div>`).join("")}
+      </div>
+      <div class="quiz-inner">
+        <div class="quiz-head">
+          <span class="quiz-eyebrow">Check-in</span>
+          <h2>Four quick questions</h2>
+          <p>Answer all four, then submit — feedback appears together at the end.</p>
+          <button id="relisten-btn" class="relisten-link">↺ Relisten to the episode first</button>
+        </div>
+        <div class="quiz-list">
+          ${GATES.map(
+            (g, gi) => `
+            <section class="q-block" id="q-${gi}">
+              <div class="q-num mono">Q${gi + 1}</div>
+              <h3 class="q-text">${g.question}</h3>
+              <div class="opt-list" role="group" aria-label="Question ${gi + 1} options">
+                ${g.options
+                  .map(
+                    (opt, oi) => `
+                  <button class="opt" id="opt-${gi}-${oi}" data-gate="${gi}" data-opt="${oi}" aria-pressed="false">
+                    <span class="letter">${OPTION_LETTERS[oi]}</span><span class="opt-text">${opt}</span>
+                  </button>`
+                  )
+                  .join("")}
+              </div>
+              <div class="feedback" id="fb-${gi}"></div>
+            </section>`
+          ).join("")}
+        </div>
+      </div>
+      <div class="submit-bar">
+        <div class="submit-hint" id="submit-hint">0 of ${GATES.length} answered</div>
+        <button id="submit-btn" class="submit-btn" disabled>Submit answers</button>
+      </div>
     </div>
   `;
 
@@ -331,9 +338,11 @@ function renderQuiz() {
       document
         .querySelectorAll(`.opt[data-gate="${gi}"]`)
         .forEach((b) => b.setAttribute("aria-pressed", b === btn));
+      document.getElementById(`seg-${gi}`).classList.add("filled");
       const answeredCount = state.answers.filter((a) => a !== null).length;
       document.getElementById("submit-hint").textContent = `${answeredCount} of ${GATES.length} answered`;
       document.getElementById("submit-btn").disabled = answeredCount !== GATES.length;
+      document.querySelector(".quiz-progress").setAttribute("aria-valuenow", String(answeredCount));
     });
   });
 
@@ -413,7 +422,7 @@ function renderResultsBanner(score, saveFailed) {
     <div class="score-badge">${score}<span>/ ${GATES.length}</span></div>
     <p>${message}</p>
   `;
-  app.appendChild(results);
+  document.querySelector(".quiz-inner").appendChild(results);
   results.scrollIntoView({ behavior: REDUCE_MOTION ? "auto" : "smooth", block: "start" });
 }
 
