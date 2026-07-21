@@ -1,0 +1,54 @@
+/* Pitch-episode overrides — same design tokens as style.css, tuned so this
+   page reads as a related-but-distinct show, not the lesson episode reskinned. */
+
+/* Player accent flips to coral (lesson episode's player is teal) */
+.pitch-page .play-btn { background: var(--coral); }
+.pitch-page .play-btn:hover { background: var(--coral-deep); }
+.pitch-page .seek,
+.pitch-page .volume-slider { accent-color: var(--teal); }
+.pitch-page .chip[aria-pressed="true"] {
+  background: var(--coral-wash);
+  border-color: var(--coral);
+  color: var(--coral-deep);
+}
+
+/* Speakers: DEV (host) takes the default coral highlight from style.css;
+   ALEX (guest) gets teal, same swap pattern the lesson episode uses. */
+.line.speaker-DEV .who { color: var(--coral-deep); }
+.line.speaker-ALEX .who { color: var(--teal); }
+.line.speaker-ALEX .w.current { background: var(--teal-wash); color: var(--teal-deep); }
+
+.pitch-intro { padding-top: 48px; }
+.pitch-intro h1 { font-size: 2.1rem; margin-bottom: 12px; }
+.pitch-intro p { color: var(--ink-soft); max-width: 58ch; }
+.pitch-intro .format-note {
+  margin-top: 14px;
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+/* Persistent link to the lesson episode, sits directly under the player */
+.lesson-link-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  background: var(--teal-wash);
+  border: 1px solid var(--teal);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  margin: 0 0 8px;
+}
+.lesson-link-card .lesson-link-text {
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+.lesson-link-card .lesson-link-text strong { color: var(--teal-deep); }
+.lesson-link-card a.btn {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: #fff;
+  flex: none;
+}
+.lesson-link-card a.btn:hover { background: var(--teal-deep); border-color: var(--teal-deep); }

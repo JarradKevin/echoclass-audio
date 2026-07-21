@@ -198,6 +198,7 @@ input:focus-visible,
 .intro {
   padding-top: 48px;
 }
+.pitch-bridge-chip { margin-bottom: 12px; }
 .intro h1 { font-size: 2.1rem; margin-bottom: 12px; }
 .intro p { color: var(--ink-soft); max-width: 56ch; }
 .field-label {

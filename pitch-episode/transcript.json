@@ -1,0 +1,6557 @@
+[
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "Every so often you run into an idea that makes you rethink something you'd basically stopped questioning. Homework is definitely one of those for me. Hadn't thought about it in years — then I heard what my guest today's been building, and now I can't stop turning it over.",
+    "start": 2.56,
+    "end": 17.16,
+    "words": [
+      {
+        "text": "Every",
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "text": "so",
+        "start": 2.78,
+        "end": 2.88
+      },
+      {
+        "text": "often",
+        "start": 2.98,
+        "end": 3.28
+      },
+      {
+        "text": "you",
+        "start": 3.44,
+        "end": 3.48
+      },
+      {
+        "text": "run",
+        "start": 3.56,
+        "end": 3.66
+      },
+      {
+        "text": "into",
+        "start": 3.68,
+        "end": 3.82
+      },
+      {
+        "text": "an",
+        "start": 3.84,
+        "end": 3.9
+      },
+      {
+        "text": "idea",
+        "start": 3.94,
+        "end": 4.26
+      },
+      {
+        "text": "that",
+        "start": 4.38,
+        "end": 4.44
+      },
+      {
+        "text": "makes",
+        "start": 4.5,
+        "end": 4.66
+      },
+      {
+        "text": "you",
+        "start": 4.7,
+        "end": 4.76
+      },
+      {
+        "text": "rethink",
+        "start": 4.86,
+        "end": 5.24
+      },
+      {
+        "text": "something",
+        "start": 5.28,
+        "end": 5.58
+      },
+      {
+        "text": "you'd",
+        "start": 5.76,
+        "end": 5.98
+      },
+      {
+        "text": "basically",
+        "start": 6.02,
+        "end": 6.46
+      },
+      {
+        "text": "stopped",
+        "start": 6.56,
+        "end": 6.84
+      },
+      {
+        "text": "questioning.",
+        "start": 6.9,
+        "end": 7.36
+      },
+      {
+        "text": "Homework",
+        "start": 7.92,
+        "end": 8.4
+      },
+      {
+        "text": "is",
+        "start": 8.64,
+        "end": 8.82
+      },
+      {
+        "text": "definitely",
+        "start": 8.86,
+        "end": 9.38
+      },
+      {
+        "text": "one",
+        "start": 9.46,
+        "end": 9.54
+      },
+      {
+        "text": "of",
+        "start": 9.58,
+        "end": 9.66
+      },
+      {
+        "text": "those",
+        "start": 9.72,
+        "end": 9.94
+      },
+      {
+        "text": "for",
+        "start": 9.98,
+        "end": 10.11
+      },
+      {
+        "text": "me.",
+        "start": 10.14,
+        "end": 10.32
+      },
+      {
+        "text": "Hadn't",
+        "start": 10.88,
+        "end": 11.08
+      },
+      {
+        "text": "thought",
+        "start": 11.1,
+        "end": 11.24
+      },
+      {
+        "text": "about",
+        "start": 11.28,
+        "end": 11.42
+      },
+      {
+        "text": "it",
+        "start": 11.44,
+        "end": 11.52
+      },
+      {
+        "text": "in",
+        "start": 11.58,
+        "end": 11.72
+      },
+      {
+        "text": "years",
+        "start": 11.74,
+        "end": 12.14
+      },
+      {
+        "text": "—",
+        "start": 12.78,
+        "end": 12.780999999999999
+      },
+      {
+        "text": "then",
+        "start": 12.88,
+        "end": 12.98
+      },
+      {
+        "text": "I",
+        "start": 13.04,
+        "end": 13.08
+      },
+      {
+        "text": "heard",
+        "start": 13.12,
+        "end": 13.26
+      },
+      {
+        "text": "what",
+        "start": 13.3,
+        "end": 13.39
+      },
+      {
+        "text": "my",
+        "start": 13.42,
+        "end": 13.54
+      },
+      {
+        "text": "guest",
+        "start": 13.56,
+        "end": 13.78
+      },
+      {
+        "text": "today's",
+        "start": 13.9,
+        "end": 14.2
+      },
+      {
+        "text": "been",
+        "start": 14.22,
+        "end": 14.31
+      },
+      {
+        "text": "building,",
+        "start": 14.38,
+        "end": 14.68
+      },
+      {
+        "text": "and",
+        "start": 15.1,
+        "end": 15.21
+      },
+      {
+        "text": "now",
+        "start": 15.28,
+        "end": 15.72
+      },
+      {
+        "text": "I",
+        "start": 15.78,
+        "end": 15.86
+      },
+      {
+        "text": "can't",
+        "start": 15.94,
+        "end": 16.2
+      },
+      {
+        "text": "stop",
+        "start": 16.28,
+        "end": 16.46
+      },
+      {
+        "text": "turning",
+        "start": 16.58,
+        "end": 16.83
+      },
+      {
+        "text": "it",
+        "start": 16.84,
+        "end": 16.9
+      },
+      {
+        "text": "over.",
+        "start": 16.98,
+        "end": 17.16
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "Welcome to Second Look. I'm Dev.",
+    "start": 17.94,
+    "end": 19.62,
+    "words": [
+      {
+        "text": "Welcome",
+        "start": 17.94,
+        "end": 18.12
+      },
+      {
+        "text": "to",
+        "start": 18.14,
+        "end": 18.18
+      },
+      {
+        "text": "Second",
+        "start": 18.24,
+        "end": 18.4
+      },
+      {
+        "text": "Look.",
+        "start": 18.46,
+        "end": 18.64
+      },
+      {
+        "text": "I'm",
+        "start": 19.26,
+        "end": 19.38
+      },
+      {
+        "text": "Dev.",
+        "start": 19.4,
+        "end": 19.62
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "My guest today is Alex — she's been rethinking what homework actually is. Alex, thanks for coming on.",
+    "start": 26.48,
+    "end": 32.34,
+    "words": [
+      {
+        "text": "My",
+        "start": 26.48,
+        "end": 26.56
+      },
+      {
+        "text": "guest",
+        "start": 26.6,
+        "end": 26.76
+      },
+      {
+        "text": "today",
+        "start": 26.8,
+        "end": 27.2
+      },
+      {
+        "text": "is",
+        "start": 27.24,
+        "end": 27.39
+      },
+      {
+        "text": "Alex",
+        "start": 27.44,
+        "end": 27.78
+      },
+      {
+        "text": "—",
+        "start": 28.2,
+        "end": 28.201
+      },
+      {
+        "text": "she's",
+        "start": 28.26,
+        "end": 28.46
+      },
+      {
+        "text": "been",
+        "start": 28.5,
+        "end": 28.62
+      },
+      {
+        "text": "rethinking",
+        "start": 28.64,
+        "end": 29.24
+      },
+      {
+        "text": "what",
+        "start": 29.28,
+        "end": 29.41
+      },
+      {
+        "text": "homework",
+        "start": 29.42,
+        "end": 29.88
+      },
+      {
+        "text": "actually",
+        "start": 29.96,
+        "end": 30.44
+      },
+      {
+        "text": "is.",
+        "start": 30.54,
+        "end": 30.78
+      },
+      {
+        "text": "Alex,",
+        "start": 31.31,
+        "end": 31.62
+      },
+      {
+        "text": "thanks",
+        "start": 31.76,
+        "end": 31.89
+      },
+      {
+        "text": "for",
+        "start": 31.94,
+        "end": 31.98
+      },
+      {
+        "text": "coming",
+        "start": 32.02,
+        "end": 32.16
+      },
+      {
+        "text": "on.",
+        "start": 32.22,
+        "end": 32.34
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "ALEX",
+    "text": "Thanks for having me. But fair warning, I'm still getting used to talking about this out loud.",
+    "start": 32.86,
+    "end": 37.64,
+    "words": [
+      {
+        "text": "Thanks",
+        "start": 32.86,
+        "end": 33.05
+      },
+      {
+        "text": "for",
+        "start": 33.1,
+        "end": 33.18
+      },
+      {
+        "text": "having",
+        "start": 33.24,
+        "end": 33.5
+      },
+      {
+        "text": "me.",
+        "start": 33.54,
+        "end": 33.72
+      },
+      {
+        "text": "But",
+        "start": 34.14,
+        "end": 34.4
+      },
+      {
+        "text": "fair",
+        "start": 34.48,
+        "end": 34.64
+      },
+      {
+        "text": "warning,",
+        "start": 34.72,
+        "end": 35.06
+      },
+      {
+        "text": "I'm",
+        "start": 35.4,
+        "end": 35.58
+      },
+      {
+        "text": "still",
+        "start": 35.64,
+        "end": 35.82
+      },
+      {
+        "text": "getting",
+        "start": 35.84,
+        "end": 36.04
+      },
+      {
+        "text": "used",
+        "start": 36.1,
+        "end": 36.22
+      },
+      {
+        "text": "to",
+        "start": 36.26,
+        "end": 36.34
+      },
+      {
+        "text": "talking",
+        "start": 36.38,
+        "end": 36.68
+      },
+      {
+        "text": "about",
+        "start": 36.74,
+        "end": 36.92
+      },
+      {
+        "text": "this",
+        "start": 36.96,
+        "end": 37.08
+      },
+      {
+        "text": "out",
+        "start": 37.16,
+        "end": 37.28
+      },
+      {
+        "text": "loud.",
+        "start": 37.32,
+        "end": 37.64
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "That's always my favorite type of guest.",
+    "start": 38.4,
+    "end": 39.88,
+    "words": [
+      {
+        "text": "That's",
+        "start": 38.4,
+        "end": 38.61
+      },
+      {
+        "text": "always",
+        "start": 38.66,
+        "end": 38.86
+      },
+      {
+        "text": "my",
+        "start": 38.9,
+        "end": 39
+      },
+      {
+        "text": "favorite",
+        "start": 39.08,
+        "end": 39.28
+      },
+      {
+        "text": "type",
+        "start": 39.3,
+        "end": 39.44
+      },
+      {
+        "text": "of",
+        "start": 39.48,
+        "end": 39.56
+      },
+      {
+        "text": "guest.",
+        "start": 39.58,
+        "end": 39.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "So set the scene for me. What's actually going on with homework in your view?",
+    "start": 40.4,
+    "end": 44.76,
+    "words": [
+      {
+        "text": "So",
+        "start": 40.4,
+        "end": 40.54
+      },
+      {
+        "text": "set",
+        "start": 40.8,
+        "end": 40.9
+      },
+      {
+        "text": "the",
+        "start": 40.94,
+        "end": 40.98
+      },
+      {
+        "text": "scene",
+        "start": 41.04,
+        "end": 41.2
+      },
+      {
+        "text": "for",
+        "start": 41.26,
+        "end": 41.33
+      },
+      {
+        "text": "me.",
+        "start": 41.38,
+        "end": 41.5
+      },
+      {
+        "text": "What's",
+        "start": 42.1,
+        "end": 42.4
+      },
+      {
+        "text": "actually",
+        "start": 42.5,
+        "end": 42.88
+      },
+      {
+        "text": "going",
+        "start": 43,
+        "end": 43.24
+      },
+      {
+        "text": "on",
+        "start": 43.32,
+        "end": 43.48
+      },
+      {
+        "text": "with",
+        "start": 43.52,
+        "end": 43.6
+      },
+      {
+        "text": "homework",
+        "start": 43.66,
+        "end": 44.08
+      },
+      {
+        "text": "in",
+        "start": 44.16,
+        "end": 44.26
+      },
+      {
+        "text": "your",
+        "start": 44.32,
+        "end": 44.48
+      },
+      {
+        "text": "view?",
+        "start": 44.54,
+        "end": 44.76
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "ALEX",
+    "text": "Well, it still gets assigned, still gets reluctantly completed and handed in, everything looks fine on paper. But what's missing is any signal in between — a kid turns something in, and weeks later a test shows half the class missed the same idea.",
+    "start": 45.56,
+    "end": 61.46,
+    "words": [
+      {
+        "text": "Well,",
+        "start": 45.56,
+        "end": 45.8
+      },
+      {
+        "text": "it",
+        "start": 46.06,
+        "end": 46.22
+      },
+      {
+        "text": "still",
+        "start": 46.3,
+        "end": 46.46
+      },
+      {
+        "text": "gets",
+        "start": 46.52,
+        "end": 46.68
+      },
+      {
+        "text": "assigned,",
+        "start": 46.72,
+        "end": 47.24
+      },
+      {
+        "text": "still",
+        "start": 47.72,
+        "end": 47.92
+      },
+      {
+        "text": "gets",
+        "start": 48,
+        "end": 48.22
+      },
+      {
+        "text": "reluctantly",
+        "start": 48.3,
+        "end": 48.88
+      },
+      {
+        "text": "completed",
+        "start": 48.96,
+        "end": 49.54
+      },
+      {
+        "text": "and",
+        "start": 49.58,
+        "end": 49.66
+      },
+      {
+        "text": "handed",
+        "start": 49.76,
+        "end": 50.06
+      },
+      {
+        "text": "in,",
+        "start": 50.16,
+        "end": 50.36
+      },
+      {
+        "text": "everything",
+        "start": 50.92,
+        "end": 51.24
+      },
+      {
+        "text": "looks",
+        "start": 51.25,
+        "end": 51.46
+      },
+      {
+        "text": "fine",
+        "start": 51.5,
+        "end": 51.68
+      },
+      {
+        "text": "on",
+        "start": 51.7,
+        "end": 51.86
+      },
+      {
+        "text": "paper.",
+        "start": 51.9,
+        "end": 52.24
+      },
+      {
+        "text": "But",
+        "start": 52.82,
+        "end": 52.94
+      },
+      {
+        "text": "what's",
+        "start": 52.98,
+        "end": 53.2
+      },
+      {
+        "text": "missing",
+        "start": 53.28,
+        "end": 53.71
+      },
+      {
+        "text": "is",
+        "start": 53.9,
+        "end": 54.15
+      },
+      {
+        "text": "any",
+        "start": 54.2,
+        "end": 54.46
+      },
+      {
+        "text": "signal",
+        "start": 54.52,
+        "end": 54.9
+      },
+      {
+        "text": "in",
+        "start": 54.94,
+        "end": 55.04
+      },
+      {
+        "text": "between",
+        "start": 55.08,
+        "end": 55.61
+      },
+      {
+        "text": "—",
+        "start": 56.22,
+        "end": 56.221
+      },
+      {
+        "text": "a",
+        "start": 56.28,
+        "end": 56.29
+      },
+      {
+        "text": "kid",
+        "start": 56.38,
+        "end": 56.58
+      },
+      {
+        "text": "turns",
+        "start": 56.64,
+        "end": 56.86
+      },
+      {
+        "text": "something",
+        "start": 56.9,
+        "end": 57.2
+      },
+      {
+        "text": "in,",
+        "start": 57.3,
+        "end": 57.5
+      },
+      {
+        "text": "and",
+        "start": 57.94,
+        "end": 58.08
+      },
+      {
+        "text": "weeks",
+        "start": 58.16,
+        "end": 58.42
+      },
+      {
+        "text": "later",
+        "start": 58.46,
+        "end": 58.85
+      },
+      {
+        "text": "a",
+        "start": 58.88,
+        "end": 58.94
+      },
+      {
+        "text": "test",
+        "start": 59,
+        "end": 59.26
+      },
+      {
+        "text": "shows",
+        "start": 59.3,
+        "end": 59.62
+      },
+      {
+        "text": "half",
+        "start": 59.68,
+        "end": 59.92
+      },
+      {
+        "text": "the",
+        "start": 59.96,
+        "end": 60.02
+      },
+      {
+        "text": "class",
+        "start": 60.06,
+        "end": 60.4
+      },
+      {
+        "text": "missed",
+        "start": 60.44,
+        "end": 60.69
+      },
+      {
+        "text": "the",
+        "start": 60.690999999999995,
+        "end": 60.82
+      },
+      {
+        "text": "same",
+        "start": 60.86,
+        "end": 61.02
+      },
+      {
+        "text": "idea.",
+        "start": 61.1,
+        "end": 61.46
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "And that could even be the first anyone's hearing about it.",
+    "start": 61.98,
+    "end": 64.22,
+    "words": [
+      {
+        "text": "And",
+        "start": 61.98,
+        "end": 62.06
+      },
+      {
+        "text": "that",
+        "start": 62.1,
+        "end": 62.18
+      },
+      {
+        "text": "could",
+        "start": 62.24,
+        "end": 62.36
+      },
+      {
+        "text": "even",
+        "start": 62.4,
+        "end": 62.56
+      },
+      {
+        "text": "be",
+        "start": 62.6,
+        "end": 62.68
+      },
+      {
+        "text": "the",
+        "start": 62.72,
+        "end": 62.82
+      },
+      {
+        "text": "first",
+        "start": 62.86,
+        "end": 63.06
+      },
+      {
+        "text": "anyone's",
+        "start": 63.16,
+        "end": 63.56
+      },
+      {
+        "text": "hearing",
+        "start": 63.62,
+        "end": 63.86
+      },
+      {
+        "text": "about",
+        "start": 63.9,
+        "end": 64.06
+      },
+      {
+        "text": "it.",
+        "start": 64.099,
+        "end": 64.22
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "ALEX",
+    "text": "Usually, yeah. Homework tells you somebody filled in the blanks, but it doesn't always tell you whether they understood what they were filling in.",
+    "start": 64.879,
+    "end": 72.42,
+    "words": [
+      {
+        "text": "Usually,",
+        "start": 64.879,
+        "end": 65.34
+      },
+      {
+        "text": "yeah.",
+        "start": 65.48,
+        "end": 65.78
+      },
+      {
+        "text": "Homework",
+        "start": 66.5,
+        "end": 66.86
+      },
+      {
+        "text": "tells",
+        "start": 66.94,
+        "end": 67.18
+      },
+      {
+        "text": "you",
+        "start": 67.26,
+        "end": 67.36
+      },
+      {
+        "text": "somebody",
+        "start": 67.44,
+        "end": 67.74
+      },
+      {
+        "text": "filled",
+        "start": 67.84,
+        "end": 68.04
+      },
+      {
+        "text": "in",
+        "start": 68.1,
+        "end": 68.18
+      },
+      {
+        "text": "the",
+        "start": 68.22,
+        "end": 68.26
+      },
+      {
+        "text": "blanks,",
+        "start": 68.32,
+        "end": 68.72
+      },
+      {
+        "text": "but",
+        "start": 69.16,
+        "end": 69.22
+      },
+      {
+        "text": "it",
+        "start": 69.28,
+        "end": 69.34
+      },
+      {
+        "text": "doesn't",
+        "start": 69.38,
+        "end": 69.6
+      },
+      {
+        "text": "always",
+        "start": 69.64,
+        "end": 69.92
+      },
+      {
+        "text": "tell",
+        "start": 69.96,
+        "end": 70.18
+      },
+      {
+        "text": "you",
+        "start": 70.22,
+        "end": 70.32
+      },
+      {
+        "text": "whether",
+        "start": 70.38,
+        "end": 70.57
+      },
+      {
+        "text": "they",
+        "start": 70.64,
+        "end": 70.76
+      },
+      {
+        "text": "understood",
+        "start": 70.82,
+        "end": 71.38
+      },
+      {
+        "text": "what",
+        "start": 71.42,
+        "end": 71.54
+      },
+      {
+        "text": "they",
+        "start": 71.56,
+        "end": 71.66
+      },
+      {
+        "text": "were",
+        "start": 71.68,
+        "end": 71.82
+      },
+      {
+        "text": "filling",
+        "start": 71.84,
+        "end": 72.12
+      },
+      {
+        "text": "in.",
+        "start": 72.2,
+        "end": 72.42
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1",
+    "speaker": "DEV",
+    "text": "Huh.",
+    "start": 73.06,
+    "end": 73.26,
+    "words": [
+      {
+        "text": "Huh.",
+        "start": 73.06,
+        "end": 73.26
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1B",
+    "speaker": "DEV",
+    "text": "So what'd you actually build?",
+    "start": 74,
+    "end": 75.5,
+    "words": [
+      {
+        "text": "So",
+        "start": 74,
+        "end": 74.16
+      },
+      {
+        "text": "what'd",
+        "start": 74.44,
+        "end": 74.58
+      },
+      {
+        "text": "you",
+        "start": 74.64,
+        "end": 74.68
+      },
+      {
+        "text": "actually",
+        "start": 74.8,
+        "end": 75.1
+      },
+      {
+        "text": "build?",
+        "start": 75.22,
+        "end": 75.5
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1B",
+    "speaker": "ALEX",
+    "text": "Homework, but made the way a good podcast is made. Real pacing, real curiosity — not just someone reading a textbook out loud, or a stale, unstructured interview. Then a short quiz at the end to check what actually landed. And the results go back to the teacher — not a grade, but who finished it, and what tripped people up.",
+    "start": 76.14,
+    "end": 96.59,
+    "words": [
+      {
+        "text": "Homework,",
+        "start": 76.14,
+        "end": 76.62
+      },
+      {
+        "text": "but",
+        "start": 77.08,
+        "end": 77.21
+      },
+      {
+        "text": "made",
+        "start": 77.4,
+        "end": 77.6
+      },
+      {
+        "text": "the",
+        "start": 77.64,
+        "end": 77.69
+      },
+      {
+        "text": "way",
+        "start": 77.76,
+        "end": 77.86
+      },
+      {
+        "text": "a",
+        "start": 77.96,
+        "end": 77.97
+      },
+      {
+        "text": "good",
+        "start": 78.06,
+        "end": 78.19
+      },
+      {
+        "text": "podcast",
+        "start": 78.3,
+        "end": 78.84
+      },
+      {
+        "text": "is",
+        "start": 78.9,
+        "end": 79.02
+      },
+      {
+        "text": "made.",
+        "start": 79.06,
+        "end": 79.32
+      },
+      {
+        "text": "Real",
+        "start": 80,
+        "end": 80.22
+      },
+      {
+        "text": "pacing,",
+        "start": 80.32,
+        "end": 80.82
+      },
+      {
+        "text": "real",
+        "start": 81.02,
+        "end": 81.22
+      },
+      {
+        "text": "curiosity",
+        "start": 81.3,
+        "end": 82.02
+      },
+      {
+        "text": "—",
+        "start": 82.56,
+        "end": 82.561
+      },
+      {
+        "text": "not",
+        "start": 82.64,
+        "end": 82.8
+      },
+      {
+        "text": "just",
+        "start": 82.86,
+        "end": 82.98
+      },
+      {
+        "text": "someone",
+        "start": 83.06,
+        "end": 83.34
+      },
+      {
+        "text": "reading",
+        "start": 83.44,
+        "end": 83.68
+      },
+      {
+        "text": "a",
+        "start": 83.72,
+        "end": 83.76
+      },
+      {
+        "text": "textbook",
+        "start": 83.82,
+        "end": 84.24
+      },
+      {
+        "text": "out",
+        "start": 84.3,
+        "end": 84.44
+      },
+      {
+        "text": "loud,",
+        "start": 84.46,
+        "end": 84.84
+      },
+      {
+        "text": "or",
+        "start": 85.12,
+        "end": 85.22
+      },
+      {
+        "text": "a",
+        "start": 85.28,
+        "end": 85.36
+      },
+      {
+        "text": "stale,",
+        "start": 85.48,
+        "end": 85.82
+      },
+      {
+        "text": "unstructured",
+        "start": 85.96,
+        "end": 86.52
+      },
+      {
+        "text": "interview.",
+        "start": 86.58,
+        "end": 87.04
+      },
+      {
+        "text": "Then",
+        "start": 87.68,
+        "end": 87.8
+      },
+      {
+        "text": "a",
+        "start": 87.86,
+        "end": 87.92
+      },
+      {
+        "text": "short",
+        "start": 87.98,
+        "end": 88.14
+      },
+      {
+        "text": "quiz",
+        "start": 88.24,
+        "end": 88.46
+      },
+      {
+        "text": "at",
+        "start": 88.48,
+        "end": 88.56
+      },
+      {
+        "text": "the",
+        "start": 88.6,
+        "end": 88.66
+      },
+      {
+        "text": "end",
+        "start": 88.72,
+        "end": 88.92
+      },
+      {
+        "text": "to",
+        "start": 89,
+        "end": 89.08
+      },
+      {
+        "text": "check",
+        "start": 89.12,
+        "end": 89.34
+      },
+      {
+        "text": "what",
+        "start": 89.36,
+        "end": 89.5
+      },
+      {
+        "text": "actually",
+        "start": 89.58,
+        "end": 89.98
+      },
+      {
+        "text": "landed.",
+        "start": 89.99,
+        "end": 90.44
+      },
+      {
+        "text": "And",
+        "start": 91,
+        "end": 91.08
+      },
+      {
+        "text": "the",
+        "start": 91.1,
+        "end": 91.18
+      },
+      {
+        "text": "results",
+        "start": 91.2,
+        "end": 91.7
+      },
+      {
+        "text": "go",
+        "start": 91.74,
+        "end": 91.84
+      },
+      {
+        "text": "back",
+        "start": 91.88,
+        "end": 92.04
+      },
+      {
+        "text": "to",
+        "start": 92.1,
+        "end": 92.16
+      },
+      {
+        "text": "the",
+        "start": 92.2,
+        "end": 92.28
+      },
+      {
+        "text": "teacher",
+        "start": 92.32,
+        "end": 92.66
+      },
+      {
+        "text": "—",
+        "start": 93.16,
+        "end": 93.161
+      },
+      {
+        "text": "not",
+        "start": 93.22,
+        "end": 93.35
+      },
+      {
+        "text": "a",
+        "start": 93.4,
+        "end": 93.46
+      },
+      {
+        "text": "grade,",
+        "start": 93.5,
+        "end": 93.87
+      },
+      {
+        "text": "but",
+        "start": 94.04,
+        "end": 94.35
+      },
+      {
+        "text": "who",
+        "start": 94.4,
+        "end": 94.58
+      },
+      {
+        "text": "finished",
+        "start": 94.62,
+        "end": 94.96
+      },
+      {
+        "text": "it,",
+        "start": 95.02,
+        "end": 95.32
+      },
+      {
+        "text": "and",
+        "start": 95.38,
+        "end": 95.53
+      },
+      {
+        "text": "what",
+        "start": 95.6,
+        "end": 95.75
+      },
+      {
+        "text": "tripped",
+        "start": 95.8,
+        "end": 96.04
+      },
+      {
+        "text": "people",
+        "start": 96.08,
+        "end": 96.32
+      },
+      {
+        "text": "up.",
+        "start": 96.44,
+        "end": 96.59
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 1B",
+    "speaker": "DEV",
+    "text": "...Okay.",
+    "start": 96.89,
+    "end": 97.84,
+    "words": [
+      {
+        "text": "...Okay.",
+        "start": 96.89,
+        "end": 97.84
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "DEV",
+    "text": "How did you even land on this idea?",
+    "start": 97.96,
+    "end": 100.18,
+    "words": [
+      {
+        "text": "How",
+        "start": 97.96,
+        "end": 98.06
+      },
+      {
+        "text": "did",
+        "start": 98.08,
+        "end": 98.24
+      },
+      {
+        "text": "you",
+        "start": 98.3,
+        "end": 98.66
+      },
+      {
+        "text": "even",
+        "start": 98.74,
+        "end": 99.23
+      },
+      {
+        "text": "land",
+        "start": 99.28,
+        "end": 99.54
+      },
+      {
+        "text": "on",
+        "start": 99.58,
+        "end": 99.65
+      },
+      {
+        "text": "this",
+        "start": 99.65100000000001,
+        "end": 99.78
+      },
+      {
+        "text": "idea?",
+        "start": 99.79,
+        "end": 100.18
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "ALEX",
+    "text": "Honestly? Watching my niece. She'll get through four episodes of some show back to back, no one making her — and then groan about twenty minutes of reading for school.",
+    "start": 101.3,
+    "end": 113.4,
+    "words": [
+      {
+        "text": "Honestly?",
+        "start": 101.3,
+        "end": 102.52
+      },
+      {
+        "text": "Watching",
+        "start": 102.6,
+        "end": 102.95
+      },
+      {
+        "text": "my",
+        "start": 102.98,
+        "end": 103.12
+      },
+      {
+        "text": "niece.",
+        "start": 103.14,
+        "end": 103.6
+      },
+      {
+        "text": "She'll",
+        "start": 104.36,
+        "end": 104.53
+      },
+      {
+        "text": "get",
+        "start": 104.56,
+        "end": 104.71
+      },
+      {
+        "text": "through",
+        "start": 104.74,
+        "end": 105.25
+      },
+      {
+        "text": "four",
+        "start": 105.3,
+        "end": 105.68
+      },
+      {
+        "text": "episodes",
+        "start": 105.74,
+        "end": 106.23
+      },
+      {
+        "text": "of",
+        "start": 106.26,
+        "end": 106.39
+      },
+      {
+        "text": "some",
+        "start": 106.42,
+        "end": 106.68
+      },
+      {
+        "text": "show",
+        "start": 106.7,
+        "end": 107.22
+      },
+      {
+        "text": "back",
+        "start": 107.26,
+        "end": 107.54
+      },
+      {
+        "text": "to",
+        "start": 107.6,
+        "end": 107.7
+      },
+      {
+        "text": "back,",
+        "start": 107.72,
+        "end": 108.04
+      },
+      {
+        "text": "no",
+        "start": 108.56,
+        "end": 108.59
+      },
+      {
+        "text": "one",
+        "start": 108.78,
+        "end": 108.92
+      },
+      {
+        "text": "making",
+        "start": 108.96,
+        "end": 109.29
+      },
+      {
+        "text": "her",
+        "start": 109.32,
+        "end": 110.09
+      },
+      {
+        "text": "—",
+        "start": 110.09,
+        "end": 110.09100000000001
+      },
+      {
+        "text": "and",
+        "start": 110.1,
+        "end": 110.18
+      },
+      {
+        "text": "then",
+        "start": 110.26,
+        "end": 110.74
+      },
+      {
+        "text": "groan",
+        "start": 110.78,
+        "end": 111.34
+      },
+      {
+        "text": "about",
+        "start": 111.48,
+        "end": 111.76
+      },
+      {
+        "text": "twenty",
+        "start": 111.78,
+        "end": 112.06
+      },
+      {
+        "text": "minutes",
+        "start": 112.14,
+        "end": 112.42
+      },
+      {
+        "text": "of",
+        "start": 112.46,
+        "end": 112.54
+      },
+      {
+        "text": "reading",
+        "start": 112.58,
+        "end": 112.84
+      },
+      {
+        "text": "for",
+        "start": 112.9,
+        "end": 112.98
+      },
+      {
+        "text": "school.",
+        "start": 113.08,
+        "end": 113.4
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "DEV",
+    "text": "Sure.",
+    "start": 114.1,
+    "end": 115.12,
+    "words": [
+      {
+        "text": "Sure.",
+        "start": 114.1,
+        "end": 115.12
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "ALEX",
+    "text": "And I kept thinking — what if homework showed up the way a new episode does? Something she's actually a little curious to open, instead of something she's just told to do.",
+    "start": 115.14,
+    "end": 126.7,
+    "words": [
+      {
+        "text": "And",
+        "start": 115.14,
+        "end": 115.24
+      },
+      {
+        "text": "I",
+        "start": 115.34,
+        "end": 115.35
+      },
+      {
+        "text": "kept",
+        "start": 115.4,
+        "end": 115.55
+      },
+      {
+        "text": "thinking",
+        "start": 115.64,
+        "end": 116.09
+      },
+      {
+        "text": "—",
+        "start": 116.68,
+        "end": 116.68100000000001
+      },
+      {
+        "text": "what",
+        "start": 116.72,
+        "end": 116.82
+      },
+      {
+        "text": "if",
+        "start": 116.86,
+        "end": 117
+      },
+      {
+        "text": "homework",
+        "start": 117.06,
+        "end": 117.58
+      },
+      {
+        "text": "showed",
+        "start": 117.7,
+        "end": 117.92
+      },
+      {
+        "text": "up",
+        "start": 117.96,
+        "end": 118.12
+      },
+      {
+        "text": "the",
+        "start": 118.16,
+        "end": 118.24
+      },
+      {
+        "text": "way",
+        "start": 118.28,
+        "end": 118.53
+      },
+      {
+        "text": "a",
+        "start": 118.72,
+        "end": 118.73
+      },
+      {
+        "text": "new",
+        "start": 118.86,
+        "end": 119
+      },
+      {
+        "text": "episode",
+        "start": 119.12,
+        "end": 119.6
+      },
+      {
+        "text": "does?",
+        "start": 119.64,
+        "end": 119.98
+      },
+      {
+        "text": "Something",
+        "start": 120.9,
+        "end": 121.2
+      },
+      {
+        "text": "she's",
+        "start": 121.22,
+        "end": 121.56
+      },
+      {
+        "text": "actually",
+        "start": 121.68,
+        "end": 122
+      },
+      {
+        "text": "a",
+        "start": 122.06,
+        "end": 122.08
+      },
+      {
+        "text": "little",
+        "start": 122.14,
+        "end": 122.3
+      },
+      {
+        "text": "curious",
+        "start": 122.48,
+        "end": 123
+      },
+      {
+        "text": "to",
+        "start": 123.06,
+        "end": 123.12
+      },
+      {
+        "text": "open,",
+        "start": 123.2,
+        "end": 123.56
+      },
+      {
+        "text": "instead",
+        "start": 124.08,
+        "end": 124.42
+      },
+      {
+        "text": "of",
+        "start": 124.46,
+        "end": 124.56
+      },
+      {
+        "text": "something",
+        "start": 124.6,
+        "end": 125.02
+      },
+      {
+        "text": "she's",
+        "start": 125.1,
+        "end": 125.36
+      },
+      {
+        "text": "just",
+        "start": 125.42,
+        "end": 125.76
+      },
+      {
+        "text": "told",
+        "start": 125.84,
+        "end": 126.2
+      },
+      {
+        "text": "to",
+        "start": 126.26,
+        "end": 126.36
+      },
+      {
+        "text": "do.",
+        "start": 126.38,
+        "end": 126.7
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "DEV",
+    "text": "Huh. That's a genuinely different question than \"how do we make homework easier.\"",
+    "start": 127.36,
+    "end": 132.38,
+    "words": [
+      {
+        "text": "Huh.",
+        "start": 127.36,
+        "end": 127.58
+      },
+      {
+        "text": "That's",
+        "start": 128.259,
+        "end": 128.4
+      },
+      {
+        "text": "a",
+        "start": 128.44,
+        "end": 128.5
+      },
+      {
+        "text": "genuinely",
+        "start": 128.759,
+        "end": 129.32
+      },
+      {
+        "text": "different",
+        "start": 129.38,
+        "end": 129.699
+      },
+      {
+        "text": "question",
+        "start": 129.759,
+        "end": 130.259
+      },
+      {
+        "text": "than",
+        "start": 130.34,
+        "end": 130.6
+      },
+      {
+        "text": "\"how",
+        "start": 130.84,
+        "end": 131.06
+      },
+      {
+        "text": "do",
+        "start": 131.08,
+        "end": 131.16
+      },
+      {
+        "text": "we",
+        "start": 131.2,
+        "end": 131.28
+      },
+      {
+        "text": "make",
+        "start": 131.32,
+        "end": 131.5
+      },
+      {
+        "text": "homework",
+        "start": 131.56,
+        "end": 131.92
+      },
+      {
+        "text": "easier.\"",
+        "start": 132.04,
+        "end": 132.38
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "ALEX",
+    "text": "...and that's the part I'm actually excited about, yeah.",
+    "start": 132.88,
+    "end": 136.1,
+    "words": [
+      {
+        "text": "...and",
+        "start": 132.88,
+        "end": 133.049
+      },
+      {
+        "text": "that's",
+        "start": 133.18,
+        "end": 133.5
+      },
+      {
+        "text": "the",
+        "start": 133.56,
+        "end": 133.66
+      },
+      {
+        "text": "part",
+        "start": 133.7,
+        "end": 133.94
+      },
+      {
+        "text": "I'm",
+        "start": 134.08,
+        "end": 134.22
+      },
+      {
+        "text": "actually",
+        "start": 134.34,
+        "end": 134.72
+      },
+      {
+        "text": "excited",
+        "start": 134.76,
+        "end": 135.22
+      },
+      {
+        "text": "about,",
+        "start": 135.28,
+        "end": 135.58
+      },
+      {
+        "text": "yeah.",
+        "start": 135.8,
+        "end": 136.1
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "DEV",
+    "text": "Why though?",
+    "start": 136.9,
+    "end": 137.32,
+    "words": [
+      {
+        "text": "Why",
+        "start": 136.9,
+        "end": 137.06
+      },
+      {
+        "text": "though?",
+        "start": 137.14,
+        "end": 137.32
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "ALEX",
+    "text": "Because I'm not going to sit here and promise every kid loves their homework now. But if it's something they can actually experience — maybe even enjoy — two people talking, with real curiosity in it — that's quite different from a worksheet.",
+    "start": 137.96,
+    "end": 154.24,
+    "words": [
+      {
+        "text": "Because",
+        "start": 137.96,
+        "end": 138.28
+      },
+      {
+        "text": "I'm",
+        "start": 138.7,
+        "end": 138.82
+      },
+      {
+        "text": "not",
+        "start": 138.88,
+        "end": 139.08
+      },
+      {
+        "text": "going",
+        "start": 139.12,
+        "end": 139.3
+      },
+      {
+        "text": "to",
+        "start": 139.34,
+        "end": 139.44
+      },
+      {
+        "text": "sit",
+        "start": 139.48,
+        "end": 139.62
+      },
+      {
+        "text": "here",
+        "start": 139.68,
+        "end": 139.98
+      },
+      {
+        "text": "and",
+        "start": 140.02,
+        "end": 140.13
+      },
+      {
+        "text": "promise",
+        "start": 140.2,
+        "end": 140.78
+      },
+      {
+        "text": "every",
+        "start": 140.86,
+        "end": 141.18
+      },
+      {
+        "text": "kid",
+        "start": 141.24,
+        "end": 141.5
+      },
+      {
+        "text": "loves",
+        "start": 141.56,
+        "end": 141.81
+      },
+      {
+        "text": "their",
+        "start": 141.86,
+        "end": 141.97
+      },
+      {
+        "text": "homework",
+        "start": 142,
+        "end": 142.4
+      },
+      {
+        "text": "now.",
+        "start": 142.5,
+        "end": 143.34
+      },
+      {
+        "text": "But",
+        "start": 143.36,
+        "end": 143.43
+      },
+      {
+        "text": "if",
+        "start": 143.46,
+        "end": 143.53
+      },
+      {
+        "text": "it's",
+        "start": 143.56,
+        "end": 143.68
+      },
+      {
+        "text": "something",
+        "start": 143.72,
+        "end": 144.109
+      },
+      {
+        "text": "they",
+        "start": 144.14,
+        "end": 144.26
+      },
+      {
+        "text": "can",
+        "start": 144.28,
+        "end": 144.489
+      },
+      {
+        "text": "actually",
+        "start": 144.58,
+        "end": 144.94
+      },
+      {
+        "text": "experience",
+        "start": 144.98,
+        "end": 146.34
+      },
+      {
+        "text": "—",
+        "start": 146.35,
+        "end": 146.351
+      },
+      {
+        "text": "maybe",
+        "start": 146.38,
+        "end": 146.6
+      },
+      {
+        "text": "even",
+        "start": 146.66,
+        "end": 147.04
+      },
+      {
+        "text": "enjoy",
+        "start": 147.08,
+        "end": 148.3
+      },
+      {
+        "text": "—",
+        "start": 148.31,
+        "end": 148.311
+      },
+      {
+        "text": "two",
+        "start": 148.38,
+        "end": 148.63
+      },
+      {
+        "text": "people",
+        "start": 148.66,
+        "end": 148.98
+      },
+      {
+        "text": "talking,",
+        "start": 149.04,
+        "end": 149.76
+      },
+      {
+        "text": "with",
+        "start": 149.8,
+        "end": 150.049
+      },
+      {
+        "text": "real",
+        "start": 150.1,
+        "end": 150.4
+      },
+      {
+        "text": "curiosity",
+        "start": 150.52,
+        "end": 151.22
+      },
+      {
+        "text": "in",
+        "start": 151.28,
+        "end": 151.34
+      },
+      {
+        "text": "it",
+        "start": 151.4,
+        "end": 151.54
+      },
+      {
+        "text": "—",
+        "start": 152.08,
+        "end": 152.08100000000002
+      },
+      {
+        "text": "that's",
+        "start": 152.12,
+        "end": 152.36
+      },
+      {
+        "text": "quite",
+        "start": 152.48,
+        "end": 152.84
+      },
+      {
+        "text": "different",
+        "start": 152.86,
+        "end": 153.34
+      },
+      {
+        "text": "from",
+        "start": 153.4,
+        "end": 153.52
+      },
+      {
+        "text": "a",
+        "start": 153.56,
+        "end": 153.62
+      },
+      {
+        "text": "worksheet.",
+        "start": 153.66,
+        "end": 154.24
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "DEV",
+    "text": "So the win condition isn't just — \"did they finish it.\"",
+    "start": 154.94,
+    "end": 157.94,
+    "words": [
+      {
+        "text": "So",
+        "start": 154.94,
+        "end": 155.02
+      },
+      {
+        "text": "the",
+        "start": 155.08,
+        "end": 155.14
+      },
+      {
+        "text": "win",
+        "start": 155.18,
+        "end": 155.3
+      },
+      {
+        "text": "condition",
+        "start": 155.36,
+        "end": 155.86
+      },
+      {
+        "text": "isn't",
+        "start": 155.94,
+        "end": 156.26
+      },
+      {
+        "text": "just",
+        "start": 156.32,
+        "end": 156.68
+      },
+      {
+        "text": "—",
+        "start": 157.08,
+        "end": 157.08100000000002
+      },
+      {
+        "text": "\"did",
+        "start": 157.09,
+        "end": 157.22
+      },
+      {
+        "text": "they",
+        "start": 157.28,
+        "end": 157.37
+      },
+      {
+        "text": "finish",
+        "start": 157.48,
+        "end": 157.72
+      },
+      {
+        "text": "it.\"",
+        "start": 157.8,
+        "end": 157.94
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 2",
+    "speaker": "ALEX",
+    "text": "yeah... it's — \"did they want to.\"",
+    "start": 158.66,
+    "end": 161.46,
+    "words": [
+      {
+        "text": "yeah...",
+        "start": 158.66,
+        "end": 159.02
+      },
+      {
+        "text": "it's",
+        "start": 159.48,
+        "end": 159.74
+      },
+      {
+        "text": "—",
+        "start": 160.4,
+        "end": 160.401
+      },
+      {
+        "text": "\"did",
+        "start": 160.43,
+        "end": 160.54
+      },
+      {
+        "text": "they",
+        "start": 160.56,
+        "end": 160.78
+      },
+      {
+        "text": "want",
+        "start": 160.8,
+        "end": 161.14
+      },
+      {
+        "text": "to.\"",
+        "start": 161.18,
+        "end": 161.46
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "DEV",
+    "text": "Can I bring something to this? I did a little digging before this talk.",
+    "start": 162.2,
+    "end": 164.94,
+    "words": [
+      {
+        "text": "Can",
+        "start": 162.2,
+        "end": 162.28
+      },
+      {
+        "text": "I",
+        "start": 162.36,
+        "end": 162.4
+      },
+      {
+        "text": "bring",
+        "start": 162.42,
+        "end": 162.53
+      },
+      {
+        "text": "something",
+        "start": 162.6,
+        "end": 162.82
+      },
+      {
+        "text": "to",
+        "start": 162.86,
+        "end": 162.92
+      },
+      {
+        "text": "this?",
+        "start": 162.96,
+        "end": 163.14
+      },
+      {
+        "text": "I",
+        "start": 163.64,
+        "end": 163.68
+      },
+      {
+        "text": "did",
+        "start": 163.7,
+        "end": 163.8
+      },
+      {
+        "text": "a",
+        "start": 163.81,
+        "end": 163.84
+      },
+      {
+        "text": "little",
+        "start": 163.86,
+        "end": 164.04
+      },
+      {
+        "text": "digging",
+        "start": 164.06,
+        "end": 164.28
+      },
+      {
+        "text": "before",
+        "start": 164.32,
+        "end": 164.52
+      },
+      {
+        "text": "this",
+        "start": 164.56,
+        "end": 164.65
+      },
+      {
+        "text": "talk.",
+        "start": 164.68,
+        "end": 164.94
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "ALEX",
+    "text": "Please.",
+    "start": 165.54,
+    "end": 165.98,
+    "words": [
+      {
+        "text": "Please.",
+        "start": 165.54,
+        "end": 165.98
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "DEV",
+    "text": "So — everyone talks about test scores when this comes up. But the real cost shows up after — once a kid's already behind, and someone has to catch them up.",
+    "start": 166.78,
+    "end": 176.94,
+    "words": [
+      {
+        "text": "So",
+        "start": 166.78,
+        "end": 167.36
+      },
+      {
+        "text": "—",
+        "start": 167.37,
+        "end": 167.371
+      },
+      {
+        "text": "everyone",
+        "start": 167.4,
+        "end": 167.82
+      },
+      {
+        "text": "talks",
+        "start": 167.86,
+        "end": 168.2
+      },
+      {
+        "text": "about",
+        "start": 168.26,
+        "end": 168.5
+      },
+      {
+        "text": "test",
+        "start": 168.58,
+        "end": 168.84
+      },
+      {
+        "text": "scores",
+        "start": 168.9,
+        "end": 169.28
+      },
+      {
+        "text": "when",
+        "start": 169.32,
+        "end": 169.41
+      },
+      {
+        "text": "this",
+        "start": 169.44,
+        "end": 169.57
+      },
+      {
+        "text": "comes",
+        "start": 169.6,
+        "end": 169.79
+      },
+      {
+        "text": "up.",
+        "start": 169.86,
+        "end": 169.97
+      },
+      {
+        "text": "But",
+        "start": 170.44,
+        "end": 170.57
+      },
+      {
+        "text": "the",
+        "start": 170.571,
+        "end": 170.68
+      },
+      {
+        "text": "real",
+        "start": 170.76,
+        "end": 170.989
+      },
+      {
+        "text": "cost",
+        "start": 171.12,
+        "end": 171.54
+      },
+      {
+        "text": "shows",
+        "start": 171.74,
+        "end": 171.94
+      },
+      {
+        "text": "up",
+        "start": 172,
+        "end": 172.16
+      },
+      {
+        "text": "after",
+        "start": 172.28,
+        "end": 172.609
+      },
+      {
+        "text": "—",
+        "start": 173.32,
+        "end": 173.321
+      },
+      {
+        "text": "once",
+        "start": 173.38,
+        "end": 173.52
+      },
+      {
+        "text": "a",
+        "start": 173.56,
+        "end": 173.62
+      },
+      {
+        "text": "kid's",
+        "start": 173.66,
+        "end": 174.02
+      },
+      {
+        "text": "already",
+        "start": 174.12,
+        "end": 174.46
+      },
+      {
+        "text": "behind,",
+        "start": 174.5,
+        "end": 174.95
+      },
+      {
+        "text": "and",
+        "start": 175.32,
+        "end": 175.48
+      },
+      {
+        "text": "someone",
+        "start": 175.56,
+        "end": 175.96
+      },
+      {
+        "text": "has",
+        "start": 176.1,
+        "end": 176.26
+      },
+      {
+        "text": "to",
+        "start": 176.3,
+        "end": 176.36
+      },
+      {
+        "text": "catch",
+        "start": 176.4,
+        "end": 176.6
+      },
+      {
+        "text": "them",
+        "start": 176.64,
+        "end": 176.73
+      },
+      {
+        "text": "up.",
+        "start": 176.8,
+        "end": 176.94
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "ALEX",
+    "text": "The tutoring, yeah.",
+    "start": 177.44,
+    "end": 178.56,
+    "words": [
+      {
+        "text": "The",
+        "start": 177.44,
+        "end": 177.54
+      },
+      {
+        "text": "tutoring,",
+        "start": 177.58,
+        "end": 178.049
+      },
+      {
+        "text": "yeah.",
+        "start": 178.32,
+        "end": 178.56
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "DEV",
+    "text": "Right. Ontario alone put something like one hundred seventy-five million dollars into expanding tutoring — on top of a separate chunk just for a dedicated tutoring program. The UK's national tutoring effort started with something like one billion pounds in catch-up money. In the US, states set aside somewhere around four billion dollars in relief funding specifically for tutoring.",
+    "start": 179.26,
+    "end": 202.86,
+    "words": [
+      {
+        "text": "Right.",
+        "start": 179.26,
+        "end": 179.5
+      },
+      {
+        "text": "Ontario",
+        "start": 180.24,
+        "end": 180.69
+      },
+      {
+        "text": "alone",
+        "start": 180.72,
+        "end": 181.2
+      },
+      {
+        "text": "put",
+        "start": 181.22,
+        "end": 181.35
+      },
+      {
+        "text": "something",
+        "start": 181.351,
+        "end": 181.62
+      },
+      {
+        "text": "like",
+        "start": 181.66,
+        "end": 181.94
+      },
+      {
+        "text": "one",
+        "start": 182.02,
+        "end": 182.109
+      },
+      {
+        "text": "hundred",
+        "start": 182.2,
+        "end": 182.52
+      },
+      {
+        "text": "seventy-five",
+        "start": 182.68,
+        "end": 183.41
+      },
+      {
+        "text": "million",
+        "start": 183.54,
+        "end": 183.96
+      },
+      {
+        "text": "dollars",
+        "start": 183.98,
+        "end": 184.4
+      },
+      {
+        "text": "into",
+        "start": 184.42,
+        "end": 184.59
+      },
+      {
+        "text": "expanding",
+        "start": 184.6,
+        "end": 185.1
+      },
+      {
+        "text": "tutoring",
+        "start": 185.14,
+        "end": 185.51
+      },
+      {
+        "text": "—",
+        "start": 186.02,
+        "end": 186.02100000000002
+      },
+      {
+        "text": "on",
+        "start": 186.06,
+        "end": 186.13
+      },
+      {
+        "text": "top",
+        "start": 186.16,
+        "end": 186.31
+      },
+      {
+        "text": "of",
+        "start": 186.34,
+        "end": 186.41
+      },
+      {
+        "text": "a",
+        "start": 186.44,
+        "end": 186.5
+      },
+      {
+        "text": "separate",
+        "start": 186.54,
+        "end": 186.82
+      },
+      {
+        "text": "chunk",
+        "start": 186.86,
+        "end": 187.28
+      },
+      {
+        "text": "just",
+        "start": 187.38,
+        "end": 187.63
+      },
+      {
+        "text": "for",
+        "start": 187.64,
+        "end": 187.72
+      },
+      {
+        "text": "a",
+        "start": 187.82,
+        "end": 187.829
+      },
+      {
+        "text": "dedicated",
+        "start": 187.86,
+        "end": 188.329
+      },
+      {
+        "text": "tutoring",
+        "start": 188.38,
+        "end": 188.72
+      },
+      {
+        "text": "program.",
+        "start": 188.76,
+        "end": 189.98
+      },
+      {
+        "text": "The",
+        "start": 190.02,
+        "end": 190.1
+      },
+      {
+        "text": "UK's",
+        "start": 190.14,
+        "end": 190.51
+      },
+      {
+        "text": "national",
+        "start": 190.54,
+        "end": 190.84
+      },
+      {
+        "text": "tutoring",
+        "start": 190.92,
+        "end": 191.18
+      },
+      {
+        "text": "effort",
+        "start": 191.26,
+        "end": 191.54
+      },
+      {
+        "text": "started",
+        "start": 191.58,
+        "end": 191.88
+      },
+      {
+        "text": "with",
+        "start": 191.9,
+        "end": 192
+      },
+      {
+        "text": "something",
+        "start": 192.04,
+        "end": 192.3
+      },
+      {
+        "text": "like",
+        "start": 192.32,
+        "end": 192.62
+      },
+      {
+        "text": "one",
+        "start": 192.7,
+        "end": 192.88
+      },
+      {
+        "text": "billion",
+        "start": 193.18,
+        "end": 193.58
+      },
+      {
+        "text": "pounds",
+        "start": 193.64,
+        "end": 194.12
+      },
+      {
+        "text": "in",
+        "start": 194.16,
+        "end": 194.26
+      },
+      {
+        "text": "catch-up",
+        "start": 194.32,
+        "end": 194.56
+      },
+      {
+        "text": "money.",
+        "start": 194.62,
+        "end": 194.84
+      },
+      {
+        "text": "In",
+        "start": 195.64,
+        "end": 195.68
+      },
+      {
+        "text": "the",
+        "start": 195.72,
+        "end": 195.8
+      },
+      {
+        "text": "US,",
+        "start": 195.86,
+        "end": 196.14
+      },
+      {
+        "text": "states",
+        "start": 196.6,
+        "end": 196.92
+      },
+      {
+        "text": "set",
+        "start": 196.96,
+        "end": 197.08
+      },
+      {
+        "text": "aside",
+        "start": 197.1,
+        "end": 197.42
+      },
+      {
+        "text": "somewhere",
+        "start": 197.56,
+        "end": 197.82
+      },
+      {
+        "text": "around",
+        "start": 197.94,
+        "end": 198.32
+      },
+      {
+        "text": "four",
+        "start": 198.4,
+        "end": 198.63
+      },
+      {
+        "text": "billion",
+        "start": 198.92,
+        "end": 199.26
+      },
+      {
+        "text": "dollars",
+        "start": 199.3,
+        "end": 199.68
+      },
+      {
+        "text": "in",
+        "start": 199.74,
+        "end": 199.84
+      },
+      {
+        "text": "relief",
+        "start": 199.86,
+        "end": 200.15
+      },
+      {
+        "text": "funding",
+        "start": 200.22,
+        "end": 200.51
+      },
+      {
+        "text": "specifically",
+        "start": 200.76,
+        "end": 201.46
+      },
+      {
+        "text": "for",
+        "start": 201.48,
+        "end": 201.59
+      },
+      {
+        "text": "tutoring.",
+        "start": 201.62,
+        "end": 202.86
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "ALEX",
+    "text": "Yeah — the actual cost of finding out too late.",
+    "start": 202.88,
+    "end": 205.84,
+    "words": [
+      {
+        "text": "Yeah",
+        "start": 202.88,
+        "end": 203.28
+      },
+      {
+        "text": "—",
+        "start": 203.29,
+        "end": 203.291
+      },
+      {
+        "text": "the",
+        "start": 203.34,
+        "end": 203.58
+      },
+      {
+        "text": "actual",
+        "start": 203.68,
+        "end": 204.109
+      },
+      {
+        "text": "cost",
+        "start": 204.16,
+        "end": 204.54
+      },
+      {
+        "text": "of",
+        "start": 204.58,
+        "end": 204.7
+      },
+      {
+        "text": "finding",
+        "start": 204.74,
+        "end": 205.04
+      },
+      {
+        "text": "out",
+        "start": 205.1,
+        "end": 205.35
+      },
+      {
+        "text": "too",
+        "start": 205.4,
+        "end": 205.5
+      },
+      {
+        "text": "late.",
+        "start": 205.58,
+        "end": 205.84
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "DEV",
+    "text": "Billions. And that's before you count a teacher's own prep time, or a parent trying to help with material they haven't touched since they were a kid.",
+    "start": 206.72,
+    "end": 214.66,
+    "words": [
+      {
+        "text": "Billions.",
+        "start": 206.72,
+        "end": 207.39
+      },
+      {
+        "text": "And",
+        "start": 207.88,
+        "end": 208.03
+      },
+      {
+        "text": "that's",
+        "start": 208.1,
+        "end": 208.35
+      },
+      {
+        "text": "before",
+        "start": 208.36,
+        "end": 208.64
+      },
+      {
+        "text": "you",
+        "start": 208.66,
+        "end": 208.74
+      },
+      {
+        "text": "count",
+        "start": 208.8,
+        "end": 209.06
+      },
+      {
+        "text": "a",
+        "start": 209.16,
+        "end": 209.17
+      },
+      {
+        "text": "teacher's",
+        "start": 209.18,
+        "end": 209.609
+      },
+      {
+        "text": "own",
+        "start": 209.66,
+        "end": 209.9
+      },
+      {
+        "text": "prep",
+        "start": 209.92,
+        "end": 210.06
+      },
+      {
+        "text": "time,",
+        "start": 210.18,
+        "end": 210.42
+      },
+      {
+        "text": "or",
+        "start": 210.86,
+        "end": 210.95
+      },
+      {
+        "text": "a",
+        "start": 210.951,
+        "end": 211.02
+      },
+      {
+        "text": "parent",
+        "start": 211.04,
+        "end": 211.44
+      },
+      {
+        "text": "trying",
+        "start": 211.45,
+        "end": 211.67
+      },
+      {
+        "text": "to",
+        "start": 211.7,
+        "end": 211.76
+      },
+      {
+        "text": "help",
+        "start": 211.82,
+        "end": 211.96
+      },
+      {
+        "text": "with",
+        "start": 212,
+        "end": 212.09
+      },
+      {
+        "text": "material",
+        "start": 212.12,
+        "end": 212.74
+      },
+      {
+        "text": "they",
+        "start": 212.8,
+        "end": 212.93
+      },
+      {
+        "text": "haven't",
+        "start": 212.96,
+        "end": 213.19
+      },
+      {
+        "text": "touched",
+        "start": 213.22,
+        "end": 213.66
+      },
+      {
+        "text": "since",
+        "start": 213.7,
+        "end": 213.96
+      },
+      {
+        "text": "they",
+        "start": 214.02,
+        "end": 214.17
+      },
+      {
+        "text": "were",
+        "start": 214.2,
+        "end": 214.28
+      },
+      {
+        "text": "a",
+        "start": 214.38,
+        "end": 214.39
+      },
+      {
+        "text": "kid.",
+        "start": 214.44,
+        "end": 214.66
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "ALEX",
+    "text": "Which is a real chunk of who this is actually for. Parents who want to help and just don't remember the content anymore.",
+    "start": 215.26,
+    "end": 223.12,
+    "words": [
+      {
+        "text": "Which",
+        "start": 215.26,
+        "end": 215.38
+      },
+      {
+        "text": "is",
+        "start": 215.44,
+        "end": 215.53
+      },
+      {
+        "text": "a",
+        "start": 215.6,
+        "end": 215.78
+      },
+      {
+        "text": "real",
+        "start": 215.84,
+        "end": 216.17
+      },
+      {
+        "text": "chunk",
+        "start": 216.22,
+        "end": 216.48
+      },
+      {
+        "text": "of",
+        "start": 216.52,
+        "end": 216.609
+      },
+      {
+        "text": "who",
+        "start": 216.66,
+        "end": 216.8
+      },
+      {
+        "text": "this",
+        "start": 216.84,
+        "end": 216.93
+      },
+      {
+        "text": "is",
+        "start": 216.98,
+        "end": 217.109
+      },
+      {
+        "text": "actually",
+        "start": 217.2,
+        "end": 217.65
+      },
+      {
+        "text": "for.",
+        "start": 217.68,
+        "end": 218.72
+      },
+      {
+        "text": "Parents",
+        "start": 218.78,
+        "end": 219.25
+      },
+      {
+        "text": "who",
+        "start": 219.3,
+        "end": 219.48
+      },
+      {
+        "text": "want",
+        "start": 219.52,
+        "end": 219.72
+      },
+      {
+        "text": "to",
+        "start": 219.82,
+        "end": 219.9
+      },
+      {
+        "text": "help",
+        "start": 219.94,
+        "end": 220.28
+      },
+      {
+        "text": "and",
+        "start": 220.3,
+        "end": 220.46
+      },
+      {
+        "text": "just",
+        "start": 220.5,
+        "end": 221.16
+      },
+      {
+        "text": "don't",
+        "start": 221.22,
+        "end": 221.52
+      },
+      {
+        "text": "remember",
+        "start": 221.56,
+        "end": 221.9
+      },
+      {
+        "text": "the",
+        "start": 221.94,
+        "end": 222.02
+      },
+      {
+        "text": "content",
+        "start": 222.08,
+        "end": 222.6
+      },
+      {
+        "text": "anymore.",
+        "start": 222.64,
+        "end": 223.12
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "DEV",
+    "text": "So if you catch the confusion in week two instead of month three? —",
+    "start": 223.74,
+    "end": 227.451,
+    "words": [
+      {
+        "text": "So",
+        "start": 223.74,
+        "end": 223.8
+      },
+      {
+        "text": "if",
+        "start": 223.82,
+        "end": 223.88
+      },
+      {
+        "text": "you",
+        "start": 223.92,
+        "end": 223.98
+      },
+      {
+        "text": "catch",
+        "start": 224.04,
+        "end": 224.26
+      },
+      {
+        "text": "the",
+        "start": 224.269,
+        "end": 224.34
+      },
+      {
+        "text": "confusion",
+        "start": 224.36,
+        "end": 224.91
+      },
+      {
+        "text": "in",
+        "start": 224.92,
+        "end": 225.04
+      },
+      {
+        "text": "week",
+        "start": 225.1,
+        "end": 225.34
+      },
+      {
+        "text": "two",
+        "start": 225.44,
+        "end": 225.73
+      },
+      {
+        "text": "instead",
+        "start": 225.92,
+        "end": 226.12
+      },
+      {
+        "text": "of",
+        "start": 226.14,
+        "end": 226.22
+      },
+      {
+        "text": "month",
+        "start": 226.26,
+        "end": 226.4
+      },
+      {
+        "text": "three?",
+        "start": 226.52,
+        "end": 226.76
+      },
+      {
+        "text": "—",
+        "start": 227.45,
+        "end": 227.451
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 3",
+    "speaker": "ALEX",
+    "text": "yeah — the money's already budgeted. It's just landing much later than it needs to.",
+    "start": 227.5,
+    "end": 232.78,
+    "words": [
+      {
+        "text": "yeah",
+        "start": 227.5,
+        "end": 227.75
+      },
+      {
+        "text": "—",
+        "start": 227.98,
+        "end": 227.981
+      },
+      {
+        "text": "the",
+        "start": 228.04,
+        "end": 228.14
+      },
+      {
+        "text": "money's",
+        "start": 228.2,
+        "end": 228.58
+      },
+      {
+        "text": "already",
+        "start": 228.64,
+        "end": 229.04
+      },
+      {
+        "text": "budgeted.",
+        "start": 229.06,
+        "end": 229.58
+      },
+      {
+        "text": "It's",
+        "start": 230.09,
+        "end": 230.26
+      },
+      {
+        "text": "just",
+        "start": 230.3,
+        "end": 230.56
+      },
+      {
+        "text": "landing",
+        "start": 230.64,
+        "end": 231.14
+      },
+      {
+        "text": "much",
+        "start": 231.24,
+        "end": 231.5
+      },
+      {
+        "text": "later",
+        "start": 231.56,
+        "end": 231.84
+      },
+      {
+        "text": "than",
+        "start": 231.9,
+        "end": 232
+      },
+      {
+        "text": "it",
+        "start": 232.04,
+        "end": 232.12
+      },
+      {
+        "text": "needs",
+        "start": 232.18,
+        "end": 232.5
+      },
+      {
+        "text": "to.",
+        "start": 232.54,
+        "end": 232.78
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "So — who actually benefits from something like this.",
+    "start": 233.58,
+    "end": 236.66,
+    "words": [
+      {
+        "text": "So",
+        "start": 233.58,
+        "end": 233.82
+      },
+      {
+        "text": "—",
+        "start": 234.18,
+        "end": 234.181
+      },
+      {
+        "text": "who",
+        "start": 234.26,
+        "end": 234.45
+      },
+      {
+        "text": "actually",
+        "start": 234.68,
+        "end": 234.98
+      },
+      {
+        "text": "benefits",
+        "start": 235.18,
+        "end": 235.66
+      },
+      {
+        "text": "from",
+        "start": 235.8,
+        "end": 235.9
+      },
+      {
+        "text": "something",
+        "start": 235.96,
+        "end": 236.2
+      },
+      {
+        "text": "like",
+        "start": 236.24,
+        "end": 236.34
+      },
+      {
+        "text": "this.",
+        "start": 236.42,
+        "end": 236.66
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "ALEX",
+    "text": "Well, students, primarily. Parents, we just covered.",
+    "start": 237.6,
+    "end": 241.52,
+    "words": [
+      {
+        "text": "Well,",
+        "start": 237.6,
+        "end": 237.82
+      },
+      {
+        "text": "students,",
+        "start": 238.32,
+        "end": 238.8
+      },
+      {
+        "text": "primarily.",
+        "start": 238.92,
+        "end": 239.56
+      },
+      {
+        "text": "Parents,",
+        "start": 240.2,
+        "end": 240.69
+      },
+      {
+        "text": "we",
+        "start": 240.78,
+        "end": 240.84
+      },
+      {
+        "text": "just",
+        "start": 240.92,
+        "end": 241.06
+      },
+      {
+        "text": "covered.",
+        "start": 241.12,
+        "end": 241.52
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "Teachers.",
+    "start": 242.24,
+    "end": 242.62,
+    "words": [
+      {
+        "text": "Teachers.",
+        "start": 242.24,
+        "end": 242.62
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "ALEX",
+    "text": "Teachers, yeah. They already know their kids well. The problem's just that the proof — which idea actually tripped up the room — is buried in a pile of grading that takes real time to get through — this gets it to them while there's still time to course correct.",
+    "start": 243.28,
+    "end": 259.44,
+    "words": [
+      {
+        "text": "Teachers,",
+        "start": 243.28,
+        "end": 243.86
+      },
+      {
+        "text": "yeah.",
+        "start": 244.24,
+        "end": 244.48
+      },
+      {
+        "text": "They",
+        "start": 245.14,
+        "end": 245.28
+      },
+      {
+        "text": "already",
+        "start": 245.36,
+        "end": 245.64
+      },
+      {
+        "text": "know",
+        "start": 245.68,
+        "end": 245.86
+      },
+      {
+        "text": "their",
+        "start": 245.9,
+        "end": 246.04
+      },
+      {
+        "text": "kids",
+        "start": 246.08,
+        "end": 246.29
+      },
+      {
+        "text": "well.",
+        "start": 246.36,
+        "end": 246.62
+      },
+      {
+        "text": "The",
+        "start": 247.18,
+        "end": 247.28
+      },
+      {
+        "text": "problem's",
+        "start": 247.32,
+        "end": 247.78
+      },
+      {
+        "text": "just",
+        "start": 247.82,
+        "end": 247.98
+      },
+      {
+        "text": "that",
+        "start": 248.02,
+        "end": 248.14
+      },
+      {
+        "text": "the",
+        "start": 248.2,
+        "end": 248.3
+      },
+      {
+        "text": "proof",
+        "start": 248.36,
+        "end": 248.82
+      },
+      {
+        "text": "—",
+        "start": 249.16,
+        "end": 249.161
+      },
+      {
+        "text": "which",
+        "start": 249.22,
+        "end": 249.4
+      },
+      {
+        "text": "idea",
+        "start": 249.46,
+        "end": 249.9
+      },
+      {
+        "text": "actually",
+        "start": 249.98,
+        "end": 250.4
+      },
+      {
+        "text": "tripped",
+        "start": 250.41,
+        "end": 250.66
+      },
+      {
+        "text": "up",
+        "start": 250.72,
+        "end": 250.82
+      },
+      {
+        "text": "the",
+        "start": 250.86,
+        "end": 250.96
+      },
+      {
+        "text": "room",
+        "start": 251,
+        "end": 251.3
+      },
+      {
+        "text": "—",
+        "start": 251.82,
+        "end": 251.821
+      },
+      {
+        "text": "is",
+        "start": 251.88,
+        "end": 252.02
+      },
+      {
+        "text": "buried",
+        "start": 252.06,
+        "end": 252.39
+      },
+      {
+        "text": "in",
+        "start": 252.46,
+        "end": 252.52
+      },
+      {
+        "text": "a",
+        "start": 252.56,
+        "end": 252.64
+      },
+      {
+        "text": "pile",
+        "start": 252.68,
+        "end": 252.96
+      },
+      {
+        "text": "of",
+        "start": 253,
+        "end": 253.1
+      },
+      {
+        "text": "grading",
+        "start": 253.14,
+        "end": 253.52
+      },
+      {
+        "text": "that",
+        "start": 253.56,
+        "end": 253.65
+      },
+      {
+        "text": "takes",
+        "start": 253.7,
+        "end": 254.07
+      },
+      {
+        "text": "real",
+        "start": 254.12,
+        "end": 254.38
+      },
+      {
+        "text": "time",
+        "start": 254.42,
+        "end": 254.74
+      },
+      {
+        "text": "to",
+        "start": 254.78,
+        "end": 254.86
+      },
+      {
+        "text": "get",
+        "start": 254.9,
+        "end": 255.09
+      },
+      {
+        "text": "through",
+        "start": 255.12,
+        "end": 255.41
+      },
+      {
+        "text": "—",
+        "start": 256,
+        "end": 256.001
+      },
+      {
+        "text": "this",
+        "start": 256.06,
+        "end": 256.29
+      },
+      {
+        "text": "gets",
+        "start": 256.32,
+        "end": 256.49
+      },
+      {
+        "text": "it",
+        "start": 256.519,
+        "end": 256.61
+      },
+      {
+        "text": "to",
+        "start": 256.64,
+        "end": 256.72
+      },
+      {
+        "text": "them",
+        "start": 256.76,
+        "end": 256.95
+      },
+      {
+        "text": "while",
+        "start": 256.959,
+        "end": 257.079
+      },
+      {
+        "text": "there's",
+        "start": 257.1,
+        "end": 257.31
+      },
+      {
+        "text": "still",
+        "start": 257.38,
+        "end": 257.579
+      },
+      {
+        "text": "time",
+        "start": 257.62,
+        "end": 257.959
+      },
+      {
+        "text": "to",
+        "start": 257.98,
+        "end": 258.079
+      },
+      {
+        "text": "course",
+        "start": 258.14,
+        "end": 258.399
+      },
+      {
+        "text": "correct.",
+        "start": 258.44,
+        "end": 259.44
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "Can I push on that? Because anything that shows \"which questions a class missed\" — depending who's holding that information, that can start to feel aimed at the teacher instead of for them.",
+    "start": 259.48,
+    "end": 269.98,
+    "words": [
+      {
+        "text": "Can",
+        "start": 259.48,
+        "end": 259.579
+      },
+      {
+        "text": "I",
+        "start": 259.62,
+        "end": 259.66
+      },
+      {
+        "text": "push",
+        "start": 259.78,
+        "end": 259.959
+      },
+      {
+        "text": "on",
+        "start": 260,
+        "end": 260.079
+      },
+      {
+        "text": "that?",
+        "start": 260.14,
+        "end": 260.269
+      },
+      {
+        "text": "Because",
+        "start": 260.62,
+        "end": 261.22
+      },
+      {
+        "text": "anything",
+        "start": 261.28,
+        "end": 261.56
+      },
+      {
+        "text": "that",
+        "start": 261.57,
+        "end": 261.66
+      },
+      {
+        "text": "shows",
+        "start": 261.74,
+        "end": 262.28
+      },
+      {
+        "text": "\"which",
+        "start": 262.3,
+        "end": 262.58
+      },
+      {
+        "text": "questions",
+        "start": 262.64,
+        "end": 263.13
+      },
+      {
+        "text": "a",
+        "start": 263.22,
+        "end": 263.23
+      },
+      {
+        "text": "class",
+        "start": 263.3,
+        "end": 263.7
+      },
+      {
+        "text": "missed\"",
+        "start": 263.78,
+        "end": 264.1
+      },
+      {
+        "text": "—",
+        "start": 264.74,
+        "end": 264.741
+      },
+      {
+        "text": "depending",
+        "start": 264.78,
+        "end": 265.14
+      },
+      {
+        "text": "who's",
+        "start": 265.2,
+        "end": 265.38
+      },
+      {
+        "text": "holding",
+        "start": 265.44,
+        "end": 265.7
+      },
+      {
+        "text": "that",
+        "start": 265.74,
+        "end": 265.84
+      },
+      {
+        "text": "information,",
+        "start": 265.88,
+        "end": 266.35
+      },
+      {
+        "text": "that",
+        "start": 266.92,
+        "end": 267
+      },
+      {
+        "text": "can",
+        "start": 267.02,
+        "end": 267.12
+      },
+      {
+        "text": "start",
+        "start": 267.16,
+        "end": 267.31
+      },
+      {
+        "text": "to",
+        "start": 267.32,
+        "end": 267.4
+      },
+      {
+        "text": "feel",
+        "start": 267.44,
+        "end": 267.66
+      },
+      {
+        "text": "aimed",
+        "start": 267.74,
+        "end": 267.98
+      },
+      {
+        "text": "at",
+        "start": 268.02,
+        "end": 268.11
+      },
+      {
+        "text": "the",
+        "start": 268.14,
+        "end": 268.24
+      },
+      {
+        "text": "teacher",
+        "start": 268.34,
+        "end": 269
+      },
+      {
+        "text": "instead",
+        "start": 269.04,
+        "end": 269.29
+      },
+      {
+        "text": "of",
+        "start": 269.3,
+        "end": 269.4
+      },
+      {
+        "text": "for",
+        "start": 269.52,
+        "end": 269.72
+      },
+      {
+        "text": "them.",
+        "start": 269.8,
+        "end": 269.98
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "ALEX",
+    "text": "Yeah — I take that seriously, genuinely. Every bit of this is aimed at what a class understood, not who taught it or how. And nobody's required to check it — it's there if a teacher wants it, not one more login demanding attention.",
+    "start": 270.8,
+    "end": 287.34,
+    "words": [
+      {
+        "text": "Yeah",
+        "start": 270.8,
+        "end": 271.08
+      },
+      {
+        "text": "—",
+        "start": 271.54,
+        "end": 271.541
+      },
+      {
+        "text": "I",
+        "start": 271.64,
+        "end": 271.66
+      },
+      {
+        "text": "take",
+        "start": 271.76,
+        "end": 271.9
+      },
+      {
+        "text": "that",
+        "start": 271.96,
+        "end": 272.14
+      },
+      {
+        "text": "seriously,",
+        "start": 272.16,
+        "end": 272.9
+      },
+      {
+        "text": "genuinely.",
+        "start": 273.5,
+        "end": 274.2
+      },
+      {
+        "text": "Every",
+        "start": 275,
+        "end": 275.29
+      },
+      {
+        "text": "bit",
+        "start": 275.38,
+        "end": 275.5
+      },
+      {
+        "text": "of",
+        "start": 275.54,
+        "end": 275.62
+      },
+      {
+        "text": "this",
+        "start": 275.68,
+        "end": 275.86
+      },
+      {
+        "text": "is",
+        "start": 275.92,
+        "end": 276.06
+      },
+      {
+        "text": "aimed",
+        "start": 276.12,
+        "end": 276.34
+      },
+      {
+        "text": "at",
+        "start": 276.36,
+        "end": 276.43
+      },
+      {
+        "text": "what",
+        "start": 276.48,
+        "end": 276.56
+      },
+      {
+        "text": "a",
+        "start": 276.62,
+        "end": 276.63
+      },
+      {
+        "text": "class",
+        "start": 276.74,
+        "end": 277.18
+      },
+      {
+        "text": "understood,",
+        "start": 277.22,
+        "end": 277.94
+      },
+      {
+        "text": "not",
+        "start": 278.38,
+        "end": 278.62
+      },
+      {
+        "text": "who",
+        "start": 278.74,
+        "end": 278.88
+      },
+      {
+        "text": "taught",
+        "start": 279,
+        "end": 279.24
+      },
+      {
+        "text": "it",
+        "start": 279.3,
+        "end": 279.42
+      },
+      {
+        "text": "or",
+        "start": 279.46,
+        "end": 279.6
+      },
+      {
+        "text": "how.",
+        "start": 279.68,
+        "end": 280
+      },
+      {
+        "text": "And",
+        "start": 280.67,
+        "end": 280.78
+      },
+      {
+        "text": "nobody's",
+        "start": 280.82,
+        "end": 281.19
+      },
+      {
+        "text": "required",
+        "start": 281.24,
+        "end": 281.66
+      },
+      {
+        "text": "to",
+        "start": 281.7,
+        "end": 281.8
+      },
+      {
+        "text": "check",
+        "start": 281.86,
+        "end": 282.06
+      },
+      {
+        "text": "it",
+        "start": 282.12,
+        "end": 282.22
+      },
+      {
+        "text": "—",
+        "start": 282.72,
+        "end": 282.721
+      },
+      {
+        "text": "it's",
+        "start": 282.78,
+        "end": 282.969
+      },
+      {
+        "text": "there",
+        "start": 283.02,
+        "end": 283.28
+      },
+      {
+        "text": "if",
+        "start": 283.34,
+        "end": 283.4
+      },
+      {
+        "text": "a",
+        "start": 283.44,
+        "end": 283.5
+      },
+      {
+        "text": "teacher",
+        "start": 283.54,
+        "end": 283.9
+      },
+      {
+        "text": "wants",
+        "start": 283.94,
+        "end": 284.26
+      },
+      {
+        "text": "it,",
+        "start": 284.34,
+        "end": 284.46
+      },
+      {
+        "text": "not",
+        "start": 285,
+        "end": 285.31
+      },
+      {
+        "text": "one",
+        "start": 285.4,
+        "end": 285.49
+      },
+      {
+        "text": "more",
+        "start": 285.56,
+        "end": 285.74
+      },
+      {
+        "text": "login",
+        "start": 285.78,
+        "end": 286.22
+      },
+      {
+        "text": "demanding",
+        "start": 286.3,
+        "end": 286.7
+      },
+      {
+        "text": "attention.",
+        "start": 286.76,
+        "end": 287.34
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "So it's a heads-up? Optional? Nobody's grading the teacher on it?",
+    "start": 288.2,
+    "end": 292.3,
+    "words": [
+      {
+        "text": "So",
+        "start": 288.2,
+        "end": 288.86
+      },
+      {
+        "text": "it's",
+        "start": 288.92,
+        "end": 289.01
+      },
+      {
+        "text": "a",
+        "start": 289.04,
+        "end": 289.05
+      },
+      {
+        "text": "heads-up?",
+        "start": 289.1,
+        "end": 289.54
+      },
+      {
+        "text": "Optional?",
+        "start": 290.04,
+        "end": 290.39
+      },
+      {
+        "text": "Nobody's",
+        "start": 290.95,
+        "end": 291.38
+      },
+      {
+        "text": "grading",
+        "start": 291.4,
+        "end": 291.67
+      },
+      {
+        "text": "the",
+        "start": 291.671,
+        "end": 291.76
+      },
+      {
+        "text": "teacher",
+        "start": 291.78,
+        "end": 292.04
+      },
+      {
+        "text": "on",
+        "start": 292.1,
+        "end": 292.18
+      },
+      {
+        "text": "it?",
+        "start": 292.22,
+        "end": 292.3
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "ALEX",
+    "text": "That's the shape of it, yeah. And honestly, it should save time, not add to the pile — fewer surprises means less scrambling to reteach something the week before a test.",
+    "start": 292.91,
+    "end": 304.88,
+    "words": [
+      {
+        "text": "That's",
+        "start": 292.91,
+        "end": 293.18
+      },
+      {
+        "text": "the",
+        "start": 293.22,
+        "end": 293.32
+      },
+      {
+        "text": "shape",
+        "start": 293.36,
+        "end": 293.58
+      },
+      {
+        "text": "of",
+        "start": 293.64,
+        "end": 293.72
+      },
+      {
+        "text": "it,",
+        "start": 293.8,
+        "end": 293.91
+      },
+      {
+        "text": "yeah.",
+        "start": 294.26,
+        "end": 294.55
+      },
+      {
+        "text": "And",
+        "start": 295.14,
+        "end": 295.29
+      },
+      {
+        "text": "honestly,",
+        "start": 295.36,
+        "end": 296.12
+      },
+      {
+        "text": "it",
+        "start": 296.16,
+        "end": 296.26
+      },
+      {
+        "text": "should",
+        "start": 296.3,
+        "end": 296.53
+      },
+      {
+        "text": "save",
+        "start": 296.64,
+        "end": 296.96
+      },
+      {
+        "text": "time,",
+        "start": 297,
+        "end": 297.58
+      },
+      {
+        "text": "not",
+        "start": 297.62,
+        "end": 297.87
+      },
+      {
+        "text": "add",
+        "start": 297.94,
+        "end": 298.1
+      },
+      {
+        "text": "to",
+        "start": 298.14,
+        "end": 298.22
+      },
+      {
+        "text": "the",
+        "start": 298.26,
+        "end": 298.34
+      },
+      {
+        "text": "pile",
+        "start": 298.36,
+        "end": 298.71
+      },
+      {
+        "text": "—",
+        "start": 299.46,
+        "end": 299.46099999999996
+      },
+      {
+        "text": "fewer",
+        "start": 299.5,
+        "end": 299.76
+      },
+      {
+        "text": "surprises",
+        "start": 299.88,
+        "end": 300.54
+      },
+      {
+        "text": "means",
+        "start": 300.6,
+        "end": 301.02
+      },
+      {
+        "text": "less",
+        "start": 301.08,
+        "end": 301.3
+      },
+      {
+        "text": "scrambling",
+        "start": 301.31,
+        "end": 301.92
+      },
+      {
+        "text": "to",
+        "start": 301.93,
+        "end": 302.08
+      },
+      {
+        "text": "reteach",
+        "start": 302.12,
+        "end": 302.56
+      },
+      {
+        "text": "something",
+        "start": 302.6,
+        "end": 302.96
+      },
+      {
+        "text": "the",
+        "start": 303,
+        "end": 303.06
+      },
+      {
+        "text": "week",
+        "start": 303.1,
+        "end": 303.28
+      },
+      {
+        "text": "before",
+        "start": 303.32,
+        "end": 303.58
+      },
+      {
+        "text": "a",
+        "start": 303.62,
+        "end": 303.68
+      },
+      {
+        "text": "test.",
+        "start": 303.74,
+        "end": 304.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "And a school board looks at the same information and sees... what exactly?",
+    "start": 304.98,
+    "end": 309.74,
+    "words": [
+      {
+        "text": "And",
+        "start": 304.98,
+        "end": 305.34
+      },
+      {
+        "text": "a",
+        "start": 305.4,
+        "end": 305.48
+      },
+      {
+        "text": "school",
+        "start": 305.52,
+        "end": 305.8
+      },
+      {
+        "text": "board",
+        "start": 305.82,
+        "end": 306.16
+      },
+      {
+        "text": "looks",
+        "start": 306.22,
+        "end": 306.35
+      },
+      {
+        "text": "at",
+        "start": 306.38,
+        "end": 306.43
+      },
+      {
+        "text": "the",
+        "start": 306.46,
+        "end": 306.56
+      },
+      {
+        "text": "same",
+        "start": 306.6,
+        "end": 306.8
+      },
+      {
+        "text": "information",
+        "start": 306.86,
+        "end": 307.43
+      },
+      {
+        "text": "and",
+        "start": 307.44,
+        "end": 307.63
+      },
+      {
+        "text": "sees...",
+        "start": 307.68,
+        "end": 308.9
+      },
+      {
+        "text": "what",
+        "start": 308.96,
+        "end": 309.28
+      },
+      {
+        "text": "exactly?",
+        "start": 309.32,
+        "end": 309.74
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "ALEX",
+    "text": "Which concepts aren't landing, across a whole grade, before it shows up on a provincial assessment. That moves it out of just one classroom — which can help future planning, for a whole grade.",
+    "start": 310.6,
+    "end": 322.74,
+    "words": [
+      {
+        "text": "Which",
+        "start": 310.6,
+        "end": 310.8
+      },
+      {
+        "text": "concepts",
+        "start": 310.86,
+        "end": 311.44
+      },
+      {
+        "text": "aren't",
+        "start": 311.58,
+        "end": 311.8
+      },
+      {
+        "text": "landing,",
+        "start": 311.88,
+        "end": 312.41
+      },
+      {
+        "text": "across",
+        "start": 312.78,
+        "end": 313.06
+      },
+      {
+        "text": "a",
+        "start": 313.12,
+        "end": 313.18
+      },
+      {
+        "text": "whole",
+        "start": 313.24,
+        "end": 313.44
+      },
+      {
+        "text": "grade,",
+        "start": 313.52,
+        "end": 313.92
+      },
+      {
+        "text": "before",
+        "start": 314.34,
+        "end": 314.72
+      },
+      {
+        "text": "it",
+        "start": 314.76,
+        "end": 314.86
+      },
+      {
+        "text": "shows",
+        "start": 314.88,
+        "end": 315.14
+      },
+      {
+        "text": "up",
+        "start": 315.22,
+        "end": 315.36
+      },
+      {
+        "text": "on",
+        "start": 315.4,
+        "end": 315.46
+      },
+      {
+        "text": "a",
+        "start": 315.5,
+        "end": 315.56
+      },
+      {
+        "text": "provincial",
+        "start": 315.58,
+        "end": 315.96
+      },
+      {
+        "text": "assessment.",
+        "start": 316.02,
+        "end": 316.68
+      },
+      {
+        "text": "That",
+        "start": 317.38,
+        "end": 317.54
+      },
+      {
+        "text": "moves",
+        "start": 317.56,
+        "end": 317.78
+      },
+      {
+        "text": "it",
+        "start": 317.82,
+        "end": 317.9
+      },
+      {
+        "text": "out",
+        "start": 317.98,
+        "end": 318.08
+      },
+      {
+        "text": "of",
+        "start": 318.12,
+        "end": 318.22
+      },
+      {
+        "text": "just",
+        "start": 318.28,
+        "end": 318.48
+      },
+      {
+        "text": "one",
+        "start": 318.62,
+        "end": 318.82
+      },
+      {
+        "text": "classroom",
+        "start": 318.9,
+        "end": 319.56
+      },
+      {
+        "text": "—",
+        "start": 319.58,
+        "end": 319.58099999999996
+      },
+      {
+        "text": "which",
+        "start": 320.04,
+        "end": 320.18
+      },
+      {
+        "text": "can",
+        "start": 320.22,
+        "end": 320.32
+      },
+      {
+        "text": "help",
+        "start": 320.36,
+        "end": 320.52
+      },
+      {
+        "text": "future",
+        "start": 320.58,
+        "end": 320.9
+      },
+      {
+        "text": "planning,",
+        "start": 320.98,
+        "end": 321.4
+      },
+      {
+        "text": "for",
+        "start": 321.62,
+        "end": 321.74
+      },
+      {
+        "text": "a",
+        "start": 321.8,
+        "end": 321.88
+      },
+      {
+        "text": "whole",
+        "start": 321.96,
+        "end": 322.18
+      },
+      {
+        "text": "grade.",
+        "start": 322.28,
+        "end": 322.74
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 4",
+    "speaker": "DEV",
+    "text": "Which is probably the version a Ministry actually wants to see. Not \"kids like it more\" — but \"here's where the gaps are, earlier than you'd otherwise know.\"",
+    "start": 323.4,
+    "end": 333.16,
+    "words": [
+      {
+        "text": "Which",
+        "start": 323.4,
+        "end": 323.7
+      },
+      {
+        "text": "is",
+        "start": 323.78,
+        "end": 324
+      },
+      {
+        "text": "probably",
+        "start": 324.08,
+        "end": 324.62
+      },
+      {
+        "text": "the",
+        "start": 324.66,
+        "end": 324.74
+      },
+      {
+        "text": "version",
+        "start": 324.78,
+        "end": 325.12
+      },
+      {
+        "text": "a",
+        "start": 325.22,
+        "end": 325.3
+      },
+      {
+        "text": "Ministry",
+        "start": 325.34,
+        "end": 325.74
+      },
+      {
+        "text": "actually",
+        "start": 325.96,
+        "end": 326.26
+      },
+      {
+        "text": "wants",
+        "start": 326.34,
+        "end": 326.52
+      },
+      {
+        "text": "to",
+        "start": 326.58,
+        "end": 326.66
+      },
+      {
+        "text": "see.",
+        "start": 326.72,
+        "end": 326.96
+      },
+      {
+        "text": "Not",
+        "start": 327.56,
+        "end": 327.76
+      },
+      {
+        "text": "\"kids",
+        "start": 328.04,
+        "end": 328.34
+      },
+      {
+        "text": "like",
+        "start": 328.4,
+        "end": 328.52
+      },
+      {
+        "text": "it",
+        "start": 328.56,
+        "end": 328.66
+      },
+      {
+        "text": "more\"",
+        "start": 328.72,
+        "end": 328.93
+      },
+      {
+        "text": "—",
+        "start": 329.03,
+        "end": 329.03099999999995
+      },
+      {
+        "text": "but",
+        "start": 329.36,
+        "end": 329.54
+      },
+      {
+        "text": "\"here's",
+        "start": 329.86,
+        "end": 330.24
+      },
+      {
+        "text": "where",
+        "start": 330.26,
+        "end": 330.34
+      },
+      {
+        "text": "the",
+        "start": 330.36,
+        "end": 330.43
+      },
+      {
+        "text": "gaps",
+        "start": 330.52,
+        "end": 330.78
+      },
+      {
+        "text": "are,",
+        "start": 330.86,
+        "end": 331
+      },
+      {
+        "text": "earlier",
+        "start": 331.48,
+        "end": 331.9
+      },
+      {
+        "text": "than",
+        "start": 332.02,
+        "end": 332.12
+      },
+      {
+        "text": "you'd",
+        "start": 332.16,
+        "end": 332.26
+      },
+      {
+        "text": "otherwise",
+        "start": 332.36,
+        "end": 332.82
+      },
+      {
+        "text": "know.\"",
+        "start": 332.84,
+        "end": 333.16
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "Uh... can I bring something up? It's not fully built yet, but it's on the roadmap, and I think about it a lot.",
+    "start": 333.92,
+    "end": 340.86,
+    "words": [
+      {
+        "text": "Uh...",
+        "start": 333.92,
+        "end": 334.1
+      },
+      {
+        "text": "can",
+        "start": 334.3,
+        "end": 334.4
+      },
+      {
+        "text": "I",
+        "start": 334.54,
+        "end": 334.72
+      },
+      {
+        "text": "bring",
+        "start": 334.78,
+        "end": 334.92
+      },
+      {
+        "text": "something",
+        "start": 335,
+        "end": 335.3
+      },
+      {
+        "text": "up?",
+        "start": 335.4,
+        "end": 335.61
+      },
+      {
+        "text": "It's",
+        "start": 336.28,
+        "end": 336.44
+      },
+      {
+        "text": "not",
+        "start": 336.48,
+        "end": 336.86
+      },
+      {
+        "text": "fully",
+        "start": 336.96,
+        "end": 337.21
+      },
+      {
+        "text": "built",
+        "start": 337.3,
+        "end": 337.5
+      },
+      {
+        "text": "yet,",
+        "start": 337.58,
+        "end": 337.74
+      },
+      {
+        "text": "but",
+        "start": 337.9,
+        "end": 338.22
+      },
+      {
+        "text": "it's",
+        "start": 338.28,
+        "end": 338.38
+      },
+      {
+        "text": "on",
+        "start": 338.44,
+        "end": 338.5
+      },
+      {
+        "text": "the",
+        "start": 338.54,
+        "end": 338.62
+      },
+      {
+        "text": "roadmap,",
+        "start": 338.66,
+        "end": 339.18
+      },
+      {
+        "text": "and",
+        "start": 339.24,
+        "end": 339.4
+      },
+      {
+        "text": "I",
+        "start": 339.74,
+        "end": 339.8
+      },
+      {
+        "text": "think",
+        "start": 339.82,
+        "end": 340
+      },
+      {
+        "text": "about",
+        "start": 340.08,
+        "end": 340.24
+      },
+      {
+        "text": "it",
+        "start": 340.26,
+        "end": 340.34
+      },
+      {
+        "text": "a",
+        "start": 340.38,
+        "end": 340.42
+      },
+      {
+        "text": "lot.",
+        "start": 340.48,
+        "end": 340.86
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "DEV",
+    "text": "Go for it.",
+    "start": 341.48,
+    "end": 341.88,
+    "words": [
+      {
+        "text": "Go",
+        "start": 341.48,
+        "end": 341.54
+      },
+      {
+        "text": "for",
+        "start": 341.62,
+        "end": 341.7
+      },
+      {
+        "text": "it.",
+        "start": 341.76,
+        "end": 341.88
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "Long breaks. Summer's the big one — kids lose real ground over it. It's one of the more consistently replicated findings in education research — going back decades. A chunk of learning, just gone, by September.",
+    "start": 342.74,
+    "end": 356.969,
+    "words": [
+      {
+        "text": "Long",
+        "start": 342.74,
+        "end": 343.14
+      },
+      {
+        "text": "breaks.",
+        "start": 343.3,
+        "end": 343.8
+      },
+      {
+        "text": "Summer's",
+        "start": 344.6,
+        "end": 344.92
+      },
+      {
+        "text": "the",
+        "start": 344.94,
+        "end": 344.99
+      },
+      {
+        "text": "big",
+        "start": 345.06,
+        "end": 345.2
+      },
+      {
+        "text": "one",
+        "start": 345.26,
+        "end": 345.46
+      },
+      {
+        "text": "—",
+        "start": 345.9,
+        "end": 345.90099999999995
+      },
+      {
+        "text": "kids",
+        "start": 345.98,
+        "end": 346.24
+      },
+      {
+        "text": "lose",
+        "start": 346.28,
+        "end": 346.5
+      },
+      {
+        "text": "real",
+        "start": 346.72,
+        "end": 346.98
+      },
+      {
+        "text": "ground",
+        "start": 347.08,
+        "end": 347.4
+      },
+      {
+        "text": "over",
+        "start": 347.48,
+        "end": 347.66
+      },
+      {
+        "text": "it.",
+        "start": 347.72,
+        "end": 347.88
+      },
+      {
+        "text": "It's",
+        "start": 348.38,
+        "end": 348.48
+      },
+      {
+        "text": "one",
+        "start": 348.54,
+        "end": 348.62
+      },
+      {
+        "text": "of",
+        "start": 348.66,
+        "end": 348.72
+      },
+      {
+        "text": "the",
+        "start": 348.76,
+        "end": 348.82
+      },
+      {
+        "text": "more",
+        "start": 348.84,
+        "end": 349.04
+      },
+      {
+        "text": "consistently",
+        "start": 349.08,
+        "end": 349.74
+      },
+      {
+        "text": "replicated",
+        "start": 349.8,
+        "end": 350.38
+      },
+      {
+        "text": "findings",
+        "start": 350.42,
+        "end": 350.82
+      },
+      {
+        "text": "in",
+        "start": 350.84,
+        "end": 350.92
+      },
+      {
+        "text": "education",
+        "start": 350.96,
+        "end": 351.46
+      },
+      {
+        "text": "research",
+        "start": 351.48,
+        "end": 351.96
+      },
+      {
+        "text": "—",
+        "start": 352.28,
+        "end": 352.28099999999995
+      },
+      {
+        "text": "going",
+        "start": 352.32,
+        "end": 352.53
+      },
+      {
+        "text": "back",
+        "start": 352.56,
+        "end": 352.76
+      },
+      {
+        "text": "decades.",
+        "start": 352.8,
+        "end": 353.33
+      },
+      {
+        "text": "A",
+        "start": 354.1,
+        "end": 354.11
+      },
+      {
+        "text": "chunk",
+        "start": 354.2,
+        "end": 354.5
+      },
+      {
+        "text": "of",
+        "start": 354.54,
+        "end": 354.64
+      },
+      {
+        "text": "learning,",
+        "start": 354.68,
+        "end": 355.3
+      },
+      {
+        "text": "just",
+        "start": 355.4,
+        "end": 355.73
+      },
+      {
+        "text": "gone,",
+        "start": 355.78,
+        "end": 356.24
+      },
+      {
+        "text": "by",
+        "start": 356.26,
+        "end": 356.4
+      },
+      {
+        "text": "September.",
+        "start": 356.44,
+        "end": 356.969
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "DEV",
+    "text": "Right — and nothing's really checking in during that stretch.",
+    "start": 357.74,
+    "end": 361.25,
+    "words": [
+      {
+        "text": "Right",
+        "start": 357.74,
+        "end": 357.95
+      },
+      {
+        "text": "—",
+        "start": 358.4,
+        "end": 358.40099999999995
+      },
+      {
+        "text": "and",
+        "start": 358.46,
+        "end": 358.95
+      },
+      {
+        "text": "nothing's",
+        "start": 358.98,
+        "end": 359.39
+      },
+      {
+        "text": "really",
+        "start": 359.42,
+        "end": 359.79
+      },
+      {
+        "text": "checking",
+        "start": 359.84,
+        "end": 360.12
+      },
+      {
+        "text": "in",
+        "start": 360.13,
+        "end": 360.5
+      },
+      {
+        "text": "during",
+        "start": 360.51,
+        "end": 360.73
+      },
+      {
+        "text": "that",
+        "start": 360.731,
+        "end": 360.91
+      },
+      {
+        "text": "stretch.",
+        "start": 360.96,
+        "end": 361.25
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "Nothing structured, no. So — same format, same short episodes, aimed at a different six weeks. Not schoolwork. More like staying warm.",
+    "start": 362.04,
+    "end": 373.2,
+    "words": [
+      {
+        "text": "Nothing",
+        "start": 362.04,
+        "end": 362.32
+      },
+      {
+        "text": "structured,",
+        "start": 362.36,
+        "end": 362.83
+      },
+      {
+        "text": "no.",
+        "start": 363.02,
+        "end": 363.22
+      },
+      {
+        "text": "So",
+        "start": 364.14,
+        "end": 364.68
+      },
+      {
+        "text": "—",
+        "start": 364.69,
+        "end": 364.691
+      },
+      {
+        "text": "same",
+        "start": 364.76,
+        "end": 365.02
+      },
+      {
+        "text": "format,",
+        "start": 365.08,
+        "end": 365.46
+      },
+      {
+        "text": "same",
+        "start": 365.86,
+        "end": 366.22
+      },
+      {
+        "text": "short",
+        "start": 366.26,
+        "end": 366.5
+      },
+      {
+        "text": "episodes,",
+        "start": 366.56,
+        "end": 367.15
+      },
+      {
+        "text": "aimed",
+        "start": 367.78,
+        "end": 368.11
+      },
+      {
+        "text": "at",
+        "start": 368.12,
+        "end": 368.2
+      },
+      {
+        "text": "a",
+        "start": 368.42,
+        "end": 368.43
+      },
+      {
+        "text": "different",
+        "start": 368.46,
+        "end": 368.86
+      },
+      {
+        "text": "six",
+        "start": 368.9,
+        "end": 369.14
+      },
+      {
+        "text": "weeks.",
+        "start": 369.18,
+        "end": 370.06
+      },
+      {
+        "text": "Not",
+        "start": 370.1,
+        "end": 370.27
+      },
+      {
+        "text": "schoolwork.",
+        "start": 370.36,
+        "end": 370.98
+      },
+      {
+        "text": "More",
+        "start": 371.36,
+        "end": 371.54
+      },
+      {
+        "text": "like",
+        "start": 371.58,
+        "end": 371.88
+      },
+      {
+        "text": "staying",
+        "start": 372.42,
+        "end": 372.72
+      },
+      {
+        "text": "warm.",
+        "start": 372.84,
+        "end": 373.2
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "DEV",
+    "text": "Staying warm. Huh — I like that.",
+    "start": 373.98,
+    "end": 376.78,
+    "words": [
+      {
+        "text": "Staying",
+        "start": 373.98,
+        "end": 374.28
+      },
+      {
+        "text": "warm.",
+        "start": 374.34,
+        "end": 374.7
+      },
+      {
+        "text": "Huh",
+        "start": 375.24,
+        "end": 375.46
+      },
+      {
+        "text": "—",
+        "start": 376.28,
+        "end": 376.28099999999995
+      },
+      {
+        "text": "I",
+        "start": 376.34,
+        "end": 376.38
+      },
+      {
+        "text": "like",
+        "start": 376.4,
+        "end": 376.56
+      },
+      {
+        "text": "that.",
+        "start": 376.6,
+        "end": 376.78
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "Again, this is not fully built out yet — I want to be upfront about that. But there's a second piece of it I like even more: using it before the next school year starts. Short episodes on what's coming in September, so a kid walks in already having heard the shape of it at least once.",
+    "start": 377.66,
+    "end": 395.92,
+    "words": [
+      {
+        "text": "Again,",
+        "start": 377.66,
+        "end": 378
+      },
+      {
+        "text": "this",
+        "start": 378.16,
+        "end": 378.3
+      },
+      {
+        "text": "is",
+        "start": 378.36,
+        "end": 378.54
+      },
+      {
+        "text": "not",
+        "start": 378.64,
+        "end": 378.94
+      },
+      {
+        "text": "fully",
+        "start": 379,
+        "end": 379.21
+      },
+      {
+        "text": "built",
+        "start": 379.3,
+        "end": 379.5
+      },
+      {
+        "text": "out",
+        "start": 379.58,
+        "end": 379.72
+      },
+      {
+        "text": "yet",
+        "start": 379.78,
+        "end": 379.96
+      },
+      {
+        "text": "—",
+        "start": 380.32,
+        "end": 380.32099999999997
+      },
+      {
+        "text": "I",
+        "start": 380.4,
+        "end": 380.44
+      },
+      {
+        "text": "want",
+        "start": 380.48,
+        "end": 380.58
+      },
+      {
+        "text": "to",
+        "start": 380.6,
+        "end": 380.64
+      },
+      {
+        "text": "be",
+        "start": 380.68,
+        "end": 380.78
+      },
+      {
+        "text": "upfront",
+        "start": 380.86,
+        "end": 381.08
+      },
+      {
+        "text": "about",
+        "start": 381.09,
+        "end": 381.34
+      },
+      {
+        "text": "that.",
+        "start": 381.4,
+        "end": 381.6
+      },
+      {
+        "text": "But",
+        "start": 382.22,
+        "end": 382.31
+      },
+      {
+        "text": "there's",
+        "start": 382.34,
+        "end": 382.5
+      },
+      {
+        "text": "a",
+        "start": 382.54,
+        "end": 382.66
+      },
+      {
+        "text": "second",
+        "start": 382.72,
+        "end": 383.05
+      },
+      {
+        "text": "piece",
+        "start": 383.08,
+        "end": 383.24
+      },
+      {
+        "text": "of",
+        "start": 383.3,
+        "end": 383.36
+      },
+      {
+        "text": "it",
+        "start": 383.42,
+        "end": 383.49
+      },
+      {
+        "text": "I",
+        "start": 383.66,
+        "end": 383.67
+      },
+      {
+        "text": "like",
+        "start": 383.7,
+        "end": 384.02
+      },
+      {
+        "text": "even",
+        "start": 384.12,
+        "end": 384.4
+      },
+      {
+        "text": "more:",
+        "start": 384.46,
+        "end": 384.75
+      },
+      {
+        "text": "using",
+        "start": 385.6,
+        "end": 385.89
+      },
+      {
+        "text": "it",
+        "start": 385.92,
+        "end": 386.12
+      },
+      {
+        "text": "before",
+        "start": 386.16,
+        "end": 386.46
+      },
+      {
+        "text": "the",
+        "start": 386.5,
+        "end": 386.64
+      },
+      {
+        "text": "next",
+        "start": 386.72,
+        "end": 387.02
+      },
+      {
+        "text": "school",
+        "start": 387.14,
+        "end": 387.4
+      },
+      {
+        "text": "year",
+        "start": 387.5,
+        "end": 387.66
+      },
+      {
+        "text": "starts.",
+        "start": 387.8,
+        "end": 388.17
+      },
+      {
+        "text": "Short",
+        "start": 388.93,
+        "end": 389.24
+      },
+      {
+        "text": "episodes",
+        "start": 389.34,
+        "end": 389.95
+      },
+      {
+        "text": "on",
+        "start": 389.98,
+        "end": 390.13
+      },
+      {
+        "text": "what's",
+        "start": 390.22,
+        "end": 390.5
+      },
+      {
+        "text": "coming",
+        "start": 390.54,
+        "end": 390.74
+      },
+      {
+        "text": "in",
+        "start": 390.84,
+        "end": 390.94
+      },
+      {
+        "text": "September,",
+        "start": 390.98,
+        "end": 391.52
+      },
+      {
+        "text": "so",
+        "start": 392.04,
+        "end": 392.12
+      },
+      {
+        "text": "a",
+        "start": 392.18,
+        "end": 392.24
+      },
+      {
+        "text": "kid",
+        "start": 392.3,
+        "end": 392.48
+      },
+      {
+        "text": "walks",
+        "start": 392.54,
+        "end": 392.8
+      },
+      {
+        "text": "in",
+        "start": 392.88,
+        "end": 393.18
+      },
+      {
+        "text": "already",
+        "start": 393.28,
+        "end": 393.62
+      },
+      {
+        "text": "having",
+        "start": 393.72,
+        "end": 393.94
+      },
+      {
+        "text": "heard",
+        "start": 394,
+        "end": 394.26
+      },
+      {
+        "text": "the",
+        "start": 394.32,
+        "end": 394.4
+      },
+      {
+        "text": "shape",
+        "start": 394.44,
+        "end": 394.64
+      },
+      {
+        "text": "of",
+        "start": 394.7,
+        "end": 394.76
+      },
+      {
+        "text": "it",
+        "start": 394.82,
+        "end": 395
+      },
+      {
+        "text": "at",
+        "start": 395.06,
+        "end": 395.14
+      },
+      {
+        "text": "least",
+        "start": 395.18,
+        "end": 395.46
+      },
+      {
+        "text": "once.",
+        "start": 395.58,
+        "end": 395.92
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "DEV",
+    "text": "Yeah — instead of it just landing on them cold in week one.",
+    "start": 396.72,
+    "end": 400.08,
+    "words": [
+      {
+        "text": "Yeah",
+        "start": 396.72,
+        "end": 397.26
+      },
+      {
+        "text": "—",
+        "start": 397.27,
+        "end": 397.27099999999996
+      },
+      {
+        "text": "instead",
+        "start": 397.3,
+        "end": 397.54
+      },
+      {
+        "text": "of",
+        "start": 397.56,
+        "end": 397.62
+      },
+      {
+        "text": "it",
+        "start": 397.64,
+        "end": 397.74
+      },
+      {
+        "text": "just",
+        "start": 397.84,
+        "end": 398.1
+      },
+      {
+        "text": "landing",
+        "start": 398.18,
+        "end": 398.48
+      },
+      {
+        "text": "on",
+        "start": 398.52,
+        "end": 398.63
+      },
+      {
+        "text": "them",
+        "start": 398.66,
+        "end": 398.79
+      },
+      {
+        "text": "cold",
+        "start": 398.94,
+        "end": 399.46
+      },
+      {
+        "text": "in",
+        "start": 399.5,
+        "end": 399.58
+      },
+      {
+        "text": "week",
+        "start": 399.62,
+        "end": 399.74
+      },
+      {
+        "text": "one.",
+        "start": 399.82,
+        "end": 400.08
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "Right. I know I would've liked that. Just — softening the landing a little.",
+    "start": 400.66,
+    "end": 405.63,
+    "words": [
+      {
+        "text": "Right.",
+        "start": 400.66,
+        "end": 401
+      },
+      {
+        "text": "I",
+        "start": 401.62,
+        "end": 401.68
+      },
+      {
+        "text": "know",
+        "start": 401.72,
+        "end": 401.92
+      },
+      {
+        "text": "I",
+        "start": 401.94,
+        "end": 402.12
+      },
+      {
+        "text": "would've",
+        "start": 402.14,
+        "end": 402.38
+      },
+      {
+        "text": "liked",
+        "start": 402.42,
+        "end": 402.64
+      },
+      {
+        "text": "that.",
+        "start": 402.7,
+        "end": 402.92
+      },
+      {
+        "text": "Just",
+        "start": 403.5,
+        "end": 403.76
+      },
+      {
+        "text": "—",
+        "start": 404.28,
+        "end": 404.28099999999995
+      },
+      {
+        "text": "softening",
+        "start": 404.36,
+        "end": 404.8
+      },
+      {
+        "text": "the",
+        "start": 404.84,
+        "end": 404.9
+      },
+      {
+        "text": "landing",
+        "start": 404.94,
+        "end": 405.28
+      },
+      {
+        "text": "a",
+        "start": 405.34,
+        "end": 405.36
+      },
+      {
+        "text": "little.",
+        "start": 405.4,
+        "end": 405.63
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "DEV",
+    "text": "That whole summer stretch — the weeks that do the most damage are also the weeks nobody's paying attention to.",
+    "start": 406.4,
+    "end": 412.56,
+    "words": [
+      {
+        "text": "That",
+        "start": 406.4,
+        "end": 406.58
+      },
+      {
+        "text": "whole",
+        "start": 406.66,
+        "end": 406.92
+      },
+      {
+        "text": "summer",
+        "start": 406.96,
+        "end": 407.2
+      },
+      {
+        "text": "stretch",
+        "start": 407.28,
+        "end": 407.58
+      },
+      {
+        "text": "—",
+        "start": 408.12,
+        "end": 408.121
+      },
+      {
+        "text": "the",
+        "start": 408.18,
+        "end": 408.22
+      },
+      {
+        "text": "weeks",
+        "start": 408.28,
+        "end": 408.52
+      },
+      {
+        "text": "that",
+        "start": 408.54,
+        "end": 408.64
+      },
+      {
+        "text": "do",
+        "start": 408.66,
+        "end": 408.76
+      },
+      {
+        "text": "the",
+        "start": 408.8,
+        "end": 408.9
+      },
+      {
+        "text": "most",
+        "start": 408.96,
+        "end": 409.34
+      },
+      {
+        "text": "damage",
+        "start": 409.38,
+        "end": 409.8
+      },
+      {
+        "text": "are",
+        "start": 410.04,
+        "end": 410.26
+      },
+      {
+        "text": "also",
+        "start": 410.34,
+        "end": 410.56
+      },
+      {
+        "text": "the",
+        "start": 410.58,
+        "end": 410.62
+      },
+      {
+        "text": "weeks",
+        "start": 410.72,
+        "end": 410.95
+      },
+      {
+        "text": "nobody's",
+        "start": 411.12,
+        "end": 411.68
+      },
+      {
+        "text": "paying",
+        "start": 411.72,
+        "end": 411.92
+      },
+      {
+        "text": "attention",
+        "start": 411.96,
+        "end": 412.33
+      },
+      {
+        "text": "to.",
+        "start": 412.38,
+        "end": 412.56
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 5",
+    "speaker": "ALEX",
+    "text": "That's the whole idea.",
+    "start": 413.3,
+    "end": 414.28,
+    "words": [
+      {
+        "text": "That's",
+        "start": 413.3,
+        "end": 413.55
+      },
+      {
+        "text": "the",
+        "start": 413.58,
+        "end": 413.64
+      },
+      {
+        "text": "whole",
+        "start": 413.66,
+        "end": 413.81
+      },
+      {
+        "text": "idea.",
+        "start": 413.88,
+        "end": 414.28
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "DEV",
+    "text": "So where's this actually at right now. Idea, or does it exist?",
+    "start": 415.18,
+    "end": 418.98,
+    "words": [
+      {
+        "text": "So",
+        "start": 415.18,
+        "end": 415.48
+      },
+      {
+        "text": "where's",
+        "start": 415.52,
+        "end": 415.68
+      },
+      {
+        "text": "this",
+        "start": 415.72,
+        "end": 415.87
+      },
+      {
+        "text": "actually",
+        "start": 415.94,
+        "end": 416.28
+      },
+      {
+        "text": "at",
+        "start": 416.34,
+        "end": 416.47
+      },
+      {
+        "text": "right",
+        "start": 416.58,
+        "end": 416.68
+      },
+      {
+        "text": "now.",
+        "start": 416.72,
+        "end": 417.28
+      },
+      {
+        "text": "Idea,",
+        "start": 417.34,
+        "end": 417.84
+      },
+      {
+        "text": "or",
+        "start": 417.94,
+        "end": 418.27
+      },
+      {
+        "text": "does",
+        "start": 418.3,
+        "end": 418.4
+      },
+      {
+        "text": "it",
+        "start": 418.42,
+        "end": 418.48
+      },
+      {
+        "text": "exist?",
+        "start": 418.52,
+        "end": 418.98
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "ALEX",
+    "text": "It exists. We built a full example in this exact format — real audio, a real quiz at the end — for an actual eighth-grade science topic.",
+    "start": 419.64,
+    "end": 429.48,
+    "words": [
+      {
+        "text": "It",
+        "start": 419.64,
+        "end": 419.72
+      },
+      {
+        "text": "exists.",
+        "start": 419.76,
+        "end": 420.36
+      },
+      {
+        "text": "We",
+        "start": 421.02,
+        "end": 421.12
+      },
+      {
+        "text": "built",
+        "start": 421.14,
+        "end": 421.34
+      },
+      {
+        "text": "a",
+        "start": 421.44,
+        "end": 421.46
+      },
+      {
+        "text": "full",
+        "start": 421.66,
+        "end": 421.88
+      },
+      {
+        "text": "example",
+        "start": 421.94,
+        "end": 422.46
+      },
+      {
+        "text": "in",
+        "start": 422.52,
+        "end": 422.58
+      },
+      {
+        "text": "this",
+        "start": 422.62,
+        "end": 422.76
+      },
+      {
+        "text": "exact",
+        "start": 422.8,
+        "end": 423.28
+      },
+      {
+        "text": "format",
+        "start": 423.4,
+        "end": 423.78
+      },
+      {
+        "text": "—",
+        "start": 424.34,
+        "end": 424.34099999999995
+      },
+      {
+        "text": "real",
+        "start": 424.46,
+        "end": 424.68
+      },
+      {
+        "text": "audio,",
+        "start": 424.76,
+        "end": 425.16
+      },
+      {
+        "text": "a",
+        "start": 425.48,
+        "end": 425.52
+      },
+      {
+        "text": "real",
+        "start": 425.62,
+        "end": 425.84
+      },
+      {
+        "text": "quiz",
+        "start": 425.94,
+        "end": 426.14
+      },
+      {
+        "text": "at",
+        "start": 426.18,
+        "end": 426.26
+      },
+      {
+        "text": "the",
+        "start": 426.3,
+        "end": 426.34
+      },
+      {
+        "text": "end",
+        "start": 426.44,
+        "end": 426.68
+      },
+      {
+        "text": "—",
+        "start": 427.12,
+        "end": 427.121
+      },
+      {
+        "text": "for",
+        "start": 427.18,
+        "end": 427.26
+      },
+      {
+        "text": "an",
+        "start": 427.3,
+        "end": 427.48
+      },
+      {
+        "text": "actual",
+        "start": 427.58,
+        "end": 428.04
+      },
+      {
+        "text": "eighth-grade",
+        "start": 428.1,
+        "end": 428.54
+      },
+      {
+        "text": "science",
+        "start": 428.64,
+        "end": 428.98
+      },
+      {
+        "text": "topic.",
+        "start": 429.06,
+        "end": 429.48
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "DEV",
+    "text": "Actually built, or is this the part where it turns out to be a mockup?",
+    "start": 430.16,
+    "end": 433.9,
+    "words": [
+      {
+        "text": "Actually",
+        "start": 430.16,
+        "end": 430.54
+      },
+      {
+        "text": "built,",
+        "start": 430.56,
+        "end": 430.8
+      },
+      {
+        "text": "or",
+        "start": 431.08,
+        "end": 431.52
+      },
+      {
+        "text": "is",
+        "start": 431.58,
+        "end": 431.66
+      },
+      {
+        "text": "this",
+        "start": 431.68,
+        "end": 431.8
+      },
+      {
+        "text": "the",
+        "start": 431.81,
+        "end": 431.88
+      },
+      {
+        "text": "part",
+        "start": 431.94,
+        "end": 432.16
+      },
+      {
+        "text": "where",
+        "start": 432.18,
+        "end": 432.29
+      },
+      {
+        "text": "it",
+        "start": 432.3,
+        "end": 432.42
+      },
+      {
+        "text": "turns",
+        "start": 432.48,
+        "end": 432.68
+      },
+      {
+        "text": "out",
+        "start": 432.74,
+        "end": 432.86
+      },
+      {
+        "text": "to",
+        "start": 432.92,
+        "end": 433
+      },
+      {
+        "text": "be",
+        "start": 433.04,
+        "end": 433.34
+      },
+      {
+        "text": "a",
+        "start": 433.38,
+        "end": 433.44
+      },
+      {
+        "text": "mockup?",
+        "start": 433.46,
+        "end": 433.9
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "ALEX",
+    "text": "Real. I keep bracing for that question — I think people expect a slide deck by now.",
+    "start": 434.56,
+    "end": 440.04,
+    "words": [
+      {
+        "text": "Real.",
+        "start": 434.56,
+        "end": 434.88
+      },
+      {
+        "text": "I",
+        "start": 435.62,
+        "end": 435.72
+      },
+      {
+        "text": "keep",
+        "start": 435.82,
+        "end": 436.06
+      },
+      {
+        "text": "bracing",
+        "start": 436.08,
+        "end": 436.46
+      },
+      {
+        "text": "for",
+        "start": 436.5,
+        "end": 436.58
+      },
+      {
+        "text": "that",
+        "start": 436.64,
+        "end": 436.76
+      },
+      {
+        "text": "question",
+        "start": 436.8,
+        "end": 437.26
+      },
+      {
+        "text": "—",
+        "start": 437.78,
+        "end": 437.78099999999995
+      },
+      {
+        "text": "I",
+        "start": 437.86,
+        "end": 437.88
+      },
+      {
+        "text": "think",
+        "start": 437.94,
+        "end": 438.12
+      },
+      {
+        "text": "people",
+        "start": 438.16,
+        "end": 438.44
+      },
+      {
+        "text": "expect",
+        "start": 438.48,
+        "end": 438.84
+      },
+      {
+        "text": "a",
+        "start": 438.9,
+        "end": 438.98
+      },
+      {
+        "text": "slide",
+        "start": 439.04,
+        "end": 439.36
+      },
+      {
+        "text": "deck",
+        "start": 439.38,
+        "end": 439.6
+      },
+      {
+        "text": "by",
+        "start": 439.64,
+        "end": 439.74
+      },
+      {
+        "text": "now.",
+        "start": 439.82,
+        "end": 440.04
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "DEV",
+    "text": "Fair enough.",
+    "start": 440.98,
+    "end": 441.5,
+    "words": [
+      {
+        "text": "Fair",
+        "start": 440.98,
+        "end": 441.2
+      },
+      {
+        "text": "enough.",
+        "start": 441.21,
+        "end": 441.5
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "ALEX",
+    "text": "There's a link right below this, whenever you want to hear it. About eight minutes.",
+    "start": 441.94,
+    "end": 446.1,
+    "words": [
+      {
+        "text": "There's",
+        "start": 441.94,
+        "end": 442.1
+      },
+      {
+        "text": "a",
+        "start": 442.16,
+        "end": 442.2
+      },
+      {
+        "text": "link",
+        "start": 442.24,
+        "end": 442.44
+      },
+      {
+        "text": "right",
+        "start": 442.52,
+        "end": 442.7
+      },
+      {
+        "text": "below",
+        "start": 442.72,
+        "end": 442.98
+      },
+      {
+        "text": "this,",
+        "start": 443.04,
+        "end": 443.3
+      },
+      {
+        "text": "whenever",
+        "start": 443.5,
+        "end": 443.78
+      },
+      {
+        "text": "you",
+        "start": 443.86,
+        "end": 443.92
+      },
+      {
+        "text": "want",
+        "start": 443.94,
+        "end": 444.04
+      },
+      {
+        "text": "to",
+        "start": 444.06,
+        "end": 444.14
+      },
+      {
+        "text": "hear",
+        "start": 444.18,
+        "end": 444.34
+      },
+      {
+        "text": "it.",
+        "start": 444.38,
+        "end": 444.52
+      },
+      {
+        "text": "About",
+        "start": 444.94,
+        "end": 445.44
+      },
+      {
+        "text": "eight",
+        "start": 445.5,
+        "end": 445.66
+      },
+      {
+        "text": "minutes.",
+        "start": 445.7,
+        "end": 446.1
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "DEV",
+    "text": "I think I'll give it a listen tonight.",
+    "start": 446.68,
+    "end": 447.82,
+    "words": [
+      {
+        "text": "I",
+        "start": 446.68,
+        "end": 446.72
+      },
+      {
+        "text": "think",
+        "start": 446.74,
+        "end": 446.88
+      },
+      {
+        "text": "I'll",
+        "start": 446.9,
+        "end": 446.98
+      },
+      {
+        "text": "give",
+        "start": 447.02,
+        "end": 447.1
+      },
+      {
+        "text": "it",
+        "start": 447.12,
+        "end": 447.16
+      },
+      {
+        "text": "a",
+        "start": 447.2,
+        "end": 447.24
+      },
+      {
+        "text": "listen",
+        "start": 447.28,
+        "end": 447.5
+      },
+      {
+        "text": "tonight.",
+        "start": 447.56,
+        "end": 447.82
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "ALEX",
+    "text": "Good. Let me know what you think.",
+    "start": 448.4,
+    "end": 450,
+    "words": [
+      {
+        "text": "Good.",
+        "start": 448.4,
+        "end": 448.7
+      },
+      {
+        "text": "Let",
+        "start": 449.12,
+        "end": 449.2
+      },
+      {
+        "text": "me",
+        "start": 449.24,
+        "end": 449.3
+      },
+      {
+        "text": "know",
+        "start": 449.36,
+        "end": 449.42
+      },
+      {
+        "text": "what",
+        "start": 449.46,
+        "end": 449.54
+      },
+      {
+        "text": "you",
+        "start": 449.58,
+        "end": 449.66
+      },
+      {
+        "text": "think.",
+        "start": 449.68,
+        "end": 450
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "DEV",
+    "text": "Alex, thanks for coming on.",
+    "start": 450.79,
+    "end": 452.36,
+    "words": [
+      {
+        "text": "Alex,",
+        "start": 450.79,
+        "end": 451.2
+      },
+      {
+        "text": "thanks",
+        "start": 451.62,
+        "end": 451.8
+      },
+      {
+        "text": "for",
+        "start": 451.82,
+        "end": 451.9
+      },
+      {
+        "text": "coming",
+        "start": 451.92,
+        "end": 452.1
+      },
+      {
+        "text": "on.",
+        "start": 452.16,
+        "end": 452.36
+      }
+    ]
+  },
+  {
+    "beat": "BEAT 6",
+    "speaker": "ALEX",
+    "text": "Thanks for having me.",
+    "start": 453.04,
+    "end": 453.86,
+    "words": [
+      {
+        "text": "Thanks",
+        "start": 453.04,
+        "end": 453.24
+      },
+      {
+        "text": "for",
+        "start": 453.28,
+        "end": 453.36
+      },
+      {
+        "text": "having",
+        "start": 453.46,
+        "end": 453.69
+      },
+      {
+        "text": "me.",
+        "start": 453.72,
+        "end": 453.86
+      }
+    ]
+  }
+]

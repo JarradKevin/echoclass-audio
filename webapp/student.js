@@ -65,11 +65,17 @@ function fmtTime(s) {
 
 // ---------- Screen 1: intro ----------
 function renderIntro() {
+  const fromPitch = new URLSearchParams(window.location.search).get("from") === "pitch";
   app.innerHTML = `
     <div class="intro">
+      ${fromPitch ? `<div class="pitch-bridge-chip"><span class="chip note-chip">Continuing from the pitch episode</span></div>` : ""}
       <span class="eyebrow">Lesson Episode</span>
       <h1>What's Actually Inside You Right Now</h1>
-      <p>A ~7-minute audio lesson on cell theory, walked through by Maya and Sam, with a four-question check-in at the end. Play it through once, no pausing needed — the transcript follows along on its own.</p>
+      ${
+        fromPitch
+          ? `<p>You just heard Dev and Alex talk about this on <em>Second Look</em> — this is what it actually sounds like. Same idea, different pair: Maya and Sam walk through a real ~7-minute lesson on cell theory, with a four-question check-in at the end.</p>`
+          : `<p>A ~7-minute audio lesson on cell theory, walked through by Maya and Sam, with a four-question check-in at the end. Play it through once, no pausing needed — the transcript follows along on its own.</p>`
+      }
       <label class="field-label" for="name-input">Your name (so your results show up correctly)</label>
       <input id="name-input" class="text-input" type="text" placeholder="e.g. Priya" autocomplete="name" />
       <div style="margin-top:22px;">
