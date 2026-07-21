@@ -52,3 +52,4 @@
   flex: none;
 }
 .lesson-link-card a.btn:hover { background: var(--teal-deep); border-color: var(--teal-deep); }
+.lesson-link-card--end { margin: 40px 0 0; }

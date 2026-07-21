@@ -82,6 +82,10 @@ function renderPage() {
         )
         .join("")}
     </div>
+    <div class="lesson-link-card lesson-link-card--end">
+      <p class="lesson-link-text">Alex said there'd be a link right below this. Here it is.</p>
+      <a class="btn" href="${LESSON_EPISODE_SRC}">Hear the lesson episode →</a>
+    </div>
   `;
 
   const audio = new Audio(AUDIO_SRC);
