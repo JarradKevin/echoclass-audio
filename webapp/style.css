@@ -124,6 +124,29 @@ input:focus-visible,
   color: var(--ink-faint);
 }
 
+/* ===== Quick nav — small cross-links between the pitch page, lesson page,
+   and quiz, at the top and bottom of each page ===== */
+.quick-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  font-size: 0.78rem;
+  border-bottom: 1px solid var(--line);
+}
+.quick-nav.quick-nav--bottom {
+  border-bottom: none;
+  border-top: 1px solid var(--line);
+  padding: 18px 20px;
+}
+.quick-nav a {
+  color: var(--ink-faint);
+  text-decoration: none;
+}
+.quick-nav a:hover { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+.quick-nav .sep { color: var(--line); }
+
 /* ===== Buttons ===== */
 .btn {
   display: inline-flex;
