@@ -33,7 +33,7 @@ function renderPage() {
     <div class="pitch-intro">
       <span class="eyebrow">Second Look — Interview</span>
       <h1>What If Homework Sounded Like This</h1>
-      <p>Dev talks to Alex, EchoClass's founder, about why homework doesn't tell anyone what actually landed — and what an episode-shaped alternative looks like. About seven and a half minutes.</p>
+      <p>Dev talks to Alex, the founder behind it, about why homework doesn't tell anyone what actually landed — and what an episode-shaped alternative looks like. About seven and a half minutes.</p>
       <p class="format-note">This is an interview, not a classroom lesson — no quiz at the end. Press play, or follow along below.</p>
     </div>
     <div class="begin-lesson-wrap" id="begin-wrap">

@@ -1,4 +1,4 @@
-# EchoClass web app — setup notes
+# Second Look web app — setup notes
 
 ## Firestore security rules (paste in step 2 below)
 
