@@ -3,53 +3,53 @@
     "beat": "BEAT 1",
     "speaker": "DEV",
     "text": "Every so often you run into an idea that makes you rethink something you'd basically stopped questioning. Homework is definitely one of those for me. Hadn't thought about it in years — then I heard what my guest today's been building, and now I can't stop turning it over.",
-    "start": 2.56,
+    "start": 2.58,
     "end": 17.16,
     "words": [
       {
         "text": "Every",
-        "start": 2.56,
-        "end": 2.72
+        "start": 2.58,
+        "end": 2.79
       },
       {
         "text": "so",
-        "start": 2.78,
-        "end": 2.88
+        "start": 2.8,
+        "end": 2.92
       },
       {
         "text": "often",
         "start": 2.98,
-        "end": 3.28
+        "end": 3.42
       },
       {
         "text": "you",
-        "start": 3.44,
-        "end": 3.48
+        "start": 3.46,
+        "end": 3.52
       },
       {
         "text": "run",
-        "start": 3.56,
+        "start": 3.54,
         "end": 3.66
       },
       {
         "text": "into",
         "start": 3.68,
-        "end": 3.82
+        "end": 3.83
       },
       {
         "text": "an",
-        "start": 3.84,
+        "start": 3.86,
         "end": 3.9
       },
       {
         "text": "idea",
         "start": 3.94,
-        "end": 4.26
+        "end": 4.34
       },
       {
         "text": "that",
         "start": 4.38,
-        "end": 4.44
+        "end": 4.47
       },
       {
         "text": "makes",
@@ -59,17 +59,17 @@
       {
         "text": "you",
         "start": 4.7,
-        "end": 4.76
+        "end": 4.84
       },
       {
         "text": "rethink",
-        "start": 4.86,
-        "end": 5.24
+        "start": 4.88,
+        "end": 5.26
       },
       {
         "text": "something",
         "start": 5.28,
-        "end": 5.58
+        "end": 5.729
       },
       {
         "text": "you'd",
@@ -78,33 +78,33 @@
       },
       {
         "text": "basically",
-        "start": 6.02,
+        "start": 6.06,
         "end": 6.46
       },
       {
         "text": "stopped",
         "start": 6.56,
-        "end": 6.84
+        "end": 6.86
       },
       {
         "text": "questioning.",
         "start": 6.9,
-        "end": 7.36
+        "end": 7.84
       },
       {
         "text": "Homework",
-        "start": 7.92,
-        "end": 8.4
+        "start": 7.89,
+        "end": 8.58
       },
       {
         "text": "is",
-        "start": 8.64,
-        "end": 8.82
+        "start": 8.62,
+        "end": 8.83
       },
       {
         "text": "definitely",
         "start": 8.86,
-        "end": 9.38
+        "end": 9.4
       },
       {
         "text": "one",
@@ -113,18 +113,18 @@
       },
       {
         "text": "of",
-        "start": 9.58,
-        "end": 9.66
+        "start": 9.56,
+        "end": 9.69
       },
       {
         "text": "those",
-        "start": 9.72,
-        "end": 9.94
+        "start": 9.74,
+        "end": 9.93
       },
       {
         "text": "for",
-        "start": 9.98,
-        "end": 10.11
+        "start": 9.96,
+        "end": 10.1
       },
       {
         "text": "me.",
@@ -134,17 +134,17 @@
       {
         "text": "Hadn't",
         "start": 10.88,
-        "end": 11.08
+        "end": 11.11
       },
       {
         "text": "thought",
-        "start": 11.1,
+        "start": 11.110999999999999,
         "end": 11.24
       },
       {
         "text": "about",
         "start": 11.28,
-        "end": 11.42
+        "end": 11.43
       },
       {
         "text": "it",
@@ -154,21 +154,21 @@
       {
         "text": "in",
         "start": 11.58,
-        "end": 11.72
+        "end": 11.74
       },
       {
         "text": "years",
-        "start": 11.74,
+        "start": 11.75,
         "end": 12.14
       },
       {
         "text": "—",
-        "start": 12.78,
-        "end": 12.780999999999999
+        "start": 12.84,
+        "end": 12.841
       },
       {
         "text": "then",
-        "start": 12.88,
+        "start": 12.9,
         "end": 12.98
       },
       {
@@ -184,7 +184,7 @@
       {
         "text": "what",
         "start": 13.3,
-        "end": 13.39
+        "end": 13.41
       },
       {
         "text": "my",
@@ -209,12 +209,12 @@
       {
         "text": "building,",
         "start": 14.38,
-        "end": 14.68
+        "end": 14.67
       },
       {
         "text": "and",
-        "start": 15.1,
-        "end": 15.21
+        "start": 15.12,
+        "end": 15.22
       },
       {
         "text": "now",
@@ -223,8 +223,8 @@
       },
       {
         "text": "I",
-        "start": 15.78,
-        "end": 15.86
+        "start": 15.86,
+        "end": 15.87
       },
       {
         "text": "can't",
@@ -244,7 +244,7 @@
       {
         "text": "it",
         "start": 16.84,
-        "end": 16.9
+        "end": 16.91
       },
       {
         "text": "over.",
@@ -258,7 +258,7 @@
     "speaker": "DEV",
     "text": "Welcome to Second Look. I'm Dev.",
     "start": 17.94,
-    "end": 19.62,
+    "end": 19.6,
     "words": [
       {
         "text": "Welcome",
@@ -268,17 +268,17 @@
       {
         "text": "to",
         "start": 18.14,
-        "end": 18.18
+        "end": 18.17
       },
       {
         "text": "Second",
         "start": 18.24,
-        "end": 18.4
+        "end": 18.42
       },
       {
         "text": "Look.",
         "start": 18.46,
-        "end": 18.64
+        "end": 19.2
       },
       {
         "text": "I'm",
@@ -288,7 +288,7 @@
       {
         "text": "Dev.",
         "start": 19.4,
-        "end": 19.62
+        "end": 19.6
       }
     ]
   },
@@ -296,38 +296,38 @@
     "beat": "BEAT 1",
     "speaker": "DEV",
     "text": "My guest today is Alex — she's been rethinking what homework actually is. Alex, thanks for coming on.",
-    "start": 26.48,
-    "end": 32.34,
+    "start": 26.46,
+    "end": 32.82,
     "words": [
       {
         "text": "My",
-        "start": 26.48,
-        "end": 26.56
+        "start": 26.46,
+        "end": 26.54
       },
       {
         "text": "guest",
-        "start": 26.6,
+        "start": 26.58,
         "end": 26.76
       },
       {
         "text": "today",
         "start": 26.8,
-        "end": 27.2
+        "end": 27.1
       },
       {
         "text": "is",
         "start": 27.24,
-        "end": 27.39
+        "end": 27.38
       },
       {
         "text": "Alex",
         "start": 27.44,
-        "end": 27.78
+        "end": 27.8
       },
       {
         "text": "—",
-        "start": 28.2,
-        "end": 28.201
+        "start": 28.14,
+        "end": 28.141000000000002
       },
       {
         "text": "she's",
@@ -336,23 +336,23 @@
       },
       {
         "text": "been",
-        "start": 28.5,
-        "end": 28.62
+        "start": 28.48,
+        "end": 28.6
       },
       {
         "text": "rethinking",
-        "start": 28.64,
-        "end": 29.24
+        "start": 28.62,
+        "end": 29.12
       },
       {
         "text": "what",
         "start": 29.28,
-        "end": 29.41
+        "end": 29.38
       },
       {
         "text": "homework",
-        "start": 29.42,
-        "end": 29.88
+        "start": 29.46,
+        "end": 29.8
       },
       {
         "text": "actually",
@@ -362,32 +362,32 @@
       {
         "text": "is.",
         "start": 30.54,
-        "end": 30.78
+        "end": 30.76
       },
       {
         "text": "Alex,",
-        "start": 31.31,
+        "start": 31.29,
         "end": 31.62
       },
       {
         "text": "thanks",
         "start": 31.76,
-        "end": 31.89
+        "end": 31.92
       },
       {
         "text": "for",
         "start": 31.94,
-        "end": 31.98
+        "end": 32
       },
       {
         "text": "coming",
         "start": 32.02,
-        "end": 32.16
+        "end": 32.17
       },
       {
         "text": "on.",
         "start": 32.22,
-        "end": 32.34
+        "end": 32.82
       }
     ]
   },
@@ -395,68 +395,68 @@
     "beat": "BEAT 1",
     "speaker": "ALEX",
     "text": "Thanks for having me. But fair warning, I'm still getting used to talking about this out loud.",
-    "start": 32.86,
-    "end": 37.64,
+    "start": 32.9,
+    "end": 38.339,
     "words": [
       {
         "text": "Thanks",
-        "start": 32.86,
-        "end": 33.05
+        "start": 32.9,
+        "end": 33.06
       },
       {
         "text": "for",
         "start": 33.1,
-        "end": 33.18
+        "end": 33.2
       },
       {
         "text": "having",
-        "start": 33.24,
-        "end": 33.5
+        "start": 33.28,
+        "end": 33.51
       },
       {
         "text": "me.",
         "start": 33.54,
-        "end": 33.72
+        "end": 34.1
       },
       {
         "text": "But",
         "start": 34.14,
-        "end": 34.4
+        "end": 34.47
       },
       {
         "text": "fair",
-        "start": 34.48,
-        "end": 34.64
+        "start": 34.5,
+        "end": 34.68
       },
       {
         "text": "warning,",
         "start": 34.72,
-        "end": 35.06
+        "end": 35.05
       },
       {
         "text": "I'm",
-        "start": 35.4,
-        "end": 35.58
+        "start": 35.44,
+        "end": 35.589
       },
       {
         "text": "still",
         "start": 35.64,
-        "end": 35.82
+        "end": 35.83
       },
       {
         "text": "getting",
         "start": 35.84,
-        "end": 36.04
+        "end": 36.07
       },
       {
         "text": "used",
         "start": 36.1,
-        "end": 36.22
+        "end": 36.23
       },
       {
         "text": "to",
         "start": 36.26,
-        "end": 36.34
+        "end": 36.35
       },
       {
         "text": "talking",
@@ -466,22 +466,22 @@
       {
         "text": "about",
         "start": 36.74,
-        "end": 36.92
+        "end": 36.93
       },
       {
         "text": "this",
         "start": 36.96,
-        "end": 37.08
+        "end": 37.089
       },
       {
         "text": "out",
-        "start": 37.16,
+        "start": 37.18,
         "end": 37.28
       },
       {
         "text": "loud.",
         "start": 37.32,
-        "end": 37.64
+        "end": 38.339
       }
     ]
   },
@@ -489,43 +489,43 @@
     "beat": "BEAT 1",
     "speaker": "DEV",
     "text": "That's always my favorite type of guest.",
-    "start": 38.4,
-    "end": 39.88,
+    "start": 38.37,
+    "end": 40.36,
     "words": [
       {
         "text": "That's",
-        "start": 38.4,
-        "end": 38.61
+        "start": 38.37,
+        "end": 38.6
       },
       {
         "text": "always",
         "start": 38.66,
-        "end": 38.86
+        "end": 38.89
       },
       {
         "text": "my",
         "start": 38.9,
-        "end": 39
+        "end": 39.05
       },
       {
         "text": "favorite",
-        "start": 39.08,
-        "end": 39.28
+        "start": 39.06,
+        "end": 39.29
       },
       {
         "text": "type",
         "start": 39.3,
-        "end": 39.44
+        "end": 39.449
       },
       {
         "text": "of",
         "start": 39.48,
-        "end": 39.56
+        "end": 39.57
       },
       {
         "text": "guest.",
-        "start": 39.58,
-        "end": 39.88
+        "start": 39.6,
+        "end": 40.36
       }
     ]
   },
@@ -543,13 +543,13 @@
       },
       {
         "text": "set",
-        "start": 40.8,
+        "start": 40.78,
         "end": 40.9
       },
       {
         "text": "the",
         "start": 40.94,
-        "end": 40.98
+        "end": 40.99
       },
       {
         "text": "scene",
@@ -573,7 +573,7 @@
       },
       {
         "text": "actually",
-        "start": 42.5,
+        "start": 42.52,
         "end": 42.88
       },
       {
@@ -589,12 +589,12 @@
       {
         "text": "with",
         "start": 43.52,
-        "end": 43.6
+        "end": 43.62
       },
       {
         "text": "homework",
         "start": 43.66,
-        "end": 44.08
+        "end": 44.12
       },
       {
         "text": "in",
@@ -618,7 +618,7 @@
     "speaker": "ALEX",
     "text": "Well, it still gets assigned, still gets reluctantly completed and handed in, everything looks fine on paper. But what's missing is any signal in between — a kid turns something in, and weeks later a test shows half the class missed the same idea.",
     "start": 45.56,
-    "end": 61.46,
+    "end": 61.47,
     "words": [
       {
         "text": "Well,",
@@ -633,7 +633,7 @@
       {
         "text": "still",
         "start": 46.3,
-        "end": 46.46
+        "end": 46.5
       },
       {
         "text": "gets",
@@ -643,17 +643,17 @@
       {
         "text": "assigned,",
         "start": 46.72,
-        "end": 47.24
+        "end": 47.22
       },
       {
         "text": "still",
-        "start": 47.72,
-        "end": 47.92
+        "start": 47.74,
+        "end": 47.94
       },
       {
         "text": "gets",
         "start": 48,
-        "end": 48.22
+        "end": 48.21
       },
       {
         "text": "reluctantly",
@@ -678,7 +678,7 @@
       {
         "text": "in,",
         "start": 50.16,
-        "end": 50.36
+        "end": 50.33
       },
       {
         "text": "everything",
@@ -703,12 +703,12 @@
       {
         "text": "paper.",
         "start": 51.9,
-        "end": 52.24
+        "end": 52.25
       },
       {
         "text": "But",
         "start": 52.82,
-        "end": 52.94
+        "end": 52.97
       },
       {
         "text": "what's",
@@ -718,7 +718,7 @@
       {
         "text": "missing",
         "start": 53.28,
-        "end": 53.71
+        "end": 53.84
       },
       {
         "text": "is",
@@ -728,7 +728,7 @@
       {
         "text": "any",
         "start": 54.2,
-        "end": 54.46
+        "end": 54.48
       },
       {
         "text": "signal",
@@ -743,7 +743,7 @@
       {
         "text": "between",
         "start": 55.08,
-        "end": 55.61
+        "end": 55.57
       },
       {
         "text": "—",
@@ -752,8 +752,8 @@
       },
       {
         "text": "a",
-        "start": 56.28,
-        "end": 56.29
+        "start": 56.34,
+        "end": 56.35
       },
       {
         "text": "kid",
@@ -773,12 +773,12 @@
       {
         "text": "in,",
         "start": 57.3,
-        "end": 57.5
+        "end": 57.92
       },
       {
         "text": "and",
-        "start": 57.94,
-        "end": 58.08
+        "start": 57.96,
+        "end": 58.12
       },
       {
         "text": "weeks",
@@ -793,7 +793,7 @@
       {
         "text": "a",
         "start": 58.88,
-        "end": 58.94
+        "end": 58.89
       },
       {
         "text": "test",
@@ -802,8 +802,8 @@
       },
       {
         "text": "shows",
-        "start": 59.3,
-        "end": 59.62
+        "start": 59.32,
+        "end": 59.65
       },
       {
         "text": "half",
@@ -818,27 +818,27 @@
       {
         "text": "class",
         "start": 60.06,
-        "end": 60.4
+        "end": 60.34
       },
       {
         "text": "missed",
         "start": 60.44,
-        "end": 60.69
+        "end": 60.66
       },
       {
         "text": "the",
-        "start": 60.690999999999995,
+        "start": 60.72,
         "end": 60.82
       },
       {
         "text": "same",
         "start": 60.86,
-        "end": 61.02
+        "end": 61.04
       },
       {
         "text": "idea.",
-        "start": 61.1,
-        "end": 61.46
+        "start": 61.12,
+        "end": 61.47
       }
     ]
   },
@@ -846,18 +846,18 @@
     "beat": "BEAT 1",
     "speaker": "DEV",
     "text": "And that could even be the first anyone's hearing about it.",
-    "start": 61.98,
-    "end": 64.22,
+    "start": 61.97,
+    "end": 64.739,
     "words": [
       {
         "text": "And",
-        "start": 61.98,
+        "start": 61.97,
         "end": 62.06
       },
       {
         "text": "that",
-        "start": 62.1,
-        "end": 62.18
+        "start": 62.12,
+        "end": 62.22
       },
       {
         "text": "could",
@@ -866,8 +866,8 @@
       },
       {
         "text": "even",
-        "start": 62.4,
-        "end": 62.56
+        "start": 62.42,
+        "end": 62.58
       },
       {
         "text": "be",
@@ -882,12 +882,12 @@
       {
         "text": "first",
         "start": 62.86,
-        "end": 63.06
+        "end": 63.15
       },
       {
         "text": "anyone's",
-        "start": 63.16,
-        "end": 63.56
+        "start": 63.2,
+        "end": 63.57
       },
       {
         "text": "hearing",
@@ -897,12 +897,12 @@
       {
         "text": "about",
         "start": 63.9,
-        "end": 64.06
+        "end": 64.09
       },
       {
         "text": "it.",
         "start": 64.099,
-        "end": 64.22
+        "end": 64.739
       }
     ]
   },
@@ -911,22 +911,22 @@
     "speaker": "ALEX",
     "text": "Usually, yeah. Homework tells you somebody filled in the blanks, but it doesn't always tell you whether they understood what they were filling in.",
     "start": 64.879,
-    "end": 72.42,
+    "end": 72.41,
     "words": [
       {
         "text": "Usually,",
         "start": 64.879,
-        "end": 65.34
+        "end": 65.44
       },
       {
         "text": "yeah.",
-        "start": 65.48,
+        "start": 65.5,
         "end": 65.78
       },
       {
         "text": "Homework",
         "start": 66.5,
-        "end": 66.86
+        "end": 66.88
       },
       {
         "text": "tells",
@@ -936,27 +936,27 @@
       {
         "text": "you",
         "start": 67.26,
-        "end": 67.36
+        "end": 67.42
       },
       {
         "text": "somebody",
         "start": 67.44,
-        "end": 67.74
+        "end": 67.82
       },
       {
         "text": "filled",
-        "start": 67.84,
-        "end": 68.04
+        "start": 67.86,
+        "end": 68.06
       },
       {
         "text": "in",
         "start": 68.1,
-        "end": 68.18
+        "end": 68.21
       },
       {
         "text": "the",
         "start": 68.22,
-        "end": 68.26
+        "end": 68.3
       },
       {
         "text": "blanks,",
@@ -966,72 +966,72 @@
       {
         "text": "but",
         "start": 69.16,
-        "end": 69.22
+        "end": 69.24
       },
       {
         "text": "it",
         "start": 69.28,
-        "end": 69.34
+        "end": 69.35
       },
       {
         "text": "doesn't",
-        "start": 69.38,
-        "end": 69.6
+        "start": 69.42,
+        "end": 69.61
       },
       {
         "text": "always",
         "start": 69.64,
-        "end": 69.92
+        "end": 69.93
       },
       {
         "text": "tell",
-        "start": 69.96,
-        "end": 70.18
+        "start": 69.93100000000001,
+        "end": 70.14
       },
       {
         "text": "you",
-        "start": 70.22,
-        "end": 70.32
+        "start": 70.24,
+        "end": 70.34
       },
       {
         "text": "whether",
         "start": 70.38,
-        "end": 70.57
+        "end": 70.61
       },
       {
         "text": "they",
         "start": 70.64,
-        "end": 70.76
+        "end": 70.77
       },
       {
         "text": "understood",
-        "start": 70.82,
+        "start": 70.771,
         "end": 71.38
       },
       {
         "text": "what",
         "start": 71.42,
-        "end": 71.54
+        "end": 71.55
       },
       {
         "text": "they",
-        "start": 71.56,
+        "start": 71.58,
         "end": 71.66
       },
       {
         "text": "were",
         "start": 71.68,
-        "end": 71.82
+        "end": 71.83
       },
       {
         "text": "filling",
         "start": 71.84,
-        "end": 72.12
+        "end": 72.13
       },
       {
         "text": "in.",
-        "start": 72.2,
-        "end": 72.42
+        "start": 72.22,
+        "end": 72.41
       }
     ]
   },
@@ -1039,13 +1039,13 @@
     "beat": "BEAT 1",
     "speaker": "DEV",
     "text": "Huh.",
-    "start": 73.06,
-    "end": 73.26,
+    "start": 73.08,
+    "end": 73.94,
     "words": [
       {
         "text": "Huh.",
-        "start": 73.06,
-        "end": 73.26
+        "start": 73.08,
+        "end": 73.94
       }
     ]
   },
@@ -1059,22 +1059,22 @@
       {
         "text": "So",
         "start": 74,
-        "end": 74.16
+        "end": 74.4
       },
       {
         "text": "what'd",
-        "start": 74.44,
+        "start": 74.46,
         "end": 74.58
       },
       {
         "text": "you",
         "start": 74.64,
-        "end": 74.68
+        "end": 74.72
       },
       {
         "text": "actually",
         "start": 74.8,
-        "end": 75.1
+        "end": 75.18
       },
       {
         "text": "build?",
@@ -1088,7 +1088,7 @@
     "speaker": "ALEX",
     "text": "Homework, but made the way a good podcast is made. Real pacing, real curiosity — not just someone reading a textbook out loud, or a stale, unstructured interview. Then a short quiz at the end to check what actually landed. And the results go back to the teacher — not a grade, but who finished it, and what tripped people up.",
     "start": 76.14,
-    "end": 96.59,
+    "end": 96.6,
     "words": [
       {
         "text": "Homework,",
@@ -1098,7 +1098,7 @@
       {
         "text": "but",
         "start": 77.08,
-        "end": 77.21
+        "end": 77.35
       },
       {
         "text": "made",
@@ -1108,42 +1108,42 @@
       {
         "text": "the",
         "start": 77.64,
-        "end": 77.69
+        "end": 77.72
       },
       {
         "text": "way",
         "start": 77.76,
-        "end": 77.86
+        "end": 77.89
       },
       {
         "text": "a",
-        "start": 77.96,
-        "end": 77.97
+        "start": 77.891,
+        "end": 78.04
       },
       {
         "text": "good",
         "start": 78.06,
-        "end": 78.19
+        "end": 78.24
       },
       {
         "text": "podcast",
-        "start": 78.3,
+        "start": 78.28,
         "end": 78.84
       },
       {
         "text": "is",
         "start": 78.9,
-        "end": 79.02
+        "end": 79.03
       },
       {
         "text": "made.",
         "start": 79.06,
-        "end": 79.32
+        "end": 79.31
       },
       {
         "text": "Real",
-        "start": 80,
-        "end": 80.22
+        "start": 79.98,
+        "end": 80.21
       },
       {
         "text": "pacing,",
@@ -1152,12 +1152,12 @@
       },
       {
         "text": "real",
-        "start": 81.02,
+        "start": 81.04,
         "end": 81.22
       },
       {
         "text": "curiosity",
-        "start": 81.3,
+        "start": 81.34,
         "end": 82.02
       },
       {
@@ -1168,17 +1168,17 @@
       {
         "text": "not",
         "start": 82.64,
-        "end": 82.8
+        "end": 82.82
       },
       {
         "text": "just",
         "start": 82.86,
-        "end": 82.98
+        "end": 83.01
       },
       {
         "text": "someone",
         "start": 83.06,
-        "end": 83.34
+        "end": 83.35
       },
       {
         "text": "reading",
@@ -1202,7 +1202,7 @@
       },
       {
         "text": "loud,",
-        "start": 84.46,
+        "start": 84.48,
         "end": 84.84
       },
       {
@@ -1213,12 +1213,12 @@
       {
         "text": "a",
         "start": 85.28,
-        "end": 85.36
+        "end": 85.38
       },
       {
         "text": "stale,",
         "start": 85.48,
-        "end": 85.82
+        "end": 85.8
       },
       {
         "text": "unstructured",
@@ -1228,12 +1228,12 @@
       {
         "text": "interview.",
         "start": 86.58,
-        "end": 87.04
+        "end": 87.02
       },
       {
         "text": "Then",
-        "start": 87.68,
-        "end": 87.8
+        "start": 87.7,
+        "end": 87.81
       },
       {
         "text": "a",
@@ -1242,7 +1242,7 @@
       },
       {
         "text": "short",
-        "start": 87.98,
+        "start": 87.96,
         "end": 88.14
       },
       {
@@ -1262,7 +1262,7 @@
       },
       {
         "text": "end",
-        "start": 88.72,
+        "start": 88.74,
         "end": 88.92
       },
       {
@@ -1277,17 +1277,17 @@
       },
       {
         "text": "what",
-        "start": 89.36,
-        "end": 89.5
+        "start": 89.38,
+        "end": 89.48
       },
       {
         "text": "actually",
-        "start": 89.58,
-        "end": 89.98
+        "start": 89.6,
+        "end": 89.96
       },
       {
         "text": "landed.",
-        "start": 89.99,
+        "start": 89.98,
         "end": 90.44
       },
       {
@@ -1298,12 +1298,12 @@
       {
         "text": "the",
         "start": 91.1,
-        "end": 91.18
+        "end": 91.14
       },
       {
         "text": "results",
         "start": 91.2,
-        "end": 91.7
+        "end": 91.67
       },
       {
         "text": "go",
@@ -1323,37 +1323,37 @@
       {
         "text": "the",
         "start": 92.2,
-        "end": 92.28
+        "end": 92.25
       },
       {
         "text": "teacher",
-        "start": 92.32,
-        "end": 92.66
+        "start": 92.3,
+        "end": 92.68
       },
       {
         "text": "—",
-        "start": 93.16,
-        "end": 93.161
+        "start": 93.14,
+        "end": 93.141
       },
       {
         "text": "not",
         "start": 93.22,
-        "end": 93.35
+        "end": 93.34
       },
       {
         "text": "a",
-        "start": 93.4,
-        "end": 93.46
+        "start": 93.38,
+        "end": 93.44
       },
       {
         "text": "grade,",
-        "start": 93.5,
-        "end": 93.87
+        "start": 93.46,
+        "end": 93.86
       },
       {
         "text": "but",
         "start": 94.04,
-        "end": 94.35
+        "end": 94.32
       },
       {
         "text": "who",
@@ -1362,23 +1362,23 @@
       },
       {
         "text": "finished",
-        "start": 94.62,
+        "start": 94.64,
         "end": 94.96
       },
       {
         "text": "it,",
         "start": 95.02,
-        "end": 95.32
+        "end": 95.16
       },
       {
         "text": "and",
         "start": 95.38,
-        "end": 95.53
+        "end": 95.49
       },
       {
         "text": "what",
-        "start": 95.6,
-        "end": 95.75
+        "start": 95.56,
+        "end": 95.74
       },
       {
         "text": "tripped",
@@ -1392,8 +1392,8 @@
       },
       {
         "text": "up.",
-        "start": 96.44,
-        "end": 96.59
+        "start": 96.42,
+        "end": 96.6
       }
     ]
   },
@@ -1401,13 +1401,13 @@
     "beat": "BEAT 1B",
     "speaker": "DEV",
     "text": "...Okay.",
-    "start": 96.89,
-    "end": 97.84,
+    "start": 96.88,
+    "end": 97.28,
     "words": [
       {
         "text": "...Okay.",
-        "start": 96.89,
-        "end": 97.84
+        "start": 96.88,
+        "end": 97.28
       }
     ]
   },
@@ -1415,28 +1415,28 @@
     "beat": "BEAT 2",
     "speaker": "DEV",
     "text": "How did you even land on this idea?",
-    "start": 97.96,
+    "start": 97.92,
     "end": 100.18,
     "words": [
       {
         "text": "How",
-        "start": 97.96,
+        "start": 97.92,
         "end": 98.06
       },
       {
         "text": "did",
         "start": 98.08,
-        "end": 98.24
+        "end": 98.22
       },
       {
         "text": "you",
         "start": 98.3,
-        "end": 98.66
+        "end": 98.48
       },
       {
         "text": "even",
         "start": 98.74,
-        "end": 99.23
+        "end": 99.2
       },
       {
         "text": "land",
@@ -1445,17 +1445,17 @@
       },
       {
         "text": "on",
-        "start": 99.58,
-        "end": 99.65
+        "start": 99.56,
+        "end": 99.64
       },
       {
         "text": "this",
-        "start": 99.65100000000001,
+        "start": 99.66,
         "end": 99.78
       },
       {
         "text": "idea?",
-        "start": 99.79,
+        "start": 99.82,
         "end": 100.18
       }
     ]
@@ -1464,68 +1464,68 @@
     "beat": "BEAT 2",
     "speaker": "ALEX",
     "text": "Honestly? Watching my niece. She'll get through four episodes of some show back to back, no one making her — and then groan about twenty minutes of reading for school.",
-    "start": 101.3,
-    "end": 113.4,
+    "start": 101.32,
+    "end": 113.42,
     "words": [
       {
         "text": "Honestly?",
-        "start": 101.3,
-        "end": 102.52
+        "start": 101.32,
+        "end": 101.94
       },
       {
         "text": "Watching",
-        "start": 102.6,
-        "end": 102.95
+        "start": 102.56,
+        "end": 102.91
       },
       {
         "text": "my",
         "start": 102.98,
-        "end": 103.12
+        "end": 103.08
       },
       {
         "text": "niece.",
-        "start": 103.14,
+        "start": 103.16,
         "end": 103.6
       },
       {
         "text": "She'll",
         "start": 104.36,
-        "end": 104.53
+        "end": 104.5
       },
       {
         "text": "get",
-        "start": 104.56,
-        "end": 104.71
+        "start": 104.54,
+        "end": 104.64
       },
       {
         "text": "through",
-        "start": 104.74,
-        "end": 105.25
+        "start": 104.72,
+        "end": 105.2
       },
       {
         "text": "four",
         "start": 105.3,
-        "end": 105.68
+        "end": 105.6
       },
       {
         "text": "episodes",
         "start": 105.74,
-        "end": 106.23
+        "end": 106.22
       },
       {
         "text": "of",
-        "start": 106.26,
-        "end": 106.39
+        "start": 106.28,
+        "end": 106.33
       },
       {
         "text": "some",
         "start": 106.42,
-        "end": 106.68
+        "end": 106.64
       },
       {
         "text": "show",
         "start": 106.7,
-        "end": 107.22
+        "end": 107.2
       },
       {
         "text": "back",
@@ -1534,8 +1534,8 @@
       },
       {
         "text": "to",
-        "start": 107.6,
-        "end": 107.7
+        "start": 107.58,
+        "end": 107.66
       },
       {
         "text": "back,",
@@ -1544,43 +1544,43 @@
       },
       {
         "text": "no",
-        "start": 108.56,
-        "end": 108.59
+        "start": 108.48,
+        "end": 108.68
       },
       {
         "text": "one",
-        "start": 108.78,
-        "end": 108.92
+        "start": 108.74,
+        "end": 108.9
       },
       {
         "text": "making",
         "start": 108.96,
-        "end": 109.29
+        "end": 109.28
       },
       {
         "text": "her",
         "start": 109.32,
-        "end": 110.09
+        "end": 109.54
       },
       {
         "text": "—",
-        "start": 110.09,
-        "end": 110.09100000000001
+        "start": 110.02,
+        "end": 110.021
       },
       {
         "text": "and",
-        "start": 110.1,
-        "end": 110.18
+        "start": 110.09,
+        "end": 110.2
       },
       {
         "text": "then",
-        "start": 110.26,
-        "end": 110.74
+        "start": 110.24,
+        "end": 110.5
       },
       {
         "text": "groan",
         "start": 110.78,
-        "end": 111.34
+        "end": 111.32
       },
       {
         "text": "about",
@@ -1589,7 +1589,7 @@
       },
       {
         "text": "twenty",
-        "start": 111.78,
+        "start": 111.82,
         "end": 112.06
       },
       {
@@ -1600,12 +1600,12 @@
       {
         "text": "of",
         "start": 112.46,
-        "end": 112.54
+        "end": 112.52
       },
       {
         "text": "reading",
         "start": 112.58,
-        "end": 112.84
+        "end": 112.82
       },
       {
         "text": "for",
@@ -1615,7 +1615,7 @@
       {
         "text": "school.",
         "start": 113.08,
-        "end": 113.4
+        "end": 113.42
       }
     ]
   },
@@ -1624,12 +1624,12 @@
     "speaker": "DEV",
     "text": "Sure.",
     "start": 114.1,
-    "end": 115.12,
+    "end": 114.42,
     "words": [
       {
         "text": "Sure.",
         "start": 114.1,
-        "end": 115.12
+        "end": 114.42
       }
     ]
   },
@@ -1637,28 +1637,28 @@
     "beat": "BEAT 2",
     "speaker": "ALEX",
     "text": "And I kept thinking — what if homework showed up the way a new episode does? Something she's actually a little curious to open, instead of something she's just told to do.",
-    "start": 115.14,
+    "start": 115.16,
     "end": 126.7,
     "words": [
       {
         "text": "And",
-        "start": 115.14,
-        "end": 115.24
+        "start": 115.16,
+        "end": 115.22
       },
       {
         "text": "I",
-        "start": 115.34,
-        "end": 115.35
+        "start": 115.3,
+        "end": 115.34
       },
       {
         "text": "kept",
         "start": 115.4,
-        "end": 115.55
+        "end": 115.56
       },
       {
         "text": "thinking",
-        "start": 115.64,
-        "end": 116.09
+        "start": 115.62,
+        "end": 116.08
       },
       {
         "text": "—",
@@ -1668,27 +1668,27 @@
       {
         "text": "what",
         "start": 116.72,
-        "end": 116.82
+        "end": 116.8
       },
       {
         "text": "if",
-        "start": 116.86,
+        "start": 116.84,
         "end": 117
       },
       {
         "text": "homework",
         "start": 117.06,
-        "end": 117.58
+        "end": 117.6
       },
       {
         "text": "showed",
         "start": 117.7,
-        "end": 117.92
+        "end": 117.9
       },
       {
         "text": "up",
-        "start": 117.96,
-        "end": 118.12
+        "start": 117.98,
+        "end": 118.1
       },
       {
         "text": "the",
@@ -1697,13 +1697,13 @@
       },
       {
         "text": "way",
-        "start": 118.28,
-        "end": 118.53
+        "start": 118.26,
+        "end": 118.54
       },
       {
         "text": "a",
         "start": 118.72,
-        "end": 118.73
+        "end": 118.76
       },
       {
         "text": "new",
@@ -1718,7 +1718,7 @@
       {
         "text": "does?",
         "start": 119.64,
-        "end": 119.98
+        "end": 120.01
       },
       {
         "text": "Something",
@@ -1728,42 +1728,42 @@
       {
         "text": "she's",
         "start": 121.22,
-        "end": 121.56
+        "end": 121.58
       },
       {
         "text": "actually",
         "start": 121.68,
-        "end": 122
+        "end": 122.02
       },
       {
         "text": "a",
-        "start": 122.06,
-        "end": 122.08
+        "start": 122.08,
+        "end": 122.09
       },
       {
         "text": "little",
         "start": 122.14,
-        "end": 122.3
+        "end": 122.41
       },
       {
         "text": "curious",
         "start": 122.48,
-        "end": 123
+        "end": 123.02
       },
       {
         "text": "to",
         "start": 123.06,
-        "end": 123.12
+        "end": 123.14
       },
       {
         "text": "open,",
         "start": 123.2,
-        "end": 123.56
+        "end": 123.55
       },
       {
         "text": "instead",
-        "start": 124.08,
-        "end": 124.42
+        "start": 124.06,
+        "end": 124.43
       },
       {
         "text": "of",
@@ -1773,22 +1773,22 @@
       {
         "text": "something",
         "start": 124.6,
-        "end": 125.02
+        "end": 124.98
       },
       {
         "text": "she's",
-        "start": 125.1,
+        "start": 125.08,
         "end": 125.36
       },
       {
         "text": "just",
-        "start": 125.42,
-        "end": 125.76
+        "start": 125.44,
+        "end": 125.79
       },
       {
         "text": "told",
         "start": 125.84,
-        "end": 126.2
+        "end": 126.21
       },
       {
         "text": "to",
@@ -1797,7 +1797,7 @@
       },
       {
         "text": "do.",
-        "start": 126.38,
+        "start": 126.4,
         "end": 126.7
       }
     ]
@@ -1806,43 +1806,43 @@
     "beat": "BEAT 2",
     "speaker": "DEV",
     "text": "Huh. That's a genuinely different question than \"how do we make homework easier.\"",
-    "start": 127.36,
+    "start": 127.38,
     "end": 132.38,
     "words": [
       {
         "text": "Huh.",
-        "start": 127.36,
-        "end": 127.58
+        "start": 127.38,
+        "end": 128.24
       },
       {
         "text": "That's",
-        "start": 128.259,
-        "end": 128.4
+        "start": 128.28,
+        "end": 128.41
       },
       {
         "text": "a",
         "start": 128.44,
-        "end": 128.5
+        "end": 128.699
       },
       {
         "text": "genuinely",
-        "start": 128.759,
-        "end": 129.32
+        "start": 128.74,
+        "end": 129.35
       },
       {
         "text": "different",
-        "start": 129.38,
-        "end": 129.699
+        "start": 129.36,
+        "end": 129.729
       },
       {
         "text": "question",
-        "start": 129.759,
-        "end": 130.259
+        "start": 129.78,
+        "end": 130.25
       },
       {
         "text": "than",
-        "start": 130.34,
-        "end": 130.6
+        "start": 130.32,
+        "end": 130.82
       },
       {
         "text": "\"how",
@@ -1851,7 +1851,7 @@
       },
       {
         "text": "do",
-        "start": 131.08,
+        "start": 131.1,
         "end": 131.16
       },
       {
@@ -1862,7 +1862,7 @@
       {
         "text": "make",
         "start": 131.32,
-        "end": 131.5
+        "end": 131.54
       },
       {
         "text": "homework",
@@ -1880,18 +1880,18 @@
     "beat": "BEAT 2",
     "speaker": "ALEX",
     "text": "...and that's the part I'm actually excited about, yeah.",
-    "start": 132.88,
+    "start": 132.87,
     "end": 136.1,
     "words": [
       {
         "text": "...and",
-        "start": 132.88,
-        "end": 133.049
+        "start": 132.87,
+        "end": 133.13
       },
       {
         "text": "that's",
         "start": 133.18,
-        "end": 133.5
+        "end": 133.52
       },
       {
         "text": "the",
@@ -1906,7 +1906,7 @@
       {
         "text": "I'm",
         "start": 134.08,
-        "end": 134.22
+        "end": 134.24
       },
       {
         "text": "actually",
@@ -1920,12 +1920,12 @@
       },
       {
         "text": "about,",
-        "start": 135.28,
+        "start": 135.3,
         "end": 135.58
       },
       {
         "text": "yeah.",
-        "start": 135.8,
+        "start": 135.82,
         "end": 136.1
       }
     ]
@@ -1940,7 +1940,7 @@
       {
         "text": "Why",
         "start": 136.9,
-        "end": 137.06
+        "end": 137.1
       },
       {
         "text": "though?",
@@ -1959,27 +1959,27 @@
       {
         "text": "Because",
         "start": 137.96,
-        "end": 138.28
+        "end": 138.58
       },
       {
         "text": "I'm",
-        "start": 138.7,
+        "start": 138.72,
         "end": 138.82
       },
       {
         "text": "not",
         "start": 138.88,
-        "end": 139.08
+        "end": 139.09
       },
       {
         "text": "going",
         "start": 139.12,
-        "end": 139.3
+        "end": 139.31
       },
       {
         "text": "to",
         "start": 139.34,
-        "end": 139.44
+        "end": 139.46
       },
       {
         "text": "sit",
@@ -1989,22 +1989,22 @@
       {
         "text": "here",
         "start": 139.68,
-        "end": 139.98
+        "end": 139.9
       },
       {
         "text": "and",
-        "start": 140.02,
-        "end": 140.13
+        "start": 140.04,
+        "end": 140.12
       },
       {
         "text": "promise",
         "start": 140.2,
-        "end": 140.78
+        "end": 140.66
       },
       {
         "text": "every",
-        "start": 140.86,
-        "end": 141.18
+        "start": 140.84,
+        "end": 141.13
       },
       {
         "text": "kid",
@@ -2014,72 +2014,72 @@
       {
         "text": "loves",
         "start": 141.56,
-        "end": 141.81
+        "end": 141.78
       },
       {
         "text": "their",
-        "start": 141.86,
-        "end": 141.97
+        "start": 141.82,
+        "end": 141.96
       },
       {
         "text": "homework",
-        "start": 142,
+        "start": 141.97,
         "end": 142.4
       },
       {
         "text": "now.",
         "start": 142.5,
-        "end": 143.34
+        "end": 142.72
       },
       {
         "text": "But",
         "start": 143.36,
-        "end": 143.43
+        "end": 143.42
       },
       {
         "text": "if",
-        "start": 143.46,
-        "end": 143.53
+        "start": 143.48,
+        "end": 143.52
       },
       {
         "text": "it's",
         "start": 143.56,
-        "end": 143.68
+        "end": 143.69
       },
       {
         "text": "something",
         "start": 143.72,
-        "end": 144.109
+        "end": 144.1
       },
       {
         "text": "they",
-        "start": 144.14,
-        "end": 144.26
+        "start": 144.12,
+        "end": 144.25
       },
       {
         "text": "can",
         "start": 144.28,
-        "end": 144.489
+        "end": 144.46
       },
       {
         "text": "actually",
-        "start": 144.58,
+        "start": 144.56,
         "end": 144.94
       },
       {
         "text": "experience",
         "start": 144.98,
-        "end": 146.34
+        "end": 145.92
       },
       {
         "text": "—",
-        "start": 146.35,
-        "end": 146.351
+        "start": 146.34,
+        "end": 146.341
       },
       {
         "text": "maybe",
         "start": 146.38,
-        "end": 146.6
+        "end": 146.58
       },
       {
         "text": "even",
@@ -2089,22 +2089,22 @@
       {
         "text": "enjoy",
         "start": 147.08,
-        "end": 148.3
+        "end": 147.68
       },
       {
         "text": "—",
-        "start": 148.31,
-        "end": 148.311
+        "start": 148.3,
+        "end": 148.30100000000002
       },
       {
         "text": "two",
         "start": 148.38,
-        "end": 148.63
+        "end": 148.549
       },
       {
         "text": "people",
-        "start": 148.66,
-        "end": 148.98
+        "start": 148.68,
+        "end": 148.94
       },
       {
         "text": "talking,",
@@ -2114,12 +2114,12 @@
       {
         "text": "with",
         "start": 149.8,
-        "end": 150.049
+        "end": 149.92
       },
       {
         "text": "real",
-        "start": 150.1,
-        "end": 150.4
+        "start": 150.12,
+        "end": 150.46
       },
       {
         "text": "curiosity",
@@ -2138,28 +2138,28 @@
       },
       {
         "text": "—",
-        "start": 152.08,
-        "end": 152.08100000000002
+        "start": 152.06,
+        "end": 152.061
       },
       {
         "text": "that's",
         "start": 152.12,
-        "end": 152.36
+        "end": 152.38
       },
       {
         "text": "quite",
-        "start": 152.48,
+        "start": 152.5,
         "end": 152.84
       },
       {
         "text": "different",
-        "start": 152.86,
+        "start": 152.9,
         "end": 153.34
       },
       {
         "text": "from",
         "start": 153.4,
-        "end": 153.52
+        "end": 153.53
       },
       {
         "text": "a",
@@ -2177,38 +2177,38 @@
     "beat": "BEAT 2",
     "speaker": "DEV",
     "text": "So the win condition isn't just — \"did they finish it.\"",
-    "start": 154.94,
-    "end": 157.94,
+    "start": 154.96,
+    "end": 157.92,
     "words": [
       {
         "text": "So",
-        "start": 154.94,
-        "end": 155.02
+        "start": 154.96,
+        "end": 155.04
       },
       {
         "text": "the",
         "start": 155.08,
-        "end": 155.14
+        "end": 155.16
       },
       {
         "text": "win",
         "start": 155.18,
-        "end": 155.3
+        "end": 155.28
       },
       {
         "text": "condition",
         "start": 155.36,
-        "end": 155.86
+        "end": 155.88
       },
       {
         "text": "isn't",
         "start": 155.94,
-        "end": 156.26
+        "end": 156.269
       },
       {
         "text": "just",
         "start": 156.32,
-        "end": 156.68
+        "end": 156.69
       },
       {
         "text": "—",
@@ -2218,12 +2218,12 @@
       {
         "text": "\"did",
         "start": 157.09,
-        "end": 157.22
+        "end": 157.24
       },
       {
         "text": "they",
         "start": 157.28,
-        "end": 157.37
+        "end": 157.44
       },
       {
         "text": "finish",
@@ -2233,7 +2233,7 @@
       {
         "text": "it.\"",
         "start": 157.8,
-        "end": 157.94
+        "end": 157.92
       }
     ]
   },
@@ -2242,7 +2242,7 @@
     "speaker": "ALEX",
     "text": "yeah... it's — \"did they want to.\"",
     "start": 158.66,
-    "end": 161.46,
+    "end": 161.44,
     "words": [
       {
         "text": "yeah...",
@@ -2252,32 +2252,32 @@
       {
         "text": "it's",
         "start": 159.48,
-        "end": 159.74
+        "end": 159.769
       },
       {
         "text": "—",
-        "start": 160.4,
-        "end": 160.401
+        "start": 160.34,
+        "end": 160.341
       },
       {
         "text": "\"did",
         "start": 160.43,
-        "end": 160.54
+        "end": 160.56
       },
       {
         "text": "they",
-        "start": 160.56,
-        "end": 160.78
+        "start": 160.62,
+        "end": 160.8
       },
       {
         "text": "want",
-        "start": 160.8,
+        "start": 160.86,
         "end": 161.14
       },
       {
         "text": "to.\"",
         "start": 161.18,
-        "end": 161.46
+        "end": 161.44
       }
     ]
   },
@@ -2301,7 +2301,7 @@
       {
         "text": "bring",
         "start": 162.42,
-        "end": 162.53
+        "end": 162.56
       },
       {
         "text": "something",
@@ -2310,13 +2310,13 @@
       },
       {
         "text": "to",
-        "start": 162.86,
-        "end": 162.92
+        "start": 162.84,
+        "end": 162.93
       },
       {
         "text": "this?",
         "start": 162.96,
-        "end": 163.14
+        "end": 163.15
       },
       {
         "text": "I",
@@ -2325,13 +2325,13 @@
       },
       {
         "text": "did",
-        "start": 163.7,
+        "start": 163.72,
         "end": 163.8
       },
       {
         "text": "a",
-        "start": 163.81,
-        "end": 163.84
+        "start": 163.84,
+        "end": 163.85
       },
       {
         "text": "little",
@@ -2341,7 +2341,7 @@
       {
         "text": "digging",
         "start": 164.06,
-        "end": 164.28
+        "end": 164.3
       },
       {
         "text": "before",
@@ -2351,7 +2351,7 @@
       {
         "text": "this",
         "start": 164.56,
-        "end": 164.65
+        "end": 164.67
       },
       {
         "text": "talk.",
@@ -2393,22 +2393,22 @@
       },
       {
         "text": "everyone",
-        "start": 167.4,
+        "start": 167.42,
         "end": 167.82
       },
       {
         "text": "talks",
         "start": 167.86,
-        "end": 168.2
+        "end": 168.22
       },
       {
         "text": "about",
         "start": 168.26,
-        "end": 168.5
+        "end": 168.51
       },
       {
         "text": "test",
-        "start": 168.58,
+        "start": 168.56,
         "end": 168.84
       },
       {
@@ -2429,36 +2429,36 @@
       {
         "text": "comes",
         "start": 169.6,
-        "end": 169.79
+        "end": 169.78
       },
       {
         "text": "up.",
-        "start": 169.86,
-        "end": 169.97
+        "start": 169.84,
+        "end": 170.34
       },
       {
         "text": "But",
-        "start": 170.44,
-        "end": 170.57
+        "start": 170.41,
+        "end": 170.56
       },
       {
         "text": "the",
-        "start": 170.571,
-        "end": 170.68
+        "start": 170.57,
+        "end": 170.72
       },
       {
         "text": "real",
-        "start": 170.76,
+        "start": 170.8,
         "end": 170.989
       },
       {
         "text": "cost",
         "start": 171.12,
-        "end": 171.54
+        "end": 171.68
       },
       {
         "text": "shows",
-        "start": 171.74,
+        "start": 171.76,
         "end": 171.94
       },
       {
@@ -2513,7 +2513,7 @@
       },
       {
         "text": "has",
-        "start": 176.1,
+        "start": 176.04,
         "end": 176.26
       },
       {
@@ -2567,7 +2567,7 @@
     "speaker": "DEV",
     "text": "Right. Ontario alone put something like one hundred seventy-five million dollars into expanding tutoring — on top of a separate chunk just for a dedicated tutoring program. The UK's national tutoring effort started with something like one billion pounds in catch-up money. In the US, states set aside somewhere around four billion dollars in relief funding specifically for tutoring.",
     "start": 179.26,
-    "end": 202.86,
+    "end": 202.06,
     "words": [
       {
         "text": "Right.",
@@ -2576,12 +2576,12 @@
       },
       {
         "text": "Ontario",
-        "start": 180.24,
-        "end": 180.69
+        "start": 180.18,
+        "end": 180.76
       },
       {
         "text": "alone",
-        "start": 180.72,
+        "start": 180.769,
         "end": 181.2
       },
       {
@@ -2667,7 +2667,7 @@
       {
         "text": "separate",
         "start": 186.54,
-        "end": 186.82
+        "end": 186.84
       },
       {
         "text": "chunk",
@@ -2702,22 +2702,22 @@
       {
         "text": "program.",
         "start": 188.76,
-        "end": 189.98
+        "end": 189.2
       },
       {
         "text": "The",
-        "start": 190.02,
-        "end": 190.1
+        "start": 189.98,
+        "end": 190.07
       },
       {
         "text": "UK's",
-        "start": 190.14,
-        "end": 190.51
+        "start": 190.12,
+        "end": 190.46
       },
       {
         "text": "national",
-        "start": 190.54,
-        "end": 190.84
+        "start": 190.5,
+        "end": 190.829
       },
       {
         "text": "tutoring",
@@ -2731,8 +2731,8 @@
       },
       {
         "text": "started",
-        "start": 191.58,
-        "end": 191.88
+        "start": 191.64,
+        "end": 191.86
       },
       {
         "text": "with",
@@ -2742,7 +2742,7 @@
       {
         "text": "something",
         "start": 192.04,
-        "end": 192.3
+        "end": 192.269
       },
       {
         "text": "like",
@@ -2761,8 +2761,8 @@
       },
       {
         "text": "pounds",
-        "start": 193.64,
-        "end": 194.12
+        "start": 193.66,
+        "end": 194.14
       },
       {
         "text": "in",
@@ -2786,7 +2786,7 @@
       },
       {
         "text": "the",
-        "start": 195.72,
+        "start": 195.74,
         "end": 195.8
       },
       {
@@ -2797,27 +2797,27 @@
       {
         "text": "states",
         "start": 196.6,
-        "end": 196.92
+        "end": 196.94
       },
       {
         "text": "set",
-        "start": 196.96,
+        "start": 196.98,
         "end": 197.08
       },
       {
         "text": "aside",
         "start": 197.1,
-        "end": 197.42
+        "end": 197.46
       },
       {
         "text": "somewhere",
         "start": 197.56,
-        "end": 197.82
+        "end": 197.88
       },
       {
         "text": "around",
         "start": 197.94,
-        "end": 198.32
+        "end": 198.36
       },
       {
         "text": "four",
@@ -2827,7 +2827,7 @@
       {
         "text": "billion",
         "start": 198.92,
-        "end": 199.26
+        "end": 199.23
       },
       {
         "text": "dollars",
@@ -2836,13 +2836,13 @@
       },
       {
         "text": "in",
-        "start": 199.74,
+        "start": 199.72,
         "end": 199.84
       },
       {
         "text": "relief",
         "start": 199.86,
-        "end": 200.15
+        "end": 200.12
       },
       {
         "text": "funding",
@@ -2851,18 +2851,18 @@
       },
       {
         "text": "specifically",
-        "start": 200.76,
-        "end": 201.46
+        "start": 200.86,
+        "end": 201.44
       },
       {
         "text": "for",
         "start": 201.48,
-        "end": 201.59
+        "end": 201.54
       },
       {
         "text": "tutoring.",
         "start": 201.62,
-        "end": 202.86
+        "end": 202.06
       }
     ]
   },
@@ -2870,33 +2870,33 @@
     "beat": "BEAT 3",
     "speaker": "ALEX",
     "text": "Yeah — the actual cost of finding out too late.",
-    "start": 202.88,
+    "start": 202.92,
     "end": 205.84,
     "words": [
       {
         "text": "Yeah",
-        "start": 202.88,
-        "end": 203.28
+        "start": 202.92,
+        "end": 203.08
       },
       {
         "text": "—",
-        "start": 203.29,
-        "end": 203.291
+        "start": 203.26,
+        "end": 203.261
       },
       {
         "text": "the",
         "start": 203.34,
-        "end": 203.58
+        "end": 203.56
       },
       {
         "text": "actual",
         "start": 203.68,
-        "end": 204.109
+        "end": 204.03
       },
       {
         "text": "cost",
         "start": 204.16,
-        "end": 204.54
+        "end": 204.48
       },
       {
         "text": "of",
@@ -2906,17 +2906,17 @@
       {
         "text": "finding",
         "start": 204.74,
-        "end": 205.04
+        "end": 205.01
       },
       {
         "text": "out",
         "start": 205.1,
-        "end": 205.35
+        "end": 205.34
       },
       {
         "text": "too",
         "start": 205.4,
-        "end": 205.5
+        "end": 205.54
       },
       {
         "text": "late.",
@@ -2929,28 +2929,28 @@
     "beat": "BEAT 3",
     "speaker": "DEV",
     "text": "Billions. And that's before you count a teacher's own prep time, or a parent trying to help with material they haven't touched since they were a kid.",
-    "start": 206.72,
+    "start": 206.74,
     "end": 214.66,
     "words": [
       {
         "text": "Billions.",
-        "start": 206.72,
-        "end": 207.39
+        "start": 206.74,
+        "end": 207.42
       },
       {
         "text": "And",
         "start": 207.88,
-        "end": 208.03
+        "end": 208
       },
       {
         "text": "that's",
-        "start": 208.1,
-        "end": 208.35
+        "start": 208.06,
+        "end": 208.34
       },
       {
         "text": "before",
         "start": 208.36,
-        "end": 208.64
+        "end": 208.62
       },
       {
         "text": "you",
@@ -2964,37 +2964,37 @@
       },
       {
         "text": "a",
-        "start": 209.16,
-        "end": 209.17
+        "start": 209.08,
+        "end": 209.14
       },
       {
         "text": "teacher's",
         "start": 209.18,
-        "end": 209.609
+        "end": 209.51
       },
       {
         "text": "own",
         "start": 209.66,
-        "end": 209.9
+        "end": 209.88
       },
       {
         "text": "prep",
         "start": 209.92,
-        "end": 210.06
+        "end": 210.1
       },
       {
         "text": "time,",
-        "start": 210.18,
+        "start": 210.14,
         "end": 210.42
       },
       {
         "text": "or",
         "start": 210.86,
-        "end": 210.95
+        "end": 210.94
       },
       {
         "text": "a",
-        "start": 210.951,
+        "start": 210.96,
         "end": 211.02
       },
       {
@@ -3005,7 +3005,7 @@
       {
         "text": "trying",
         "start": 211.45,
-        "end": 211.67
+        "end": 211.66
       },
       {
         "text": "to",
@@ -3014,7 +3014,7 @@
       },
       {
         "text": "help",
-        "start": 211.82,
+        "start": 211.8,
         "end": 211.96
       },
       {
@@ -3025,12 +3025,12 @@
       {
         "text": "material",
         "start": 212.12,
-        "end": 212.74
+        "end": 212.549
       },
       {
         "text": "they",
         "start": 212.8,
-        "end": 212.93
+        "end": 212.92
       },
       {
         "text": "haven't",
@@ -3040,7 +3040,7 @@
       {
         "text": "touched",
         "start": 213.22,
-        "end": 213.66
+        "end": 213.64
       },
       {
         "text": "since",
@@ -3050,17 +3050,17 @@
       {
         "text": "they",
         "start": 214.02,
-        "end": 214.17
+        "end": 214.16
       },
       {
         "text": "were",
-        "start": 214.2,
+        "start": 214.18,
         "end": 214.28
       },
       {
         "text": "a",
-        "start": 214.38,
-        "end": 214.39
+        "start": 214.34,
+        "end": 214.35
       },
       {
         "text": "kid.",
@@ -3089,12 +3089,12 @@
       {
         "text": "a",
         "start": 215.6,
-        "end": 215.78
+        "end": 215.76
       },
       {
         "text": "real",
         "start": 215.84,
-        "end": 216.17
+        "end": 216.16
       },
       {
         "text": "chunk",
@@ -3104,17 +3104,17 @@
       {
         "text": "of",
         "start": 216.52,
-        "end": 216.609
+        "end": 216.6
       },
       {
         "text": "who",
         "start": 216.66,
-        "end": 216.8
+        "end": 216.76
       },
       {
         "text": "this",
-        "start": 216.84,
-        "end": 216.93
+        "start": 216.82,
+        "end": 216.92
       },
       {
         "text": "is",
@@ -3124,42 +3124,42 @@
       {
         "text": "actually",
         "start": 217.2,
-        "end": 217.65
+        "end": 217.64
       },
       {
         "text": "for.",
         "start": 217.68,
-        "end": 218.72
+        "end": 217.96
       },
       {
         "text": "Parents",
         "start": 218.78,
-        "end": 219.25
+        "end": 219.24
       },
       {
         "text": "who",
-        "start": 219.3,
+        "start": 219.28,
         "end": 219.48
       },
       {
         "text": "want",
-        "start": 219.52,
-        "end": 219.72
+        "start": 219.49,
+        "end": 219.76
       },
       {
         "text": "to",
-        "start": 219.82,
+        "start": 219.78,
         "end": 219.9
       },
       {
         "text": "help",
         "start": 219.94,
-        "end": 220.28
+        "end": 220.26
       },
       {
         "text": "and",
         "start": 220.3,
-        "end": 220.46
+        "end": 220.44
       },
       {
         "text": "just",
@@ -3168,7 +3168,7 @@
       },
       {
         "text": "don't",
-        "start": 221.22,
+        "start": 221.18,
         "end": 221.52
       },
       {
@@ -3184,11 +3184,11 @@
       {
         "text": "content",
         "start": 222.08,
-        "end": 222.6
+        "end": 222.58
       },
       {
         "text": "anymore.",
-        "start": 222.64,
+        "start": 222.62,
         "end": 223.12
       }
     ]
@@ -3198,12 +3198,12 @@
     "speaker": "DEV",
     "text": "So if you catch the confusion in week two instead of month three? —",
     "start": 223.74,
-    "end": 227.451,
+    "end": 227.431,
     "words": [
       {
         "text": "So",
         "start": 223.74,
-        "end": 223.8
+        "end": 223.78
       },
       {
         "text": "if",
@@ -3212,7 +3212,7 @@
       },
       {
         "text": "you",
-        "start": 223.92,
+        "start": 223.9,
         "end": 223.98
       },
       {
@@ -3222,13 +3222,13 @@
       },
       {
         "text": "the",
-        "start": 224.269,
+        "start": 224.28,
         "end": 224.34
       },
       {
         "text": "confusion",
         "start": 224.36,
-        "end": 224.91
+        "end": 224.9
       },
       {
         "text": "in",
@@ -3258,17 +3258,17 @@
       {
         "text": "month",
         "start": 226.26,
-        "end": 226.4
+        "end": 226.46
       },
       {
         "text": "three?",
         "start": 226.52,
-        "end": 226.76
+        "end": 226.78
       },
       {
         "text": "—",
-        "start": 227.45,
-        "end": 227.451
+        "start": 227.43,
+        "end": 227.431
       }
     ]
   },
@@ -3276,13 +3276,13 @@
     "beat": "BEAT 3",
     "speaker": "ALEX",
     "text": "yeah — the money's already budgeted. It's just landing much later than it needs to.",
-    "start": 227.5,
+    "start": 227.48,
     "end": 232.78,
     "words": [
       {
         "text": "yeah",
-        "start": 227.5,
-        "end": 227.75
+        "start": 227.48,
+        "end": 227.74
       },
       {
         "text": "—",
@@ -3292,7 +3292,7 @@
       {
         "text": "the",
         "start": 228.04,
-        "end": 228.14
+        "end": 228.09
       },
       {
         "text": "money's",
@@ -3301,12 +3301,12 @@
       },
       {
         "text": "already",
-        "start": 228.64,
-        "end": 229.04
+        "start": 228.62,
+        "end": 228.98
       },
       {
         "text": "budgeted.",
-        "start": 229.06,
+        "start": 229.04,
         "end": 229.58
       },
       {
@@ -3322,17 +3322,17 @@
       {
         "text": "landing",
         "start": 230.64,
-        "end": 231.14
+        "end": 231.06
       },
       {
         "text": "much",
         "start": 231.24,
-        "end": 231.5
+        "end": 231.52
       },
       {
         "text": "later",
-        "start": 231.56,
-        "end": 231.84
+        "start": 231.6,
+        "end": 231.88
       },
       {
         "text": "than",
@@ -3376,22 +3376,22 @@
       {
         "text": "who",
         "start": 234.26,
-        "end": 234.45
+        "end": 234.58
       },
       {
         "text": "actually",
         "start": 234.68,
-        "end": 234.98
+        "end": 235.14
       },
       {
         "text": "benefits",
         "start": 235.18,
-        "end": 235.66
+        "end": 235.64
       },
       {
         "text": "from",
         "start": 235.8,
-        "end": 235.9
+        "end": 235.92
       },
       {
         "text": "something",
@@ -3401,7 +3401,7 @@
       {
         "text": "like",
         "start": 236.24,
-        "end": 236.34
+        "end": 236.38
       },
       {
         "text": "this.",
@@ -3424,12 +3424,12 @@
       },
       {
         "text": "students,",
-        "start": 238.32,
+        "start": 238.34,
         "end": 238.8
       },
       {
         "text": "primarily.",
-        "start": 238.92,
+        "start": 238.9,
         "end": 239.56
       },
       {
@@ -3440,7 +3440,7 @@
       {
         "text": "we",
         "start": 240.78,
-        "end": 240.84
+        "end": 240.86
       },
       {
         "text": "just",
@@ -3458,12 +3458,12 @@
     "beat": "BEAT 4",
     "speaker": "DEV",
     "text": "Teachers.",
-    "start": 242.24,
+    "start": 242.22,
     "end": 242.62,
     "words": [
       {
         "text": "Teachers.",
-        "start": 242.24,
+        "start": 242.22,
         "end": 242.62
       }
     ]
@@ -3473,7 +3473,7 @@
     "speaker": "ALEX",
     "text": "Teachers, yeah. They already know their kids well. The problem's just that the proof — which idea actually tripped up the room — is buried in a pile of grading that takes real time to get through — this gets it to them while there's still time to course correct.",
     "start": 243.28,
-    "end": 259.44,
+    "end": 258.8,
     "words": [
       {
         "text": "Teachers,",
@@ -3487,7 +3487,7 @@
       },
       {
         "text": "They",
-        "start": 245.14,
+        "start": 245.18,
         "end": 245.28
       },
       {
@@ -3503,7 +3503,7 @@
       {
         "text": "their",
         "start": 245.9,
-        "end": 246.04
+        "end": 246
       },
       {
         "text": "kids",
@@ -3533,7 +3533,7 @@
       {
         "text": "that",
         "start": 248.02,
-        "end": 248.14
+        "end": 248.16
       },
       {
         "text": "the",
@@ -3543,7 +3543,7 @@
       {
         "text": "proof",
         "start": 248.36,
-        "end": 248.82
+        "end": 248.84
       },
       {
         "text": "—",
@@ -3553,21 +3553,21 @@
       {
         "text": "which",
         "start": 249.22,
-        "end": 249.4
+        "end": 249.38
       },
       {
         "text": "idea",
-        "start": 249.46,
-        "end": 249.9
+        "start": 249.39,
+        "end": 249.92
       },
       {
         "text": "actually",
-        "start": 249.98,
+        "start": 249.93,
         "end": 250.4
       },
       {
         "text": "tripped",
-        "start": 250.41,
+        "start": 250.44,
         "end": 250.66
       },
       {
@@ -3583,17 +3583,17 @@
       {
         "text": "room",
         "start": 251,
-        "end": 251.3
+        "end": 251.85
       },
       {
         "text": "—",
-        "start": 251.82,
-        "end": 251.821
+        "start": 251.85,
+        "end": 251.851
       },
       {
         "text": "is",
         "start": 251.88,
-        "end": 252.02
+        "end": 252.03
       },
       {
         "text": "buried",
@@ -3607,8 +3607,8 @@
       },
       {
         "text": "a",
-        "start": 252.56,
-        "end": 252.64
+        "start": 252.64,
+        "end": 252.65
       },
       {
         "text": "pile",
@@ -3633,7 +3633,7 @@
       {
         "text": "takes",
         "start": 253.7,
-        "end": 254.07
+        "end": 254.08
       },
       {
         "text": "real",
@@ -3658,12 +3658,12 @@
       {
         "text": "through",
         "start": 255.12,
-        "end": 255.41
+        "end": 256.01
       },
       {
         "text": "—",
-        "start": 256,
-        "end": 256.001
+        "start": 256.01,
+        "end": 256.01099999999997
       },
       {
         "text": "this",
@@ -3693,7 +3693,7 @@
       {
         "text": "while",
         "start": 256.959,
-        "end": 257.079
+        "end": 257.089
       },
       {
         "text": "there's",
@@ -3723,7 +3723,7 @@
       {
         "text": "correct.",
         "start": 258.44,
-        "end": 259.44
+        "end": 258.8
       }
     ]
   },
@@ -3732,7 +3732,7 @@
     "speaker": "DEV",
     "text": "Can I push on that? Because anything that shows \"which questions a class missed\" — depending who's holding that information, that can start to feel aimed at the teacher instead of for them.",
     "start": 259.48,
-    "end": 269.98,
+    "end": 269.99,
     "words": [
       {
         "text": "Can",
@@ -3741,8 +3741,8 @@
       },
       {
         "text": "I",
-        "start": 259.62,
-        "end": 259.66
+        "start": 259.74,
+        "end": 259.75
       },
       {
         "text": "push",
@@ -3752,17 +3752,17 @@
       {
         "text": "on",
         "start": 260,
-        "end": 260.079
+        "end": 260.089
       },
       {
         "text": "that?",
         "start": 260.14,
-        "end": 260.269
+        "end": 260.579
       },
       {
         "text": "Because",
-        "start": 260.62,
-        "end": 261.22
+        "start": 260.64,
+        "end": 261.24
       },
       {
         "text": "anything",
@@ -3771,23 +3771,23 @@
       },
       {
         "text": "that",
-        "start": 261.57,
-        "end": 261.66
+        "start": 261.6,
+        "end": 261.709
       },
       {
         "text": "shows",
         "start": 261.74,
-        "end": 262.28
+        "end": 262.33
       },
       {
         "text": "\"which",
-        "start": 262.3,
+        "start": 262.33099999999996,
         "end": 262.58
       },
       {
         "text": "questions",
-        "start": 262.64,
-        "end": 263.13
+        "start": 262.59,
+        "end": 263.18
       },
       {
         "text": "a",
@@ -3802,67 +3802,67 @@
       {
         "text": "missed\"",
         "start": 263.78,
-        "end": 264.1
+        "end": 264.11
       },
       {
         "text": "—",
-        "start": 264.74,
-        "end": 264.741
+        "start": 264.75,
+        "end": 264.751
       },
       {
         "text": "depending",
         "start": 264.78,
-        "end": 265.14
+        "end": 265.15
       },
       {
         "text": "who's",
         "start": 265.2,
-        "end": 265.38
+        "end": 265.39
       },
       {
         "text": "holding",
         "start": 265.44,
-        "end": 265.7
+        "end": 265.71
       },
       {
         "text": "that",
-        "start": 265.74,
-        "end": 265.84
+        "start": 265.76,
+        "end": 265.85
       },
       {
         "text": "information,",
         "start": 265.88,
-        "end": 266.35
+        "end": 266.88
       },
       {
         "text": "that",
         "start": 266.92,
-        "end": 267
+        "end": 267.02
       },
       {
         "text": "can",
-        "start": 267.02,
+        "start": 267.04,
         "end": 267.12
       },
       {
         "text": "start",
-        "start": 267.16,
+        "start": 267.18,
         "end": 267.31
       },
       {
         "text": "to",
         "start": 267.32,
-        "end": 267.4
+        "end": 267.42
       },
       {
         "text": "feel",
         "start": 267.44,
-        "end": 267.66
+        "end": 267.67
       },
       {
         "text": "aimed",
         "start": 267.74,
-        "end": 267.98
+        "end": 268.01
       },
       {
         "text": "at",
@@ -3876,28 +3876,28 @@
       },
       {
         "text": "teacher",
-        "start": 268.34,
-        "end": 269
+        "start": 268.3,
+        "end": 268.7
       },
       {
         "text": "instead",
         "start": 269.04,
-        "end": 269.29
+        "end": 269.28
       },
       {
         "text": "of",
-        "start": 269.3,
-        "end": 269.4
+        "start": 269.32,
+        "end": 269.51
       },
       {
         "text": "for",
-        "start": 269.52,
-        "end": 269.72
+        "start": 269.54,
+        "end": 269.76
       },
       {
         "text": "them.",
-        "start": 269.8,
-        "end": 269.98
+        "start": 269.82,
+        "end": 269.99
       }
     ]
   },
@@ -3911,22 +3911,22 @@
       {
         "text": "Yeah",
         "start": 270.8,
-        "end": 271.08
+        "end": 271.56
       },
       {
         "text": "—",
-        "start": 271.54,
-        "end": 271.541
+        "start": 271.57,
+        "end": 271.57099999999997
       },
       {
         "text": "I",
-        "start": 271.64,
-        "end": 271.66
+        "start": 271.7,
+        "end": 271.71
       },
       {
         "text": "take",
-        "start": 271.76,
-        "end": 271.9
+        "start": 271.74,
+        "end": 271.92
       },
       {
         "text": "that",
@@ -3935,78 +3935,78 @@
       },
       {
         "text": "seriously,",
-        "start": 272.16,
-        "end": 272.9
+        "start": 272.2,
+        "end": 272.88
       },
       {
         "text": "genuinely.",
-        "start": 273.5,
-        "end": 274.2
+        "start": 273.52,
+        "end": 274.9
       },
       {
         "text": "Every",
-        "start": 275,
-        "end": 275.29
+        "start": 275.02,
+        "end": 275.36
       },
       {
         "text": "bit",
         "start": 275.38,
-        "end": 275.5
+        "end": 275.51
       },
       {
         "text": "of",
         "start": 275.54,
-        "end": 275.62
+        "end": 275.65
       },
       {
         "text": "this",
-        "start": 275.68,
-        "end": 275.86
+        "start": 275.7,
+        "end": 275.87
       },
       {
         "text": "is",
         "start": 275.92,
-        "end": 276.06
+        "end": 276.07
       },
       {
         "text": "aimed",
         "start": 276.12,
-        "end": 276.34
+        "end": 276.35
       },
       {
         "text": "at",
-        "start": 276.36,
-        "end": 276.43
+        "start": 276.38,
+        "end": 276.469
       },
       {
         "text": "what",
         "start": 276.48,
-        "end": 276.56
+        "end": 276.58
       },
       {
         "text": "a",
-        "start": 276.62,
-        "end": 276.63
+        "start": 276.66,
+        "end": 276.7
       },
       {
         "text": "class",
         "start": 276.74,
-        "end": 277.18
+        "end": 277.2
       },
       {
         "text": "understood,",
-        "start": 277.22,
+        "start": 277.24,
         "end": 277.94
       },
       {
         "text": "not",
         "start": 278.38,
-        "end": 278.62
+        "end": 278.63
       },
       {
         "text": "who",
-        "start": 278.74,
-        "end": 278.88
+        "start": 278.76,
+        "end": 278.94
       },
       {
         "text": "taught",
@@ -4015,28 +4015,28 @@
       },
       {
         "text": "it",
-        "start": 279.3,
-        "end": 279.42
+        "start": 279.28,
+        "end": 279.46
       },
       {
         "text": "or",
-        "start": 279.46,
-        "end": 279.6
+        "start": 279.52,
+        "end": 279.59
       },
       {
         "text": "how.",
         "start": 279.68,
-        "end": 280
+        "end": 280.02
       },
       {
         "text": "And",
-        "start": 280.67,
+        "start": 280.66,
         "end": 280.78
       },
       {
         "text": "nobody's",
         "start": 280.82,
-        "end": 281.19
+        "end": 281.22
       },
       {
         "text": "required",
@@ -4100,13 +4100,13 @@
       },
       {
         "text": "not",
-        "start": 285,
+        "start": 285.02,
         "end": 285.31
       },
       {
         "text": "one",
         "start": 285.4,
-        "end": 285.49
+        "end": 285.52
       },
       {
         "text": "more",
@@ -4140,42 +4140,42 @@
       {
         "text": "So",
         "start": 288.2,
-        "end": 288.86
+        "end": 288.5
       },
       {
         "text": "it's",
         "start": 288.92,
-        "end": 289.01
+        "end": 289
       },
       {
         "text": "a",
-        "start": 289.04,
-        "end": 289.05
+        "start": 289.02,
+        "end": 289.06
       },
       {
         "text": "heads-up?",
-        "start": 289.1,
+        "start": 289.08,
         "end": 289.54
       },
       {
         "text": "Optional?",
-        "start": 290.04,
-        "end": 290.39
+        "start": 290.02,
+        "end": 290.38
       },
       {
         "text": "Nobody's",
-        "start": 290.95,
-        "end": 291.38
+        "start": 291,
+        "end": 291.36
       },
       {
         "text": "grading",
-        "start": 291.4,
-        "end": 291.67
+        "start": 291.38,
+        "end": 291.66
       },
       {
         "text": "the",
-        "start": 291.671,
-        "end": 291.76
+        "start": 291.67,
+        "end": 291.74
       },
       {
         "text": "teacher",
@@ -4198,12 +4198,12 @@
     "beat": "BEAT 4",
     "speaker": "ALEX",
     "text": "That's the shape of it, yeah. And honestly, it should save time, not add to the pile — fewer surprises means less scrambling to reteach something the week before a test.",
-    "start": 292.91,
-    "end": 304.88,
+    "start": 292.96,
+    "end": 304.24,
     "words": [
       {
         "text": "That's",
-        "start": 292.91,
+        "start": 292.96,
         "end": 293.18
       },
       {
@@ -4223,48 +4223,48 @@
       },
       {
         "text": "it,",
-        "start": 293.8,
-        "end": 293.91
+        "start": 293.78,
+        "end": 293.92
       },
       {
         "text": "yeah.",
         "start": 294.26,
-        "end": 294.55
+        "end": 294.54
       },
       {
         "text": "And",
         "start": 295.14,
-        "end": 295.29
+        "end": 295.28
       },
       {
         "text": "honestly,",
-        "start": 295.36,
-        "end": 296.12
+        "start": 295.3,
+        "end": 295.92
       },
       {
         "text": "it",
         "start": 296.16,
-        "end": 296.26
+        "end": 296.24
       },
       {
         "text": "should",
-        "start": 296.3,
-        "end": 296.53
+        "start": 296.28,
+        "end": 296.46
       },
       {
         "text": "save",
         "start": 296.64,
-        "end": 296.96
+        "end": 296.92
       },
       {
         "text": "time,",
         "start": 297,
-        "end": 297.58
+        "end": 297.36
       },
       {
         "text": "not",
         "start": 297.62,
-        "end": 297.87
+        "end": 297.84
       },
       {
         "text": "add",
@@ -4278,8 +4278,8 @@
       },
       {
         "text": "the",
-        "start": 298.26,
-        "end": 298.34
+        "start": 298.24,
+        "end": 298.29
       },
       {
         "text": "pile",
@@ -4288,37 +4288,37 @@
       },
       {
         "text": "—",
-        "start": 299.46,
-        "end": 299.46099999999996
+        "start": 299.36,
+        "end": 299.361
       },
       {
         "text": "fewer",
         "start": 299.5,
-        "end": 299.76
+        "end": 299.82
       },
       {
         "text": "surprises",
-        "start": 299.88,
+        "start": 299.84,
         "end": 300.54
       },
       {
         "text": "means",
         "start": 300.6,
-        "end": 301.02
+        "end": 301.03
       },
       {
         "text": "less",
         "start": 301.08,
-        "end": 301.3
+        "end": 301.32
       },
       {
         "text": "scrambling",
-        "start": 301.31,
-        "end": 301.92
+        "start": 301.33,
+        "end": 301.93
       },
       {
         "text": "to",
-        "start": 301.93,
+        "start": 301.931,
         "end": 302.08
       },
       {
@@ -4329,32 +4329,32 @@
       {
         "text": "something",
         "start": 302.6,
-        "end": 302.96
+        "end": 302.969
       },
       {
         "text": "the",
         "start": 303,
-        "end": 303.06
+        "end": 303.08
       },
       {
         "text": "week",
         "start": 303.1,
-        "end": 303.28
+        "end": 303.3
       },
       {
         "text": "before",
         "start": 303.32,
-        "end": 303.58
+        "end": 303.59
       },
       {
         "text": "a",
         "start": 303.62,
-        "end": 303.68
+        "end": 303.7
       },
       {
         "text": "test.",
         "start": 303.74,
-        "end": 304.88
+        "end": 304.24
       }
     ]
   },
@@ -4362,18 +4362,18 @@
     "beat": "BEAT 4",
     "speaker": "DEV",
     "text": "And a school board looks at the same information and sees... what exactly?",
-    "start": 304.98,
-    "end": 309.74,
+    "start": 304.91,
+    "end": 309.78,
     "words": [
       {
         "text": "And",
-        "start": 304.98,
-        "end": 305.34
+        "start": 304.91,
+        "end": 305.35
       },
       {
         "text": "a",
-        "start": 305.4,
-        "end": 305.48
+        "start": 305.48,
+        "end": 305.49
       },
       {
         "text": "school",
@@ -4393,7 +4393,7 @@
       {
         "text": "at",
         "start": 306.38,
-        "end": 306.43
+        "end": 306.45
       },
       {
         "text": "the",
@@ -4403,7 +4403,7 @@
       {
         "text": "same",
         "start": 306.6,
-        "end": 306.8
+        "end": 306.82
       },
       {
         "text": "information",
@@ -4412,23 +4412,23 @@
       },
       {
         "text": "and",
-        "start": 307.44,
+        "start": 307.46,
         "end": 307.63
       },
       {
         "text": "sees...",
         "start": 307.68,
-        "end": 308.9
+        "end": 308.74
       },
       {
         "text": "what",
-        "start": 308.96,
-        "end": 309.28
+        "start": 308.91,
+        "end": 309.26
       },
       {
         "text": "exactly?",
         "start": 309.32,
-        "end": 309.74
+        "end": 309.78
       }
     ]
   },
@@ -4436,27 +4436,27 @@
     "beat": "BEAT 4",
     "speaker": "ALEX",
     "text": "Which concepts aren't landing, across a whole grade, before it shows up on a provincial assessment. That moves it out of just one classroom — which can help future planning, for a whole grade.",
-    "start": 310.6,
+    "start": 310.58,
     "end": 322.74,
     "words": [
       {
         "text": "Which",
-        "start": 310.6,
-        "end": 310.8
+        "start": 310.58,
+        "end": 310.86
       },
       {
         "text": "concepts",
-        "start": 310.86,
+        "start": 310.92,
         "end": 311.44
       },
       {
         "text": "aren't",
         "start": 311.58,
-        "end": 311.8
+        "end": 311.84
       },
       {
         "text": "landing,",
-        "start": 311.88,
+        "start": 311.9,
         "end": 312.41
       },
       {
@@ -4466,32 +4466,32 @@
       },
       {
         "text": "a",
-        "start": 313.12,
+        "start": 313.14,
         "end": 313.18
       },
       {
         "text": "whole",
-        "start": 313.24,
-        "end": 313.44
+        "start": 313.26,
+        "end": 313.5
       },
       {
         "text": "grade,",
-        "start": 313.52,
-        "end": 313.92
+        "start": 313.54,
+        "end": 313.93
       },
       {
         "text": "before",
         "start": 314.34,
-        "end": 314.72
+        "end": 314.73
       },
       {
         "text": "it",
-        "start": 314.76,
+        "start": 314.78,
         "end": 314.86
       },
       {
         "text": "shows",
-        "start": 314.88,
+        "start": 314.9,
         "end": 315.14
       },
       {
@@ -4502,31 +4502,31 @@
       {
         "text": "on",
         "start": 315.4,
-        "end": 315.46
+        "end": 315.469
       },
       {
         "text": "a",
-        "start": 315.5,
+        "start": 315.52,
         "end": 315.56
       },
       {
         "text": "provincial",
-        "start": 315.58,
-        "end": 315.96
+        "start": 315.6,
+        "end": 315.969
       },
       {
         "text": "assessment.",
         "start": 316.02,
-        "end": 316.68
+        "end": 316.61
       },
       {
         "text": "That",
-        "start": 317.38,
+        "start": 317.33,
         "end": 317.54
       },
       {
         "text": "moves",
-        "start": 317.56,
+        "start": 317.58,
         "end": 317.78
       },
       {
@@ -4546,13 +4546,13 @@
       },
       {
         "text": "just",
-        "start": 318.28,
-        "end": 318.48
+        "start": 318.3,
+        "end": 318.58
       },
       {
         "text": "one",
         "start": 318.62,
-        "end": 318.82
+        "end": 318.76
       },
       {
         "text": "classroom",
@@ -4561,12 +4561,12 @@
       },
       {
         "text": "—",
-        "start": 319.58,
-        "end": 319.58099999999996
+        "start": 320.02,
+        "end": 320.02099999999996
       },
       {
         "text": "which",
-        "start": 320.04,
+        "start": 320.06,
         "end": 320.18
       },
       {
@@ -4577,12 +4577,12 @@
       {
         "text": "help",
         "start": 320.36,
-        "end": 320.52
+        "end": 320.56
       },
       {
         "text": "future",
-        "start": 320.58,
-        "end": 320.9
+        "start": 320.62,
+        "end": 320.89
       },
       {
         "text": "planning,",
@@ -4602,11 +4602,11 @@
       {
         "text": "whole",
         "start": 321.96,
-        "end": 322.18
+        "end": 322.26
       },
       {
         "text": "grade.",
-        "start": 322.28,
+        "start": 322.3,
         "end": 322.74
       }
     ]
@@ -4615,23 +4615,23 @@
     "beat": "BEAT 4",
     "speaker": "DEV",
     "text": "Which is probably the version a Ministry actually wants to see. Not \"kids like it more\" — but \"here's where the gaps are, earlier than you'd otherwise know.\"",
-    "start": 323.4,
-    "end": 333.16,
+    "start": 323.42,
+    "end": 333.08,
     "words": [
       {
         "text": "Which",
-        "start": 323.4,
+        "start": 323.42,
         "end": 323.7
       },
       {
         "text": "is",
-        "start": 323.78,
-        "end": 324
+        "start": 323.8,
+        "end": 324.01
       },
       {
         "text": "probably",
         "start": 324.08,
-        "end": 324.62
+        "end": 324.65
       },
       {
         "text": "the",
@@ -4640,8 +4640,8 @@
       },
       {
         "text": "version",
-        "start": 324.78,
-        "end": 325.12
+        "start": 324.76,
+        "end": 325.18
       },
       {
         "text": "a",
@@ -4650,38 +4650,38 @@
       },
       {
         "text": "Ministry",
-        "start": 325.34,
-        "end": 325.74
+        "start": 325.36,
+        "end": 325.88
       },
       {
         "text": "actually",
-        "start": 325.96,
-        "end": 326.26
+        "start": 325.98,
+        "end": 326.3
       },
       {
         "text": "wants",
         "start": 326.34,
-        "end": 326.52
+        "end": 326.54
       },
       {
         "text": "to",
         "start": 326.58,
-        "end": 326.66
+        "end": 326.68
       },
       {
         "text": "see.",
         "start": 326.72,
-        "end": 326.96
+        "end": 326.94
       },
       {
         "text": "Not",
-        "start": 327.56,
-        "end": 327.76
+        "start": 327.6,
+        "end": 327.75
       },
       {
         "text": "\"kids",
-        "start": 328.04,
-        "end": 328.34
+        "start": 328.06,
+        "end": 328.36
       },
       {
         "text": "like",
@@ -4691,72 +4691,72 @@
       {
         "text": "it",
         "start": 328.56,
-        "end": 328.66
+        "end": 328.62
       },
       {
         "text": "more\"",
-        "start": 328.72,
+        "start": 328.64,
         "end": 328.93
       },
       {
         "text": "—",
-        "start": 329.03,
-        "end": 329.03099999999995
+        "start": 329.33,
+        "end": 329.33099999999996
       },
       {
         "text": "but",
-        "start": 329.36,
-        "end": 329.54
+        "start": 329.34,
+        "end": 329.92
       },
       {
         "text": "\"here's",
-        "start": 329.86,
-        "end": 330.24
+        "start": 329.93,
+        "end": 330.25
       },
       {
         "text": "where",
-        "start": 330.26,
-        "end": 330.34
+        "start": 330.28,
+        "end": 330.36
       },
       {
         "text": "the",
-        "start": 330.36,
-        "end": 330.43
+        "start": 330.4,
+        "end": 330.48
       },
       {
         "text": "gaps",
         "start": 330.52,
-        "end": 330.78
+        "end": 330.8
       },
       {
         "text": "are,",
-        "start": 330.86,
-        "end": 331
+        "start": 330.88,
+        "end": 331.01
       },
       {
         "text": "earlier",
-        "start": 331.48,
-        "end": 331.9
+        "start": 331.5,
+        "end": 332
       },
       {
         "text": "than",
-        "start": 332.02,
-        "end": 332.12
+        "start": 332.04,
+        "end": 332.14
       },
       {
         "text": "you'd",
         "start": 332.16,
-        "end": 332.26
+        "end": 332.31
       },
       {
         "text": "otherwise",
         "start": 332.36,
-        "end": 332.82
+        "end": 332.83
       },
       {
         "text": "know.\"",
-        "start": 332.84,
-        "end": 333.16
+        "start": 332.88,
+        "end": 333.08
       }
     ]
   },
@@ -4770,22 +4770,22 @@
       {
         "text": "Uh...",
         "start": 333.92,
-        "end": 334.1
+        "end": 334.26
       },
       {
         "text": "can",
-        "start": 334.3,
-        "end": 334.4
+        "start": 334.32,
+        "end": 334.42
       },
       {
         "text": "I",
-        "start": 334.54,
-        "end": 334.72
+        "start": 334.74,
+        "end": 334.75
       },
       {
         "text": "bring",
         "start": 334.78,
-        "end": 334.92
+        "end": 334.98
       },
       {
         "text": "something",
@@ -4794,78 +4794,78 @@
       },
       {
         "text": "up?",
-        "start": 335.4,
+        "start": 335.34,
         "end": 335.61
       },
       {
         "text": "It's",
-        "start": 336.28,
-        "end": 336.44
+        "start": 336.26,
+        "end": 336.45
       },
       {
         "text": "not",
-        "start": 336.48,
-        "end": 336.86
+        "start": 336.52,
+        "end": 336.93
       },
       {
         "text": "fully",
         "start": 336.96,
-        "end": 337.21
+        "end": 337.31
       },
       {
         "text": "built",
-        "start": 337.3,
-        "end": 337.5
+        "start": 337.32,
+        "end": 337.54
       },
       {
         "text": "yet,",
         "start": 337.58,
-        "end": 337.74
+        "end": 337.73
       },
       {
         "text": "but",
-        "start": 337.9,
-        "end": 338.22
+        "start": 337.88,
+        "end": 338.25
       },
       {
         "text": "it's",
         "start": 338.28,
-        "end": 338.38
+        "end": 338.37
       },
       {
         "text": "on",
-        "start": 338.44,
-        "end": 338.5
+        "start": 338.42,
+        "end": 338.51
       },
       {
         "text": "the",
         "start": 338.54,
-        "end": 338.62
+        "end": 338.6
       },
       {
         "text": "roadmap,",
-        "start": 338.66,
+        "start": 338.65,
         "end": 339.18
       },
       {
         "text": "and",
         "start": 339.24,
-        "end": 339.4
+        "end": 339.67
       },
       {
         "text": "I",
-        "start": 339.74,
-        "end": 339.8
+        "start": 339.82,
+        "end": 339.83
       },
       {
         "text": "think",
-        "start": 339.82,
-        "end": 340
+        "start": 339.86,
+        "end": 340.02
       },
       {
         "text": "about",
         "start": 340.08,
-        "end": 340.24
+        "end": 340.25
       },
       {
         "text": "it",
@@ -4874,8 +4874,8 @@
       },
       {
         "text": "a",
-        "start": 340.38,
-        "end": 340.42
+        "start": 340.4,
+        "end": 340.41
       },
       {
         "text": "lot.",
@@ -4889,22 +4889,22 @@
     "speaker": "DEV",
     "text": "Go for it.",
     "start": 341.48,
-    "end": 341.88,
+    "end": 342.6,
     "words": [
       {
         "text": "Go",
         "start": 341.48,
-        "end": 341.54
+        "end": 341.6
       },
       {
         "text": "for",
-        "start": 341.62,
-        "end": 341.7
+        "start": 341.64,
+        "end": 341.72
       },
       {
         "text": "it.",
         "start": 341.76,
-        "end": 341.88
+        "end": 342.6
       }
     ]
   },
@@ -4912,13 +4912,13 @@
     "beat": "BEAT 5",
     "speaker": "ALEX",
     "text": "Long breaks. Summer's the big one — kids lose real ground over it. It's one of the more consistently replicated findings in education research — going back decades. A chunk of learning, just gone, by September.",
-    "start": 342.74,
-    "end": 356.969,
+    "start": 342.76,
+    "end": 356.98,
     "words": [
       {
         "text": "Long",
-        "start": 342.74,
-        "end": 343.14
+        "start": 342.76,
+        "end": 343.26
       },
       {
         "text": "breaks.",
@@ -4927,28 +4927,28 @@
       },
       {
         "text": "Summer's",
-        "start": 344.6,
-        "end": 344.92
+        "start": 344.62,
+        "end": 344.93
       },
       {
         "text": "the",
-        "start": 344.94,
-        "end": 344.99
+        "start": 344.96,
+        "end": 345.04
       },
       {
         "text": "big",
         "start": 345.06,
-        "end": 345.2
+        "end": 345.22
       },
       {
         "text": "one",
         "start": 345.26,
-        "end": 345.46
+        "end": 345.45
       },
       {
         "text": "—",
-        "start": 345.9,
-        "end": 345.90099999999995
+        "start": 345.92,
+        "end": 345.921
       },
       {
         "text": "kids",
@@ -4957,18 +4957,18 @@
       },
       {
         "text": "lose",
-        "start": 346.28,
-        "end": 346.5
+        "start": 346.3,
+        "end": 346.66
       },
       {
         "text": "real",
         "start": 346.72,
-        "end": 346.98
+        "end": 347.07
       },
       {
         "text": "ground",
         "start": 347.08,
-        "end": 347.4
+        "end": 347.41
       },
       {
         "text": "over",
@@ -4978,32 +4978,32 @@
       {
         "text": "it.",
         "start": 347.72,
-        "end": 347.88
+        "end": 348.36
       },
       {
         "text": "It's",
         "start": 348.38,
-        "end": 348.48
+        "end": 348.51
       },
       {
         "text": "one",
-        "start": 348.54,
-        "end": 348.62
+        "start": 348.56,
+        "end": 348.63
       },
       {
         "text": "of",
         "start": 348.66,
-        "end": 348.72
+        "end": 348.75
       },
       {
         "text": "the",
         "start": 348.76,
-        "end": 348.82
+        "end": 348.8
       },
       {
         "text": "more",
-        "start": 348.84,
-        "end": 349.04
+        "start": 348.9,
+        "end": 349
       },
       {
         "text": "consistently",
@@ -5012,8 +5012,8 @@
       },
       {
         "text": "replicated",
-        "start": 349.8,
-        "end": 350.38
+        "start": 349.84,
+        "end": 350.32
       },
       {
         "text": "findings",
@@ -5023,17 +5023,17 @@
       {
         "text": "in",
         "start": 350.84,
-        "end": 350.92
+        "end": 350.9
       },
       {
         "text": "education",
         "start": 350.96,
-        "end": 351.46
+        "end": 351.42
       },
       {
         "text": "research",
-        "start": 351.48,
-        "end": 351.96
+        "start": 351.5,
+        "end": 351.98
       },
       {
         "text": "—",
@@ -5043,7 +5043,7 @@
       {
         "text": "going",
         "start": 352.32,
-        "end": 352.53
+        "end": 352.52
       },
       {
         "text": "back",
@@ -5053,47 +5053,47 @@
       {
         "text": "decades.",
         "start": 352.8,
-        "end": 353.33
+        "end": 353.36
       },
       {
         "text": "A",
-        "start": 354.1,
-        "end": 354.11
+        "start": 354,
+        "end": 354.02
       },
       {
         "text": "chunk",
         "start": 354.2,
-        "end": 354.5
+        "end": 354.48
       },
       {
         "text": "of",
         "start": 354.54,
-        "end": 354.64
+        "end": 354.61
       },
       {
         "text": "learning,",
         "start": 354.68,
-        "end": 355.3
+        "end": 355.07
       },
       {
         "text": "just",
-        "start": 355.4,
-        "end": 355.73
+        "start": 355.36,
+        "end": 355.72
       },
       {
         "text": "gone,",
         "start": 355.78,
-        "end": 356.24
+        "end": 356.16
       },
       {
         "text": "by",
         "start": 356.26,
-        "end": 356.4
+        "end": 356.35
       },
       {
         "text": "September.",
-        "start": 356.44,
-        "end": 356.969
+        "start": 356.42,
+        "end": 356.98
       }
     ]
   },
@@ -5101,13 +5101,13 @@
     "beat": "BEAT 5",
     "speaker": "DEV",
     "text": "Right — and nothing's really checking in during that stretch.",
-    "start": 357.74,
-    "end": 361.25,
+    "start": 357.76,
+    "end": 361.26,
     "words": [
       {
         "text": "Right",
-        "start": 357.74,
-        "end": 357.95
+        "start": 357.76,
+        "end": 358.36
       },
       {
         "text": "—",
@@ -5116,18 +5116,18 @@
       },
       {
         "text": "and",
-        "start": 358.46,
-        "end": 358.95
+        "start": 358.44,
+        "end": 358.62
       },
       {
         "text": "nothing's",
         "start": 358.98,
-        "end": 359.39
+        "end": 359.38
       },
       {
         "text": "really",
         "start": 359.42,
-        "end": 359.79
+        "end": 359.78
       },
       {
         "text": "checking",
@@ -5136,23 +5136,23 @@
       },
       {
         "text": "in",
-        "start": 360.13,
+        "start": 360.2,
         "end": 360.5
       },
       {
         "text": "during",
-        "start": 360.51,
+        "start": 360.54,
         "end": 360.73
       },
       {
         "text": "that",
-        "start": 360.731,
+        "start": 360.78,
         "end": 360.91
       },
       {
         "text": "stretch.",
         "start": 360.96,
-        "end": 361.25
+        "end": 361.26
       }
     ]
   },
@@ -5191,7 +5191,7 @@
       {
         "text": "same",
         "start": 364.76,
-        "end": 365.02
+        "end": 365.04
       },
       {
         "text": "format,",
@@ -5206,12 +5206,12 @@
       {
         "text": "short",
         "start": 366.26,
-        "end": 366.5
+        "end": 366.46
       },
       {
         "text": "episodes,",
         "start": 366.56,
-        "end": 367.15
+        "end": 367.16
       },
       {
         "text": "aimed",
@@ -5225,32 +5225,32 @@
       },
       {
         "text": "a",
-        "start": 368.42,
-        "end": 368.43
+        "start": 368.26,
+        "end": 368.42
       },
       {
         "text": "different",
         "start": 368.46,
-        "end": 368.86
+        "end": 368.82
       },
       {
         "text": "six",
         "start": 368.9,
-        "end": 369.14
+        "end": 369.06
       },
       {
         "text": "weeks.",
         "start": 369.18,
-        "end": 370.06
+        "end": 369.52
       },
       {
         "text": "Not",
-        "start": 370.1,
-        "end": 370.27
+        "start": 370.08,
+        "end": 370.3
       },
       {
         "text": "schoolwork.",
-        "start": 370.36,
+        "start": 370.32,
         "end": 370.98
       },
       {
@@ -5280,7 +5280,7 @@
     "speaker": "DEV",
     "text": "Staying warm. Huh — I like that.",
     "start": 373.98,
-    "end": 376.78,
+    "end": 376.82,
     "words": [
       {
         "text": "Staying",
@@ -5315,7 +5315,7 @@
       {
         "text": "that.",
         "start": 376.6,
-        "end": 376.78
+        "end": 376.82
       }
     ]
   },
@@ -5324,7 +5324,7 @@
     "speaker": "ALEX",
     "text": "Again, this is not fully built out yet — I want to be upfront about that. But there's a second piece of it I like even more: using it before the next school year starts. Short episodes on what's coming in September, so a kid walks in already having heard the shape of it at least once.",
     "start": 377.66,
-    "end": 395.92,
+    "end": 396.62,
     "words": [
       {
         "text": "Again,",
@@ -5358,12 +5358,12 @@
       },
       {
         "text": "out",
-        "start": 379.58,
-        "end": 379.72
+        "start": 379.56,
+        "end": 379.7
       },
       {
         "text": "yet",
-        "start": 379.78,
+        "start": 379.76,
         "end": 379.96
       },
       {
@@ -5389,27 +5389,27 @@
       {
         "text": "be",
         "start": 380.68,
-        "end": 380.78
+        "end": 380.72
       },
       {
         "text": "upfront",
-        "start": 380.86,
+        "start": 380.8,
         "end": 381.08
       },
       {
         "text": "about",
-        "start": 381.09,
+        "start": 381.12,
         "end": 381.34
       },
       {
         "text": "that.",
         "start": 381.4,
-        "end": 381.6
+        "end": 381.64
       },
       {
         "text": "But",
         "start": 382.22,
-        "end": 382.31
+        "end": 382.3
       },
       {
         "text": "there's",
@@ -5419,12 +5419,12 @@
       {
         "text": "a",
         "start": 382.54,
-        "end": 382.66
+        "end": 382.64
       },
       {
         "text": "second",
         "start": 382.72,
-        "end": 383.05
+        "end": 383.04
       },
       {
         "text": "piece",
@@ -5434,17 +5434,17 @@
       {
         "text": "of",
         "start": 383.3,
-        "end": 383.36
+        "end": 383.34
       },
       {
         "text": "it",
-        "start": 383.42,
-        "end": 383.49
+        "start": 383.4,
+        "end": 383.48
       },
       {
         "text": "I",
-        "start": 383.66,
-        "end": 383.67
+        "start": 383.6,
+        "end": 383.66
       },
       {
         "text": "like",
@@ -5458,13 +5458,13 @@
       },
       {
         "text": "more:",
-        "start": 384.46,
-        "end": 384.75
+        "start": 384.48,
+        "end": 384.76
       },
       {
         "text": "using",
-        "start": 385.6,
-        "end": 385.89
+        "start": 385.62,
+        "end": 385.88
       },
       {
         "text": "it",
@@ -5474,17 +5474,17 @@
       {
         "text": "before",
         "start": 386.16,
-        "end": 386.46
+        "end": 386.44
       },
       {
         "text": "the",
         "start": 386.5,
-        "end": 386.64
+        "end": 386.58
       },
       {
         "text": "next",
         "start": 386.72,
-        "end": 387.02
+        "end": 387.1
       },
       {
         "text": "school",
@@ -5494,27 +5494,27 @@
       {
         "text": "year",
         "start": 387.5,
-        "end": 387.66
+        "end": 387.68
       },
       {
         "text": "starts.",
         "start": 387.8,
-        "end": 388.17
+        "end": 388.22
       },
       {
         "text": "Short",
-        "start": 388.93,
+        "start": 389,
         "end": 389.24
       },
       {
         "text": "episodes",
         "start": 389.34,
-        "end": 389.95
+        "end": 389.94
       },
       {
         "text": "on",
         "start": 389.98,
-        "end": 390.13
+        "end": 390.18
       },
       {
         "text": "what's",
@@ -5523,12 +5523,12 @@
       },
       {
         "text": "coming",
-        "start": 390.54,
-        "end": 390.74
+        "start": 390.51,
+        "end": 390.8
       },
       {
         "text": "in",
-        "start": 390.84,
+        "start": 390.82,
         "end": 390.94
       },
       {
@@ -5539,12 +5539,12 @@
       {
         "text": "so",
         "start": 392.04,
-        "end": 392.12
+        "end": 392.14
       },
       {
         "text": "a",
         "start": 392.18,
-        "end": 392.24
+        "end": 392.26
       },
       {
         "text": "kid",
@@ -5553,28 +5553,28 @@
       },
       {
         "text": "walks",
-        "start": 392.54,
+        "start": 392.52,
         "end": 392.8
       },
       {
         "text": "in",
         "start": 392.88,
-        "end": 393.18
+        "end": 393.21
       },
       {
         "text": "already",
         "start": 393.28,
-        "end": 393.62
+        "end": 393.63
       },
       {
         "text": "having",
         "start": 393.72,
-        "end": 393.94
+        "end": 393.95
       },
       {
         "text": "heard",
         "start": 394,
-        "end": 394.26
+        "end": 394.28
       },
       {
         "text": "the",
@@ -5589,7 +5589,7 @@
       {
         "text": "of",
         "start": 394.7,
-        "end": 394.76
+        "end": 394.77
       },
       {
         "text": "it",
@@ -5599,7 +5599,7 @@
       {
         "text": "at",
         "start": 395.06,
-        "end": 395.14
+        "end": 395.15
       },
       {
         "text": "least",
@@ -5609,7 +5609,7 @@
       {
         "text": "once.",
         "start": 395.58,
-        "end": 395.92
+        "end": 396.62
       }
     ]
   },
@@ -5617,13 +5617,13 @@
     "beat": "BEAT 5",
     "speaker": "DEV",
     "text": "Yeah — instead of it just landing on them cold in week one.",
-    "start": 396.72,
+    "start": 396.74,
     "end": 400.08,
     "words": [
       {
         "text": "Yeah",
-        "start": 396.72,
-        "end": 397.26
+        "start": 396.74,
+        "end": 397.27
       },
       {
         "text": "—",
@@ -5638,7 +5638,7 @@
       {
         "text": "of",
         "start": 397.56,
-        "end": 397.62
+        "end": 397.63
       },
       {
         "text": "it",
@@ -5648,7 +5648,7 @@
       {
         "text": "just",
         "start": 397.84,
-        "end": 398.1
+        "end": 398.11
       },
       {
         "text": "landing",
@@ -5663,12 +5663,12 @@
       {
         "text": "them",
         "start": 398.66,
-        "end": 398.79
+        "end": 398.86
       },
       {
         "text": "cold",
         "start": 398.94,
-        "end": 399.46
+        "end": 399.33
       },
       {
         "text": "in",
@@ -5677,8 +5677,8 @@
       },
       {
         "text": "week",
-        "start": 399.62,
-        "end": 399.74
+        "start": 399.6,
+        "end": 399.78
       },
       {
         "text": "one.",
@@ -5691,17 +5691,17 @@
     "beat": "BEAT 5",
     "speaker": "ALEX",
     "text": "Right. I know I would've liked that. Just — softening the landing a little.",
-    "start": 400.66,
-    "end": 405.63,
+    "start": 400.62,
+    "end": 405.66,
     "words": [
       {
         "text": "Right.",
-        "start": 400.66,
-        "end": 401
+        "start": 400.62,
+        "end": 400.98
       },
       {
         "text": "I",
-        "start": 401.62,
+        "start": 401.64,
         "end": 401.68
       },
       {
@@ -5731,7 +5731,7 @@
       },
       {
         "text": "Just",
-        "start": 403.5,
+        "start": 403.48,
         "end": 403.76
       },
       {
@@ -5746,8 +5746,8 @@
       },
       {
         "text": "the",
-        "start": 404.84,
-        "end": 404.9
+        "start": 404.82,
+        "end": 404.88
       },
       {
         "text": "landing",
@@ -5756,13 +5756,13 @@
       },
       {
         "text": "a",
-        "start": 405.34,
+        "start": 405.32,
         "end": 405.36
       },
       {
         "text": "little.",
         "start": 405.4,
-        "end": 405.63
+        "end": 405.66
       }
     ]
   },
@@ -5770,23 +5770,23 @@
     "beat": "BEAT 5",
     "speaker": "DEV",
     "text": "That whole summer stretch — the weeks that do the most damage are also the weeks nobody's paying attention to.",
-    "start": 406.4,
-    "end": 412.56,
+    "start": 406.44,
+    "end": 412.55,
     "words": [
       {
         "text": "That",
-        "start": 406.4,
+        "start": 406.44,
         "end": 406.58
       },
       {
         "text": "whole",
         "start": 406.66,
-        "end": 406.92
+        "end": 406.86
       },
       {
         "text": "summer",
         "start": 406.96,
-        "end": 407.2
+        "end": 407.14
       },
       {
         "text": "stretch",
@@ -5800,62 +5800,62 @@
       },
       {
         "text": "the",
-        "start": 408.18,
+        "start": 408.16,
         "end": 408.22
       },
       {
         "text": "weeks",
         "start": 408.28,
-        "end": 408.52
+        "end": 408.48
       },
       {
         "text": "that",
         "start": 408.54,
-        "end": 408.64
+        "end": 408.62
       },
       {
         "text": "do",
         "start": 408.66,
-        "end": 408.76
+        "end": 408.72
       },
       {
         "text": "the",
-        "start": 408.8,
+        "start": 408.78,
         "end": 408.9
       },
       {
         "text": "most",
         "start": 408.96,
-        "end": 409.34
+        "end": 409.24
       },
       {
         "text": "damage",
-        "start": 409.38,
-        "end": 409.8
+        "start": 409.34,
+        "end": 410
       },
       {
         "text": "are",
-        "start": 410.04,
+        "start": 410.01,
         "end": 410.26
       },
       {
         "text": "also",
         "start": 410.34,
-        "end": 410.56
+        "end": 410.57
       },
       {
         "text": "the",
         "start": 410.58,
-        "end": 410.62
+        "end": 410.64
       },
       {
         "text": "weeks",
-        "start": 410.72,
-        "end": 410.95
+        "start": 410.68,
+        "end": 411.12
       },
       {
         "text": "nobody's",
-        "start": 411.12,
+        "start": 411.2,
         "end": 411.68
       },
       {
@@ -5866,12 +5866,12 @@
       {
         "text": "attention",
         "start": 411.96,
-        "end": 412.33
+        "end": 412.35
       },
       {
         "text": "to.",
         "start": 412.38,
-        "end": 412.56
+        "end": 412.55
       }
     ]
   },
@@ -5880,7 +5880,7 @@
     "speaker": "ALEX",
     "text": "That's the whole idea.",
     "start": 413.3,
-    "end": 414.28,
+    "end": 415.12,
     "words": [
       {
         "text": "That's",
@@ -5900,7 +5900,7 @@
       {
         "text": "idea.",
         "start": 413.88,
-        "end": 414.28
+        "end": 415.12
       }
     ]
   },
@@ -5919,11 +5919,11 @@
       {
         "text": "where's",
         "start": 415.52,
-        "end": 415.68
+        "end": 415.7
       },
       {
         "text": "this",
-        "start": 415.72,
+        "start": 415.74,
         "end": 415.87
       },
       {
@@ -5934,12 +5934,12 @@
       {
         "text": "at",
         "start": 416.34,
-        "end": 416.47
+        "end": 416.5
       },
       {
         "text": "right",
         "start": 416.58,
-        "end": 416.68
+        "end": 416.69
       },
       {
         "text": "now.",
@@ -5954,17 +5954,17 @@
       {
         "text": "or",
         "start": 417.94,
-        "end": 418.27
+        "end": 418.26
       },
       {
         "text": "does",
-        "start": 418.3,
+        "start": 418.32,
         "end": 418.4
       },
       {
         "text": "it",
         "start": 418.42,
-        "end": 418.48
+        "end": 418.49
       },
       {
         "text": "exist?",
@@ -5977,12 +5977,12 @@
     "beat": "BEAT 6",
     "speaker": "ALEX",
     "text": "It exists. We built a full example in this exact format — real audio, a real quiz at the end — for an actual eighth-grade science topic.",
-    "start": 419.64,
-    "end": 429.48,
+    "start": 419.66,
+    "end": 429.47,
     "words": [
       {
         "text": "It",
-        "start": 419.64,
+        "start": 419.66,
         "end": 419.72
       },
       {
@@ -5997,28 +5997,28 @@
       },
       {
         "text": "built",
-        "start": 421.14,
-        "end": 421.34
+        "start": 421.16,
+        "end": 421.35
       },
       {
         "text": "a",
         "start": 421.44,
-        "end": 421.46
+        "end": 421.62
       },
       {
         "text": "full",
-        "start": 421.66,
-        "end": 421.88
+        "start": 421.68,
+        "end": 421.93
       },
       {
         "text": "example",
-        "start": 421.94,
+        "start": 421.96,
         "end": 422.46
       },
       {
         "text": "in",
         "start": 422.52,
-        "end": 422.58
+        "end": 422.59
       },
       {
         "text": "this",
@@ -6028,17 +6028,17 @@
       {
         "text": "exact",
         "start": 422.8,
-        "end": 423.28
+        "end": 423.34
       },
       {
         "text": "format",
         "start": 423.4,
-        "end": 423.78
+        "end": 423.77
       },
       {
         "text": "—",
-        "start": 424.34,
-        "end": 424.34099999999995
+        "start": 424.38,
+        "end": 424.381
       },
       {
         "text": "real",
@@ -6048,27 +6048,27 @@
       {
         "text": "audio,",
         "start": 424.76,
-        "end": 425.16
+        "end": 425.14
       },
       {
         "text": "a",
-        "start": 425.48,
-        "end": 425.52
+        "start": 425.5,
+        "end": 425.51
       },
       {
         "text": "real",
-        "start": 425.62,
-        "end": 425.84
+        "start": 425.64,
+        "end": 425.9
       },
       {
         "text": "quiz",
-        "start": 425.94,
+        "start": 425.96,
         "end": 426.14
       },
       {
         "text": "at",
-        "start": 426.18,
-        "end": 426.26
+        "start": 426.2,
+        "end": 426.27
       },
       {
         "text": "the",
@@ -6077,18 +6077,18 @@
       },
       {
         "text": "end",
-        "start": 426.44,
-        "end": 426.68
+        "start": 426.46,
+        "end": 427.14
       },
       {
         "text": "—",
-        "start": 427.12,
-        "end": 427.121
+        "start": 427.15,
+        "end": 427.15099999999995
       },
       {
         "text": "for",
         "start": 427.18,
-        "end": 427.26
+        "end": 427.29
       },
       {
         "text": "an",
@@ -6098,7 +6098,7 @@
       {
         "text": "actual",
         "start": 427.58,
-        "end": 428.04
+        "end": 428.07
       },
       {
         "text": "eighth-grade",
@@ -6108,12 +6108,12 @@
       {
         "text": "science",
         "start": 428.64,
-        "end": 428.98
+        "end": 429.02
       },
       {
         "text": "topic.",
-        "start": 429.06,
-        "end": 429.48
+        "start": 429.04,
+        "end": 429.47
       }
     ]
   },
@@ -6122,7 +6122,7 @@
     "speaker": "DEV",
     "text": "Actually built, or is this the part where it turns out to be a mockup?",
     "start": 430.16,
-    "end": 433.9,
+    "end": 433.91,
     "words": [
       {
         "text": "Actually",
@@ -6132,12 +6132,12 @@
       {
         "text": "built,",
         "start": 430.56,
-        "end": 430.8
+        "end": 430.81
       },
       {
         "text": "or",
-        "start": 431.08,
-        "end": 431.52
+        "start": 431.1,
+        "end": 431.54
       },
       {
         "text": "is",
@@ -6146,38 +6146,38 @@
       },
       {
         "text": "this",
-        "start": 431.68,
-        "end": 431.8
+        "start": 431.7,
+        "end": 431.79
       },
       {
         "text": "the",
-        "start": 431.81,
-        "end": 431.88
+        "start": 431.84,
+        "end": 431.9
       },
       {
         "text": "part",
         "start": 431.94,
-        "end": 432.16
+        "end": 432.18
       },
       {
         "text": "where",
-        "start": 432.18,
-        "end": 432.29
+        "start": 432.2,
+        "end": 432.3
       },
       {
         "text": "it",
-        "start": 432.3,
-        "end": 432.42
+        "start": 432.31,
+        "end": 432.44
       },
       {
         "text": "turns",
         "start": 432.48,
-        "end": 432.68
+        "end": 432.69
       },
       {
         "text": "out",
         "start": 432.74,
-        "end": 432.86
+        "end": 432.89
       },
       {
         "text": "to",
@@ -6187,17 +6187,17 @@
       {
         "text": "be",
         "start": 433.04,
-        "end": 433.34
+        "end": 433.36
       },
       {
         "text": "a",
-        "start": 433.38,
-        "end": 433.44
+        "start": 433.44,
+        "end": 433.45
       },
       {
         "text": "mockup?",
-        "start": 433.46,
-        "end": 433.9
+        "start": 433.48,
+        "end": 433.91
       }
     ]
   },
@@ -6205,63 +6205,63 @@
     "beat": "BEAT 6",
     "speaker": "ALEX",
     "text": "Real. I keep bracing for that question — I think people expect a slide deck by now.",
-    "start": 434.56,
-    "end": 440.04,
+    "start": 434.52,
+    "end": 440.02,
     "words": [
       {
         "text": "Real.",
-        "start": 434.56,
-        "end": 434.88
+        "start": 434.52,
+        "end": 435.58
       },
       {
         "text": "I",
-        "start": 435.62,
-        "end": 435.72
+        "start": 435.74,
+        "end": 435.75
       },
       {
         "text": "keep",
         "start": 435.82,
-        "end": 436.06
+        "end": 436.09
       },
       {
         "text": "bracing",
-        "start": 436.08,
-        "end": 436.46
+        "start": 436.1,
+        "end": 436.49
       },
       {
         "text": "for",
         "start": 436.5,
-        "end": 436.58
+        "end": 436.61
       },
       {
         "text": "that",
         "start": 436.64,
-        "end": 436.76
+        "end": 436.77
       },
       {
         "text": "question",
         "start": 436.8,
-        "end": 437.26
+        "end": 437.8
       },
       {
         "text": "—",
-        "start": 437.78,
-        "end": 437.78099999999995
+        "start": 437.81,
+        "end": 437.811
       },
       {
         "text": "I",
-        "start": 437.86,
-        "end": 437.88
+        "start": 437.92,
+        "end": 437.93
       },
       {
         "text": "think",
-        "start": 437.94,
-        "end": 438.12
+        "start": 437.96,
+        "end": 438.15
       },
       {
         "text": "people",
         "start": 438.16,
-        "end": 438.44
+        "end": 438.45
       },
       {
         "text": "expect",
@@ -6270,8 +6270,8 @@
       },
       {
         "text": "a",
-        "start": 438.9,
-        "end": 438.98
+        "start": 439.02,
+        "end": 439.03
       },
       {
         "text": "slide",
@@ -6280,18 +6280,18 @@
       },
       {
         "text": "deck",
-        "start": 439.38,
-        "end": 439.6
+        "start": 439.4,
+        "end": 439.63
       },
       {
         "text": "by",
         "start": 439.64,
-        "end": 439.74
+        "end": 439.78
       },
       {
         "text": "now.",
         "start": 439.82,
-        "end": 440.04
+        "end": 440.02
       }
     ]
   },
@@ -6299,17 +6299,17 @@
     "beat": "BEAT 6",
     "speaker": "DEV",
     "text": "Fair enough.",
-    "start": 440.98,
+    "start": 441,
     "end": 441.5,
     "words": [
       {
         "text": "Fair",
-        "start": 440.98,
-        "end": 441.2
+        "start": 441,
+        "end": 441.14
       },
       {
         "text": "enough.",
-        "start": 441.21,
+        "start": 441.16,
         "end": 441.5
       }
     ]
@@ -6318,13 +6318,13 @@
     "beat": "BEAT 6",
     "speaker": "ALEX",
     "text": "There's a link right below this, whenever you want to hear it. About eight minutes.",
-    "start": 441.94,
+    "start": 441.96,
     "end": 446.1,
     "words": [
       {
         "text": "There's",
-        "start": 441.94,
-        "end": 442.1
+        "start": 441.96,
+        "end": 442.12
       },
       {
         "text": "a",
@@ -6344,7 +6344,7 @@
       {
         "text": "below",
         "start": 442.72,
-        "end": 442.98
+        "end": 443
       },
       {
         "text": "this,",
@@ -6353,8 +6353,8 @@
       },
       {
         "text": "whenever",
-        "start": 443.5,
-        "end": 443.78
+        "start": 443.52,
+        "end": 443.8
       },
       {
         "text": "you",
@@ -6363,7 +6363,7 @@
       },
       {
         "text": "want",
-        "start": 443.94,
+        "start": 443.96,
         "end": 444.04
       },
       {
@@ -6378,7 +6378,7 @@
       },
       {
         "text": "it.",
-        "start": 444.38,
+        "start": 444.4,
         "end": 444.52
       },
       {
@@ -6408,17 +6408,17 @@
       {
         "text": "I",
         "start": 446.68,
-        "end": 446.72
+        "end": 446.74
       },
       {
         "text": "think",
-        "start": 446.74,
+        "start": 446.76,
         "end": 446.88
       },
       {
         "text": "I'll",
         "start": 446.9,
-        "end": 446.98
+        "end": 447
       },
       {
         "text": "give",
@@ -6438,7 +6438,7 @@
       {
         "text": "listen",
         "start": 447.28,
-        "end": 447.5
+        "end": 447.52
       },
       {
         "text": "tonight.",
@@ -6452,7 +6452,7 @@
     "speaker": "ALEX",
     "text": "Good. Let me know what you think.",
     "start": 448.4,
-    "end": 450,
+    "end": 449.98,
     "words": [
       {
         "text": "Good.",
@@ -6466,17 +6466,17 @@
       },
       {
         "text": "me",
-        "start": 449.24,
-        "end": 449.3
+        "start": 449.22,
+        "end": 449.28
       },
       {
         "text": "know",
-        "start": 449.36,
-        "end": 449.42
+        "start": 449.35,
+        "end": 449.44
       },
       {
         "text": "what",
-        "start": 449.46,
+        "start": 449.45,
         "end": 449.54
       },
       {
@@ -6486,8 +6486,8 @@
       },
       {
         "text": "think.",
-        "start": 449.68,
-        "end": 450
+        "start": 449.7,
+        "end": 449.98
       }
     ]
   },
@@ -6495,17 +6495,17 @@
     "beat": "BEAT 6",
     "speaker": "DEV",
     "text": "Alex, thanks for coming on.",
-    "start": 450.79,
-    "end": 452.36,
+    "start": 450.84,
+    "end": 452.38,
     "words": [
       {
         "text": "Alex,",
-        "start": 450.79,
+        "start": 450.84,
         "end": 451.2
       },
       {
         "text": "thanks",
-        "start": 451.62,
+        "start": 451.64,
         "end": 451.8
       },
       {
@@ -6521,7 +6521,7 @@
       {
         "text": "on.",
         "start": 452.16,
-        "end": 452.36
+        "end": 452.38
       }
     ]
   },
